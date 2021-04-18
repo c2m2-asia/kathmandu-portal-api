@@ -1,0 +1,25 @@
+version: "3.9"
+
+services: 
+    api:
+        container_name: c2m2-ktm-api
+        image: ""
+        command: bash -c "dockerize -wait tcp://apidb:5432 -timeout 10s && python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+        env_file: 
+            - ./.env
+        ports:
+            - 3000:3000
+        depends_on:
+            - apidb
+        links:
+            - apidb:apidb
+
+    apidb:
+        container_name: apidb
+        image: "postgres:12.4"
+        env_file: 
+            - ./.env
+        ports:
+            - 5432:5432
+        volumes:
+            - ./psql_data:/var/lib/postgresql/data
