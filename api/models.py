@@ -5,6 +5,7 @@ from django.db import models
 
 # Create your models here.
 class UnivariateWorkers (models.Model):
+    id = models.IntegerField(primary_key=True)
     variable = models.TextField()
     value = models.TextField()
     total = models.IntegerField()
@@ -18,6 +19,7 @@ class UnivariateWorkers (models.Model):
         managed = False
 
 class BivariateWorkers (models.Model):
+    id = models.IntegerField(primary_key=True)
     x_variable = models.TextField()
     x_value = models.TextField()
     x_label_ne = models.TextField()
