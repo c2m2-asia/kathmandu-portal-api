@@ -5,14 +5,14 @@ from django.db import models
 
 # Create your models here.
 class UnivariateWorkers (models.Model):
-    id = models.IntegerField(primary_key=True)
+    choice_code = models.IntegerField(primary_key=True)
     variable = models.TextField()
     value = models.TextField()
     total = models.IntegerField()
     perc_of_total = models.FloatField()
     label_ne = models.TextField()
     label_en = models.TextField()
-
+    variable_group = models.TextField()
     class Meta:
         db_table = 'workers_univariate_stats'
         unique_together = (('variable', 'value'),)

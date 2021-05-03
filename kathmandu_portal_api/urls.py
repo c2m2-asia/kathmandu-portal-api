@@ -22,9 +22,11 @@ from rest_framework.routers import DefaultRouter
 router = DefaultRouter()
 
 # Register viewset with Router
-router.register('univariate', views.UnivariateViewSet, basename='univariateworkers')
+router.register('viz/distributions', views.UnivariateViewSet, basename='univariateworkers')
+router.register('viz/relationships', views.BivariateViewSet, basename='bivariateworkers')
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^workers/', include(router.urls)),
+    url(r'^api/v1/', include(router.urls)),
+    # url(r'^api/v1/',include('api.urls')),
 ]
