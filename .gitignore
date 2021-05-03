@@ -167,5 +167,5 @@ Thumbs.db
 !.vscode/extensions.json
 *.code-workspace
 
-.psql/
+.psql_data/
 # End of https://www.toptal.com/developers/gitignore/api/django,vscode
