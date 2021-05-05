@@ -7,6 +7,7 @@ from django.apps import apps
 from rest_framework import viewsets
 from rest_framework.response import Response
 from . import serializers
+from itertools import groupby
 
 import logging
 
@@ -21,21 +22,71 @@ class UnivariateViewSet(viewsets.ViewSet):
         var_group = request.query_params.get('var_group')
 
         data_labels = ('total', 'perc_of_total', 'label_ne', 'label_en')
+        variable_labels = ('variable')
 
-        # logging.warning('data:', serializer.data)
+        
+        # response = {}
+        # for data in serializer.data:
+        #     # logging.warning('data:', data['variable'])
+        #     variable = data['variable']
+            
+        #     dist = {
+        #         'variable': variable,
+        #         'title': 'title'
+        #     }
+
+        # response[variable].append(dist)
+            # if data['variable_group'] == var_group:
+            #     if variable not in dist:
+            #         dist[variable] = []
+            #     d_labels = {}
+            #     for label in data_labels:
+            #         d_labels[label] = data[label]
+
+            #     dist[variable].append(d_labels)
+
+            #     logging.warning('dist:', dist)
+            #     # for d in dist:
+
+
         response = {}
+        dist = []
         for data in serializer.data:
-            logging.warning('data:', data['variable'])
+            # logging.warning('data:', data['variable'])
             if data['variable_group'] == var_group:
                 if data['variable'] not in response:
                     response[data['variable']] = []
                 d_labels = {}
                 for label in data_labels:
                     d_labels[label] = data[label]
+                    
+                    distributions = {
+                        'variable': data['variable'],
+                        'title': 'title',
+                        'dist': d_labels
+                    }
+                # response[data['variable']].append(d_labels)
+            dist.append(distributions)
 
-                response[data['variable']].append(d_labels)
+        # final = []
+        # for key, group in groupby(dist, lambda x: x['variable']):
+        #     logging.warning('group:',group)
+        #     final.append(group)
 
-        return Response({'message': 'Successfully fetched', 'code': 200, 'data': response})
+        # logging.warning('data:', serializer.data)
+        # response = {}
+        # for data in serializer.data:
+        #     logging.warning('data:', data['variable'])
+        #     if data['variable_group'] == var_group:
+        #         if data['variable'] not in response:
+        #             response[data['variable']] = []
+        #         d_labels = {}
+        #         for label in data_labels:
+        #             d_labels[label] = data[label]
+
+        #         response[data['variable']].append(d_labels)
+
+        return Response({'message': 'Successfully fetched', 'code': 200, 'data': dist})
 
 class BivariateViewSet(viewsets.ViewSet):
     def list(Self, request):

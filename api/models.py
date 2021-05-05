@@ -19,17 +19,18 @@ class UnivariateWorkers (models.Model):
         managed = False
 
 class BivariateWorkers (models.Model):
-    id = models.IntegerField(primary_key=True)
+    choice_code = models.IntegerField(primary_key=True)
     x_variable = models.TextField()
     x_value = models.TextField()
     x_label_ne = models.TextField()
     x_label_en = models.TextField()
     y_variable = models.TextField()
     y_value = models.TextField()
-    y_label_en = models.TextField()
     y_label_ne = models.TextField()
+    y_label_en = models.TextField()
     total = models.IntegerField()
     perc_of_total = models.FloatField()
+    variable_group = models.TextField()
 
     class Meta:
         db_table = 'workers_bivariate_stats'
