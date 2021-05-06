@@ -68,6 +68,7 @@ class BivariateViewSet(viewsets.ViewSet):
         dimension_variables = ('m_gender', 'm_edu_levl', 'm_years_of_experience', 'm_age')
 
         univariate = {}
+        univariate_final ={}
         # for dimen_var in dimension_variables:
         #     if dimen_var == dimension:
         for data in serializer_univariate.data:
