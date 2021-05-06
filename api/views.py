@@ -79,6 +79,9 @@ class BivariateViewSet(viewsets.ViewSet):
                     d_labels[label] = data[label]
 
                 univariate[data['variable']].append(d_labels)
+                univariate_final[data['variable']] = filter(None, univariate[data['variable']])
+
+        # univariate_final = filter(None, univariate)
 
         bivariate = {}
         for data in serializer_bivariate.data:
@@ -90,8 +93,9 @@ class BivariateViewSet(viewsets.ViewSet):
                     d_labels[label] = data[label]
 
                 bivariate[data['y_variable']].append(d_labels)
+                # bivariate_final = filter(None, bivariate[data['y_variable']])
 
-        response = {"univariate": univariate, "bivariate": bivariate}
+        response = {"univariate": univariate_final, "bivariate": bivariate}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
 
 
