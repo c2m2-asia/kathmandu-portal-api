@@ -28,8 +28,8 @@ class BivariateWorkers (models.Model):
     y_value = models.TextField()
     y_label_ne = models.TextField()
     y_label_en = models.TextField()
-    total = models.IntegerField()
-    perc_of_total = models.FloatField()
+    total = models.TextField()
+    perc_of_total = models.TextField()
     variable_group = models.TextField()
 
     class Meta:
