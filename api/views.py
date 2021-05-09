@@ -49,6 +49,8 @@ class UnivariateViewSet(viewsets.ViewSet):
                 #     dist.append(distributions)
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response})
 
+
+
 class BivariateViewSet(viewsets.ViewSet):
     def list(Self, request):
         model_bivariateworkers = apps.get_model('api', 'BivariateWorkers')
@@ -62,6 +64,13 @@ class BivariateViewSet(viewsets.ViewSet):
         survey = request.query_params.get('survey')
         var_group = request.query_params.get('var_group')
         dimension = request.query_params.get('dimension')
+
+        dimensional_variables_mapping = {
+            'm_gender': 'gender',
+            'm_edu_levl': 'education_level',
+            'm_years_of_experience': 'years_of_experience',
+            'm_age': 'age'
+        }
 
         data_labels_univariate = ('total', 'perc_of_total', 'label_ne', 'label_en')
         data_labels_bivariate = ('total', 'perc_of_total', 'x_label_ne', 'x_label_en', 'y_label_ne', 'y_label_en')
@@ -86,7 +95,7 @@ class BivariateViewSet(viewsets.ViewSet):
 
         bivariate = {}
         for data in serializer_bivariate.data:
-            if data['variable_group'] == var_group:
+            if data['variable_group'] == var_group and data['x_variable'] == dimension:
                 if data['y_variable'] not in bivariate:
                     bivariate[data['y_variable']] = []
                 d_labels = {}
@@ -100,45 +109,46 @@ class BivariateViewSet(viewsets.ViewSet):
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
 
 
-# Function to convert a CSV to JSON
-# Takes the file paths as arguments
-def make_json(csvFilePath, jsonFilePath):
+
+# # Function to convert a CSV to JSON
+# # Takes the file paths as arguments
+# def make_json(csvFilePath, jsonFilePath):
 	
-    # csvFilePath = r'Names.csv'
-    # jsonFilePath = r'Names.json'
-	# create a dictionary
-	data = {}
+#     # csvFilePath = r'Names.csv'
+#     # jsonFilePath = r'Names.json'
+# 	# create a dictionary
+# 	data = {}
 	
-	# Open a csv reader called DictReader
-	with open(csvFilePath, encoding='utf-8') as csvf:
-		csvReader = csv.DictReader(csvf)
+# 	# Open a csv reader called DictReader
+# 	with open(csvFilePath, encoding='utf-8') as csvf:
+# 		csvReader = csv.DictReader(csvf)
 		
-		# Convert each row into a dictionary
-		# and add it to data
-		for rows in csvReader:
+# 		# Convert each row into a dictionary
+# 		# and add it to data
+# 		for rows in csvReader:
 			
-			# Assuming a column named 'No' to
-			# be the primary key
-			key = rows['No']
-			data[key] = rows
+# 			# Assuming a column named 'No' to
+# 			# be the primary key
+# 			key = rows['No']
+# 			data[key] = rows
 
-	# Open a json writer, and use the json.dumps()
-	# function to dump data
-	with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
-		jsonf.write(json.dumps(data, indent=4))
+# 	# Open a json writer, and use the json.dumps()
+# 	# function to dump data
+# 	with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
+# 		jsonf.write(json.dumps(data, indent=4))
 		
-    # return json.dumps(data, indent=4)
-# Driver Code
+#     # return json.dumps(data, indent=4)
+# # Driver Code
 
-# Decide the two file paths according to your
-# computer system
-# csvFilePath = r'Names.csv'
-# jsonFilePath = r'Names.json'
+# # Decide the two file paths according to your
+# # computer system
+# # csvFilePath = r'Names.csv'
+# # jsonFilePath = r'Names.json'
 
-# # Call the make_json function
-# make_json(csvFilePath, jsonFilePath)
-class MetaData(viewsets.ViewSet):
-     def list(Self, request):
-        #  csvFilePath = '/home/samyoga/KLL/kathmandu_portal_api/'
-         response = make_json(csvFilePath, jsonFilePath)
+# # # Call the make_json function
+# # make_json(csvFilePath, jsonFilePath)
+# class MetaData(viewsets.ViewSet):
+#      def list(Self, request):
+#         #  csvFilePath = '/home/samyoga/KLL/kathmandu_portal_api/'
+#          response = make_json(csvFilePath, jsonFilePath)
 
