@@ -100,7 +100,7 @@ class BivariateViewSet(viewsets.ViewSet):
         univariate_final = merge_dict(univariate_filter, title_response)
 
         bivariate = {}
-        chart_data = {}
+        chart_data = []
         for data in serializer_bivariate.data:
             if data['variable_group'] == var_group and data['x_variable'] == dimension:
                 if data['y_variable'] not in bivariate:
@@ -114,24 +114,30 @@ class BivariateViewSet(viewsets.ViewSet):
 
                 bivariate[data['y_variable']].append(d_labels)
         bivariate_final = merge_dict(bivariate, title_response)
-        
+
+        # for _item in bivariate_final:
+        #     compute_data = compute_bivariate_data(_item['dist'])
+        # chart_data.append(compute_data)
+
         response = {"univariate": univariate_final, "bivariate": bivariate_final}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
 
 def compute_bivariate_data(data):
     bivariate = []
+    chart_data = {}
     dist = {}
-
-    total_value = 0
-    perc = 0
-    for yvariable in data['y_label_en']:
-        total_value += int(data['total'])
-        perc += float(data['perc_of_total'])
-        dist['y_label_en'] = data['y_label_en']
-        dist['y_label_ne'] = data['y_label_ne']
-    dist['total_value'] = total_value
-    dist['perc'] = perc
-    bivariate.append(dist)
+    
+    for d in data:
+        total_value = 0
+        perc = 0
+        for yvariable in d['y_label_en']:
+            total_value += int(d['total'])
+            perc += float(d['perc_of_total'])
+            dist['y_label_en'] = d['y_label_en']
+            dist['y_label_ne'] = d['y_label_ne']
+        dist['total_value'] = total_value
+        dist['perc'] = perc
+        bivariate.append(dist)
 
     return bivariate
 
@@ -149,14 +155,13 @@ def make_json(csvFilePath):
 
 def merge_bivariate_dict(dict1, dict2):
     keys = set(dict1.keys()).intersection(set(dict2.keys()))
-    dict3=[]
-    # chart_data = {}
+    dict3={}
     for key in keys:
-        chart_data = {}
-        chart_data['var_label'] = dict2[key]
-        chart_data['dist'] = dict1[key]
-        dict3.append(chart_data)
-
+        if key not in dict3:
+            dict3[key] = []
+        new_dict = dict([i for i in dict2[key].items()])
+        new_dict['dist'] = dict1[key]
+        dict3[key].append(new_dict)
     return dict3
 
 def merge_dict(dict1, dict2):
