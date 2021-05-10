@@ -12,10 +12,18 @@ from itertools import groupby
 import logging
 import csv
 import json
+import os
 
 # Create your views here.
 class UnivariateViewSet(viewsets.ViewSet):
     def list(Self, request):
+       
+        # get project root path
+        root_path = os.path.dirname(os.path.realpath(__file__))
+        variable_title_csv_file_path = root_path + '/../variable_title_mapping.csv'
+
+        title_response = make_json(variable_title_csv_file_path)
+
         model_univariateworkers = apps.get_model('api', 'UnivariateWorkers')
         workers_univariate_stats = model_univariateworkers.objects.all()
         serializer = getattr(serializers, 'UnivariateWorkers')(workers_univariate_stats, many=True)
@@ -24,7 +32,7 @@ class UnivariateViewSet(viewsets.ViewSet):
         var_group = request.query_params.get('var_group')
 
         data_labels = ('total', 'perc_of_total', 'label_ne', 'label_en')
-        variable_labels = ('variable')
+        variable_labels = ('variable', 'ques_en', 'ques_ne')
 
         dist = []
         response = {}
@@ -36,18 +44,11 @@ class UnivariateViewSet(viewsets.ViewSet):
                 d_labels = {}
                 for label in data_labels:
                     d_labels[label] = data[label]
-
                 response[data['variable']].append(d_labels)
+                    
+        final_response = merge_dict(response, title_response)
 
-                # if [data['variable']] == response[data['variable']]:
-                #     distributions = {
-                #         'variable': data['variable'],
-                #         'title': 'title',
-                #         'dist': response
-                #     }
-
-                #     dist.append(distributions)
-        return Response({'message': 'Successfully fetched', 'code': 200, 'data': response})
+        return Response({'message': 'Successfully fetched', 'code': 200, 'data': final_response})
 
 
 
@@ -78,8 +79,6 @@ class BivariateViewSet(viewsets.ViewSet):
 
         univariate = {}
         univariate_final ={}
-        # for dimen_var in dimension_variables:
-        #     if dimen_var == dimension:
         for data in serializer_univariate.data:
             if data['variable'] not in univariate:
                 univariate[data['variable']] = []
@@ -91,64 +90,75 @@ class BivariateViewSet(viewsets.ViewSet):
                 univariate[data['variable']].append(d_labels)
                 univariate_final[data['variable']] = filter(None, univariate[data['variable']])
 
-        # univariate_final = filter(None, univariate)
-
         bivariate = {}
         for data in serializer_bivariate.data:
             if data['variable_group'] == var_group and data['x_variable'] == dimension:
                 if data['y_variable'] not in bivariate:
                     bivariate[data['y_variable']] = []
+
+                chart_data = compute_bivariate_data(data)
                 d_labels = {}
                 for label in data_labels_bivariate:
                     d_labels[label] = data[label]
 
                 bivariate[data['y_variable']].append(d_labels)
-                # bivariate_final = filter(None, bivariate[data['y_variable']])
+                bivariate_final = {** chart_data, **bivariate}
 
-        response = {"univariate": univariate_final, "bivariate": bivariate}
+        response = {"univariate": univariate_final, "bivariate": bivariate_final}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
 
+def compute_bivariate_data(data):
+    chart_data = {}
+    bivariate = []
+    dist = {}
 
+    total_value = 0
+    perc = 0
+    for yvariable in data['y_variable']:
+        total_value += int(data['total'])
+        perc += int(data['perc_of_total'])
+    dist['total_value'] = total_value
+    dist['perc'] = perc
+    chart_data[d['y_variable']].append(dist)
 
-# # Function to convert a CSV to JSON
-# # Takes the file paths as arguments
-# def make_json(csvFilePath, jsonFilePath):
-	
-#     # csvFilePath = r'Names.csv'
-#     # jsonFilePath = r'Names.json'
-# 	# create a dictionary
-# 	data = {}
-	
-# 	# Open a csv reader called DictReader
-# 	with open(csvFilePath, encoding='utf-8') as csvf:
-# 		csvReader = csv.DictReader(csvf)
-		
-# 		# Convert each row into a dictionary
-# 		# and add it to data
-# 		for rows in csvReader:
-			
-# 			# Assuming a column named 'No' to
-# 			# be the primary key
-# 			key = rows['No']
-# 			data[key] = rows
+    return chart_data
 
-# 	# Open a json writer, and use the json.dumps()
-# 	# function to dump data
-# 	with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
-# 		jsonf.write(json.dumps(data, indent=4))
-		
-#     # return json.dumps(data, indent=4)
-# # Driver Code
+def make_json(csvFilePath):
+    data = {}
+    with open(csvFilePath, encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        
+        for rows in csvReader:
+            # data.append(rows)
+            key = rows['variable']
+            data[key] = rows
+            
+    return data
 
-# # Decide the two file paths according to your
-# # computer system
-# # csvFilePath = r'Names.csv'
-# # jsonFilePath = r'Names.json'
+def merge_dict(dict1, dict2):
+    # keys = set(dict1.keys()).intersection(set(dict2.keys()))
+    # dict3=[]
+    # # chart_data = {}
+    # for key in keys:
+    #     new_dict = dict([i for i in dict1[key].items()])
+    #     new_dict['dist'] = dict2[key]
+    #     dict3.append(new_dict)
+    #     # dict3.append(chart_data)
 
-# # # Call the make_json function
-# # make_json(csvFilePath, jsonFilePath)
-# class MetaData(viewsets.ViewSet):
-#      def list(Self, request):
-#         #  csvFilePath = '/home/samyoga/KLL/kathmandu_portal_api/'
-#          response = make_json(csvFilePath, jsonFilePath)
+    keys = set(dict1.keys()).intersection(set(dict2.keys()))
+    dict3=[]
+    # chart_data = {}
+    for key in keys:
+        chart_data = {}
+        chart_data['var_label'] = dict2[key]
+        chart_data['dist'] = dict1[key]
+        dict3.append(chart_data)
 
+    # dict3 = {**dict1, **dict2}
+    # chart_data = {}
+    # for key, value in dict3.items():
+    #     if key in dict1 and key in dict2:
+    #         chart_data['dist'] = dict1[key]
+    #         dict3[key] = [value, chart_data]
+
+    return dict3

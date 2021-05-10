@@ -7,5 +7,6 @@
         "postgres",
         "psql",
         "psql data"
-    ]
+    ],
+    "python.pythonPath": "venv/bin/python"
 }
