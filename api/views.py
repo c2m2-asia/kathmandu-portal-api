@@ -9,6 +9,8 @@ from rest_framework.response import Response
 from . import serializers
 from itertools import groupby
 
+import pandas as pd
+
 import logging
 import csv
 import json
@@ -106,40 +108,94 @@ class BivariateViewSet(viewsets.ViewSet):
                 if data['y_variable'] not in bivariate:
                     bivariate[data['y_variable']] = []
 
-                # computed_data = compute_bivariate_data(data)
-                # chart_data[data['y_label_en']] = computed_data
                 d_labels = {}
                 for label in data_labels_bivariate:
                     d_labels[label] = data[label]
 
                 bivariate[data['y_variable']].append(d_labels)
-        bivariate_final = merge_dict(bivariate, title_response)
+
+        computed_data = extract_all(bivariate)
+                # chart_data[data['y_label_en']] = computed_data
+        bivariate_final = merge_dict(computed_data, title_response)
 
         # for _item in bivariate_final:
         #     compute_data = compute_bivariate_data(_item['dist'])
         # chart_data.append(compute_data)
 
-        response = {"univariate": univariate_final, "bivariate": bivariate_final}
+        response = {"univariate": univariate_final,"bivariate": bivariate_final}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
+
+def extract_all(dict1):
+    
+    def extract_total(dict2):
+        keys = dict2.keys()
+        for key in keys:
+            df = pd.DataFrame(dict2[key])
+            df = df.astype({'total': 'int32', 'perc_of_total':'float32'})
+            total_df = pd.DataFrame(df.groupby(['y_label_en', 'y_label_ne'])[['total', 'perc_of_total']].sum()).reset_index()
+            total_df['dist'] = total_df['y_label_en'].apply(func=lambda x: df[df['y_label_en']==x].to_dict())
+            return total_df
+
+    def split_dict(final_dict):
+        new_list = []
+        for index in list(range(len(final_dict['y_label_en']))):
+            new_dict1 = {}
+            for item in final_dict.items():
+                new_dict1[item[0]] = item[1][index]
+            new_list.append(new_dict1)
+        return new_list
+
+    def prepare_dict(new_list):
+        final_list = []
+        for dicts in new_list:
+            sub_list = []
+            new_dict = dicts.copy()
+            for index in list(range(len(new_list[0]['dist']['x_label_en']))):
+                dict_1 = {}
+                for i in dicts['dist'].items():
+                    if i[0] != 'y_label_en'and i[0] != 'y_label_ne':
+                        dict_1[i[0]] = [x for x in i[1].values()][index]
+                sub_list.append(dict_1)
+            new_dict['dist'] = sub_list
+            final_list.append(new_dict)
+        return final_list
+        
+    final_data = {}
+    for key in dict1.keys():
+        dict3 = {}
+        dict3[key] = dict1[key]
+        final_dict =  extract_total(dict2=dict3)
+        new_list = split_dict(final_dict)
+        final_list = prepare_dict(new_list)
+        final_data[key] = final_list
+    return final_data
 
 def compute_bivariate_data(data):
     bivariate = []
     chart_data = {}
     dist = {}
-    
-    for d in data:
-        total_value = 0
-        perc = 0
-        for yvariable in d['y_label_en']:
-            total_value += int(d['total'])
-            perc += float(d['perc_of_total'])
-            dist['y_label_en'] = d['y_label_en']
-            dist['y_label_ne'] = d['y_label_ne']
-        dist['total_value'] = total_value
-        dist['perc'] = perc
-        bivariate.append(dist)
 
-    return bivariate
+    keys = set(data.keys())
+
+    for key in keys:
+        
+        for list_value in data[key]:
+            if list_value['y_label_en'] not in chart_data:
+                chart_data[list_value['y_label_en']] = []
+            total = 0
+            perc = 0
+            for y_label in list_value['y_label_en']:
+                total += int(list_value['total'])
+                perc += float(list_value['perc_of_total'])
+            dist['y_label_ne'] = list_value['y_label_ne']
+            dist['y_label_en'] = list_value['y_label_en']
+            dist['total'] = total
+            dist['perc'] = perc
+    
+            chart_data[list_value['y_label_en']].append(dist)
+
+        
+    return chart_data
 
 def make_json(csvFilePath):
     data = {}
