@@ -102,7 +102,6 @@ class BivariateViewSet(viewsets.ViewSet):
         univariate_final = merge_dict(univariate_filter, title_response)
 
         bivariate = {}
-        chart_data = []
         for data in serializer_bivariate.data:
             if data['variable_group'] == var_group and data['x_variable'] == dimension:
                 if data['y_variable'] not in bivariate:
@@ -115,12 +114,8 @@ class BivariateViewSet(viewsets.ViewSet):
                 bivariate[data['y_variable']].append(d_labels)
 
         computed_data = extract_all(bivariate)
-                # chart_data[data['y_label_en']] = computed_data
+               
         bivariate_final = merge_dict(computed_data, title_response)
-
-        # for _item in bivariate_final:
-        #     compute_data = compute_bivariate_data(_item['dist'])
-        # chart_data.append(compute_data)
 
         response = {"univariate": univariate_final,"bivariate": bivariate_final}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
@@ -170,33 +165,6 @@ def extract_all(dict1):
         final_data[key] = final_list
     return final_data
 
-def compute_bivariate_data(data):
-    bivariate = []
-    chart_data = {}
-    dist = {}
-
-    keys = set(data.keys())
-
-    for key in keys:
-        
-        for list_value in data[key]:
-            if list_value['y_label_en'] not in chart_data:
-                chart_data[list_value['y_label_en']] = []
-            total = 0
-            perc = 0
-            for y_label in list_value['y_label_en']:
-                total += int(list_value['total'])
-                perc += float(list_value['perc_of_total'])
-            dist['y_label_ne'] = list_value['y_label_ne']
-            dist['y_label_en'] = list_value['y_label_en']
-            dist['total'] = total
-            dist['perc'] = perc
-    
-            chart_data[list_value['y_label_en']].append(dist)
-
-        
-    return chart_data
-
 def make_json(csvFilePath):
     data = {}
     with open(csvFilePath, encoding='utf-8') as csvf:
@@ -209,34 +177,12 @@ def make_json(csvFilePath):
             
     return data
 
-def merge_bivariate_dict(dict1, dict2):
-    keys = set(dict1.keys()).intersection(set(dict2.keys()))
-    dict3={}
-    for key in keys:
-        if key not in dict3:
-            dict3[key] = []
-        new_dict = dict([i for i in dict2[key].items()])
-        new_dict['dist'] = dict1[key]
-        dict3[key].append(new_dict)
-    return dict3
-
 def merge_dict(dict1, dict2):
 
     keys = set(dict1.keys()).intersection(set(dict2.keys()))
     dict3=[]
     for key in keys:
         new_dict = dict([i for i in dict2[key].items()])
-        new_dict['dist'] = dict1[key]
+        new_dict['chart_data'] = dict1[key]
         dict3.append(new_dict)
     return dict3
-
-    # keys = set(dict1.keys()).intersection(set(dict2.keys()))
-    # dict3=[]
-    # # chart_data = {}
-    # for key in keys:
-    #     chart_data = {}
-    #     chart_data['var_label'] = dict2[key]
-    #     chart_data['dist'] = dict1[key]
-    #     dict3.append(chart_data)
-
-    # return dict3
