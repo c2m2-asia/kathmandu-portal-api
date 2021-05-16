@@ -7,6 +7,7 @@ from django.apps import apps
 from rest_framework import viewsets
 from rest_framework.response import Response
 from . import serializers
+from .filters import MyFilter
 from itertools import groupby
 
 import pandas as pd
@@ -20,9 +21,7 @@ import os
 class UnivariateViewSet(viewsets.ViewSet):
     def list(Self, request):
 
-        """
-        var_group
-        """ 
+        filter_backends = (MyFilter,)
        
         # get project root path
         root_path = os.path.dirname(os.path.realpath(__file__))
@@ -55,14 +54,14 @@ class UnivariateViewSet(viewsets.ViewSet):
         dist = []
         response = {}
         for data in serializer.data:
-            logging.warning('data:', data['variable'])
-            if data['variable_group'].lower() == var_group:
-                if data['variable'] not in response:
-                    response[data['variable']] = []
-                d_labels = {}
-                for label in data_labels:
-                    d_labels[label] = data[label]
-                response[data['variable']].append(d_labels)
+            if data['variable_group']:
+                if data['variable_group'].lower() == var_group:
+                    if data['variable'] not in response:
+                        response[data['variable']] = []
+                    d_labels = {}
+                    for label in data_labels:
+                        d_labels[label] = data[label]
+                    response[data['variable']].append(d_labels)
                     
         final_response = merge_dict(response, title_response)
 
@@ -119,7 +118,8 @@ class BivariateViewSet(viewsets.ViewSet):
 
         data_labels_univariate = ('total', 'perc_of_total', 'label_ne', 'label_en')
         data_labels_bivariate = ('total', 'perc_of_total', 'x_label_ne', 'x_label_en', 'y_label_en', 'y_label_ne')
-        dimension_variables = ('m_gender', 'm_edu_levl', 'm_years_of_experience', 'm_age')
+        dimension_variables_workers = ('m_gender', 'm_edu_levl', 'm_years_of_experience', 'm_age')
+        dimension_variables_businesses = ('m_biz_type', 'm_biz_years_in_operation')
 
         univariate = {}
         univariate_filter ={}
@@ -139,16 +139,17 @@ class BivariateViewSet(viewsets.ViewSet):
         bivariate = {}
         bivariate_filter = {}
         for data in serializer_bivariate.data:
-            if data['variable_group'].lower() == var_group and data['x_variable'] == dimension:
-                if data['y_variable'] not in bivariate:
-                    bivariate[data['y_variable']] = []
+            if data['variable_group']:
+                if data['variable_group'].lower() == var_group and data['x_variable'] == dimension:
+                    if data['y_variable'] not in bivariate:
+                        bivariate[data['y_variable']] = []
 
-                d_labels = {}
-                for label in data_labels_bivariate:
-                    d_labels[label] = data[label]
+                    d_labels = {}
+                    for label in data_labels_bivariate:
+                        d_labels[label] = data[label]
 
-                bivariate[data['y_variable']].append(d_labels)
-                bivariate_filter[data['y_variable']] = filter(None, bivariate[data['y_variable']])
+                    bivariate[data['y_variable']].append(d_labels)
+                    bivariate_filter[data['y_variable']] = filter(None, bivariate[data['y_variable']])
 
         computed_data = extract_all(bivariate_filter)
                
