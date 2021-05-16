@@ -44,7 +44,7 @@ class UnivariateViewSet(viewsets.ViewSet):
 
         serializer = []
         title_response = {}
-        if survey == 'workforces':
+        if survey == 'workforce':
             serializer = workers_serializer
             title_response = make_json(variable_title_workers_csv_file_path)
         elif survey == 'businesses':
@@ -100,7 +100,7 @@ class BivariateViewSet(viewsets.ViewSet):
         serializer_univariate = []
         serializer_bivariate = []
         title_response = {}
-        if survey == 'workforces':
+        if survey == 'workforce':
             serializer_univariate = serializer_univariate_workers
             serializer_bivariate = serializer_bivariate_workers
             title_response = make_json(variable_title_workers_csv_file_path)
