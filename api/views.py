@@ -19,16 +19,23 @@ import os
 # Create your views here.
 class UnivariateViewSet(viewsets.ViewSet):
     def list(Self, request):
+
+        """
+        var_group
+        """ 
        
         # get project root path
         root_path = os.path.dirname(os.path.realpath(__file__))
-        variable_title_csv_file_path = root_path + '/../variable_title_mapping.csv'
-
-        title_response = make_json(variable_title_csv_file_path)
+        variable_title_workers_csv_file_path = root_path + '/../variable_title_mapping_workers.csv'
+        variable_title_businesses_csv_file_path = root_path + '/../variable_title_mapping_businesses.csv'
 
         model_univariateworkers = apps.get_model('api', 'UnivariateWorkers')
         workers_univariate_stats = model_univariateworkers.objects.all()
-        serializer = getattr(serializers, 'UnivariateWorkers')(workers_univariate_stats, many=True)
+        workers_serializer = getattr(serializers, 'UnivariateWorkers')(workers_univariate_stats, many=True)
+
+        model_univariatebusinesses = apps.get_model('api', 'UnivariateBusinesses')
+        businesses_univariate_stats = model_univariatebusinesses.objects.all()
+        businesses_serializer = getattr(serializers, 'UnivariateBusinesses')(businesses_univariate_stats, many=True)
 
         survey = request.query_params.get('survey')
         var_group = request.query_params.get('var_group')
@@ -36,11 +43,20 @@ class UnivariateViewSet(viewsets.ViewSet):
         data_labels = ('total', 'perc_of_total', 'label_ne', 'label_en')
         variable_labels = ('variable', 'ques_en', 'ques_ne')
 
+        serializer = []
+        title_response = {}
+        if survey == 'workforces':
+            serializer = workers_serializer
+            title_response = make_json(variable_title_workers_csv_file_path)
+        elif survey == 'businesses':
+            serializer = businesses_serializer
+            title_response = make_json(variable_title_businesses_csv_file_path)
+
         dist = []
         response = {}
         for data in serializer.data:
             logging.warning('data:', data['variable'])
-            if data['variable_group'] == var_group:
+            if data['variable_group'].lower() == var_group:
                 if data['variable'] not in response:
                     response[data['variable']] = []
                 d_labels = {}
@@ -59,21 +75,40 @@ class BivariateViewSet(viewsets.ViewSet):
 
         # get project root path
         root_path = os.path.dirname(os.path.realpath(__file__))
-        variable_title_csv_file_path = root_path + '/../variable_title_mapping.csv'
-
-        title_response = make_json(variable_title_csv_file_path)
+        variable_title_workers_csv_file_path = root_path + '/../variable_title_mapping_workers.csv'
+        variable_title_businesses_csv_file_path = root_path + '/../variable_title_mapping_businesses.csv'
 
         model_bivariateworkers = apps.get_model('api', 'BivariateWorkers')
         workers_bivariate_stats = model_bivariateworkers.objects.all()
-        serializer_bivariate = getattr(serializers, 'BivariateWorkers')(workers_bivariate_stats, many=True)
+        serializer_bivariate_workers = getattr(serializers, 'BivariateWorkers')(workers_bivariate_stats, many=True)
+
+        model_bivariatebusinesses = apps.get_model('api', 'BivariateBusinesses')
+        businesses_bivariate_stats = model_bivariatebusinesses.objects.all()
+        serializer_bivariate_businesses = getattr(serializers, 'BivariateBusinesses')(businesses_bivariate_stats, many=True)
 
         model_univariateworkers = apps.get_model('api', 'UnivariateWorkers')
         workers_univariate_stats = model_univariateworkers.objects.all()
-        serializer_univariate = getattr(serializers, 'UnivariateWorkers')(workers_univariate_stats, many=True)
+        serializer_univariate_workers = getattr(serializers, 'UnivariateWorkers')(workers_univariate_stats, many=True)
+
+        model_univariatebusinesses = apps.get_model('api', 'UnivariateBusinesses')
+        businesses_univariate_stats = model_univariatebusinesses.objects.all()
+        serializer_univariate_businesses = getattr(serializers, 'UnivariateBusinesses')(businesses_univariate_stats, many=True)
 
         survey = request.query_params.get('survey')
         var_group = request.query_params.get('var_group')
         dimension = request.query_params.get('dimension')
+
+        serializer_univariate = []
+        serializer_bivariate = []
+        title_response = {}
+        if survey == 'workforces':
+            serializer_univariate = serializer_univariate_workers
+            serializer_bivariate = serializer_bivariate_workers
+            title_response = make_json(variable_title_workers_csv_file_path)
+        elif survey == 'businesses':
+            serializer_univariate = serializer_univariate_businesses
+            serializer_bivariate = serializer_bivariate_businesses
+            title_response = make_json(variable_title_businesses_csv_file_path)
 
         dimensional_variables_mapping = {
             'm_gender': 'gender',
@@ -102,8 +137,9 @@ class BivariateViewSet(viewsets.ViewSet):
         univariate_final = merge_dict(univariate_filter, title_response)
 
         bivariate = {}
+        bivariate_filter = {}
         for data in serializer_bivariate.data:
-            if data['variable_group'] == var_group and data['x_variable'] == dimension:
+            if data['variable_group'].lower() == var_group and data['x_variable'] == dimension:
                 if data['y_variable'] not in bivariate:
                     bivariate[data['y_variable']] = []
 
@@ -112,8 +148,9 @@ class BivariateViewSet(viewsets.ViewSet):
                     d_labels[label] = data[label]
 
                 bivariate[data['y_variable']].append(d_labels)
+                bivariate_filter[data['y_variable']] = filter(None, bivariate[data['y_variable']])
 
-        computed_data = extract_all(bivariate)
+        computed_data = extract_all(bivariate_filter)
                
         bivariate_final = merge_dict(computed_data, title_response)
 

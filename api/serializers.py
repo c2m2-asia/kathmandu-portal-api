@@ -10,3 +10,13 @@ class BivariateWorkers(serializers.ModelSerializer):
     class Meta:
         model = models.BivariateWorkers
         fields = '__all__'
+
+class UnivariateBusinesses(serializers.ModelSerializer):
+    class Meta:
+        model = models.UnivariateBusinesses
+        fields = '__all__'
+
+class BivariateBusinesses(serializers.ModelSerializer):
+    class Meta:
+        model = models.BivariateBusinesses
+        fields = '__all__'
