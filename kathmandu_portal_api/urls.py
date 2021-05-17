@@ -10,9 +10,9 @@ from rest_framework.documentation import include_docs_urls
 # Swagger documentation setup
 schema_view = get_schema_view(
     openapi.Info(
-        title="Snippets API",
+        title="C2M2 Kathmandu",
         default_version='v1',
-        description="Test description",
+        description="API documentation for C2M2 Kathmandu Portal",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(email="contact@snippets.local"),
         license=openapi.License(name="MIT License"),
@@ -32,7 +32,7 @@ router.register('viz/relationships', views.BivariateViewSet, basename='bivariate
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^api/v1/', include(router.urls)),
-    url(r'^docs/', include_docs_urls(title='Kathmandu Portal API')),
+    url(r'^docs/', include_docs_urls(title='C2M2 Kathmandu')),
     url(r'^swagger(?P<format>\.json|\.yaml)$', schema_view.without_ui(cache_timeout=0), name='schema-json'),
     url(r'^swagger/$', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
     url(r'^redoc/$', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),

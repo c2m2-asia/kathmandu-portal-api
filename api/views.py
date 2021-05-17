@@ -19,9 +19,9 @@ import os
 
 # Create your views here.
 class UnivariateViewSet(viewsets.ViewSet):
-    def list(Self, request):
+    filter_backends = (MyFilter,)
 
-        filter_backends = (MyFilter,)
+    def list(Self, request):
        
         # get project root path
         root_path = os.path.dirname(os.path.realpath(__file__))
@@ -36,8 +36,10 @@ class UnivariateViewSet(viewsets.ViewSet):
         businesses_univariate_stats = model_univariatebusinesses.objects.all()
         businesses_serializer = getattr(serializers, 'UnivariateBusinesses')(businesses_univariate_stats, many=True)
 
-        survey = request.query_params.get('survey')
-        var_group = request.query_params.get('var_group')
+        survey = request.GET.get('survey')
+        var_group = request.GET.get('var_group')
+        # survey = request.query_params.get('survey')
+        # var_group = request.query_params.get('var_group')
 
         data_labels = ('total', 'perc_of_total', 'label_ne', 'label_en')
         variable_labels = ('variable', 'ques_en', 'ques_ne')
@@ -93,9 +95,12 @@ class BivariateViewSet(viewsets.ViewSet):
         businesses_univariate_stats = model_univariatebusinesses.objects.all()
         serializer_univariate_businesses = getattr(serializers, 'UnivariateBusinesses')(businesses_univariate_stats, many=True)
 
-        survey = request.query_params.get('survey')
-        var_group = request.query_params.get('var_group')
-        dimension = request.query_params.get('dimension')
+        survey = request.GET.get('survey')
+        var_group = request.GET.get('var_group')
+        dimension = request.GET.get('dimension')
+        # survey = request.query_params.get('survey')
+        # var_group = request.query_params.get('var_group')
+        # dimension = request.query_params.get('dimension')
 
         serializer_univariate = []
         serializer_bivariate = []
@@ -139,7 +144,7 @@ class BivariateViewSet(viewsets.ViewSet):
         bivariate = {}
         bivariate_filter = {}
         for data in serializer_bivariate.data:
-            if data['variable_group']:
+            if data['variable_group'] and data['x_variable']:
                 if data['variable_group'].lower() == var_group and data['x_variable'] == dimension:
                     if data['y_variable'] not in bivariate:
                         bivariate[data['y_variable']] = []
