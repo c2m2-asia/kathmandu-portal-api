@@ -83,3 +83,16 @@ class BusinessCoordinates (models.Model):
         db_table = 'business_coordinate_stats'
         unique_together = (('m_name_business', 'value', 'variable'))
         managed = False
+
+class MapDistribution (models.Model):
+    variable = models.TextField()
+    value = models.TextField()
+    total = models.FloatField()
+    perc_of_total = models.TextField()
+    label_en = models.TextField()
+    label_ne = models.TextField()
+    choice_code = models.TextField()
+
+    class Meta:
+        db_table = 'business_map_distribution'
+        managed = False

@@ -8,5 +8,5 @@
         "psql",
         "psql data"
     ],
-    "python.pythonPath": "venv/bin/python"
+    "python.pythonPath": "/etc/python"
 }

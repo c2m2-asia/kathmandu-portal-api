@@ -60,7 +60,8 @@ class UnivariateViewSet(viewsets.ViewSet):
             for label in data_labels:
                 d_labels[label] = data[label]
             response[data['variable']].append(d_labels)
-                    
+
+        # nested_response = _nested_dict2(response)             
         final_response = merge_dict(response, title_response)
 
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': final_response})
@@ -204,11 +205,47 @@ def make_json(csvFilePath):
         csvReader = csv.DictReader(csvf)
         
         for rows in csvReader:
-            # data.append(rows)
             key = rows['variable']
             data[key] = rows
-            
+
+    
+    # result = _nested_dict(data)
+   
     return data
+
+def _nested_dict2(data):
+    result = {}
+    final_result = {}
+    for k,v in data.items():
+        for key, value in v[0].items():
+            split_rec(key, value, result)
+        final_result[k] = result
+    return final_result
+
+def _nested_dict(data):
+    result = {}
+    final_result = {}
+    for k,v in data.items():
+        # if v is dict:
+            for key, value in v.items():
+                split_rec(key, value, result)
+            final_result[k] = result
+        # else:
+        #     for key, value in v[k].items():
+        #         split_rec(key, value, result)
+        #     final_result[k] = result
+
+    return final_result
+
+def split_rec(k, v, result):
+    
+    # if 'ques' in k:
+    k, *rest = k.split('_', 1)
+    if rest:
+        split_rec(rest[0], v, result.setdefault(k, {}))
+    else:
+        result[k] = v
+   
 
 def merge_dict(dict1, dict2):
 
@@ -220,7 +257,15 @@ def merge_dict(dict1, dict2):
         dict3.append(new_dict)
     return dict3
 
-class MapVisualization(viewsets.Viewset):
+class MapVisualization(viewsets.ViewSet):
     def list(Self, request):
+        model_distribution = apps.get_model('api', 'MapDistribution')
+        map_dist_stats = model_distribution.objects.all()
+        serializer_dist = getattr(serializers, 'MapDistribution')(map_dist_stats, many=True)
         
-        
+        model_coordinates = apps.get_model('api', 'BusinessCoordinates')
+        map_business_coordinates = model_coordinates.objects.all()
+        serializer_coordinates = getattr(serializers, 'BusinessCoordinates')(map_business_coordinates, many=True)
+
+        response = {"distribution": serializer_dist}
+        return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
