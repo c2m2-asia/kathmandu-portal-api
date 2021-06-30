@@ -32,14 +32,14 @@ class UnivariateViewSet(viewsets.ViewSet):
         variable_title_businesses_csv_file_path = root_path + '/../variable_title_mapping_businesses.csv'
 
         model_univariateworkers = apps.get_model('api', 'UnivariateWorkers')
-        workers_univariate_stats = model_univariateworkers.objects.filter(variable_group__iexact=var_group)
+        workers_univariate_stats = model_univariateworkers.objects.filter(variablegroup__iexact=var_group)
         workers_serializer = getattr(serializers, 'UnivariateWorkers')(workers_univariate_stats, many=True)
 
         model_univariatebusinesses = apps.get_model('api', 'UnivariateBusinesses')
-        businesses_univariate_stats = model_univariatebusinesses.objects.filter(variable_group__iexact=var_group)
+        businesses_univariate_stats = model_univariatebusinesses.objects.filter(variablegroup__iexact=var_group)
         businesses_serializer = getattr(serializers, 'UnivariateBusinesses')(businesses_univariate_stats, many=True)
 
-        data_labels = ('total', 'perc_of_total', 'label_ne', 'label_en')
+        data_labels = ('total', 'percoftotal', 'label_ne', 'label_en')
         variable_labels = ('variable', 'ques_en', 'ques_ne')
 
         serializer = []
@@ -60,9 +60,8 @@ class UnivariateViewSet(viewsets.ViewSet):
             for label in data_labels:
                 d_labels[label] = data[label]
             response[data['variable']].append(d_labels)
-
-        # nested_response = _nested_dict2(response)             
-        final_response = merge_dict(response, title_response)
+            
+        final_response = merge_dict(label_split(response), title_response)
 
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': final_response})
 
@@ -81,11 +80,11 @@ class BivariateViewSet(viewsets.ViewSet):
         variable_title_businesses_csv_file_path = root_path + '/../variable_title_mapping_businesses.csv'
 
         model_bivariateworkers = apps.get_model('api', 'BivariateWorkers')
-        workers_bivariate_stats = model_bivariateworkers.objects.filter(variable_group__iexact=var_group, x_variable=dimension)
+        workers_bivariate_stats = model_bivariateworkers.objects.filter(variablegroup__iexact=var_group, xvariable=dimension)
         serializer_bivariate_workers = getattr(serializers, 'BivariateWorkers')(workers_bivariate_stats, many=True)
 
         model_bivariatebusinesses = apps.get_model('api', 'BivariateBusinesses')
-        businesses_bivariate_stats = model_bivariatebusinesses.objects.filter(variable_group__iexact=var_group, x_variable=dimension)
+        businesses_bivariate_stats = model_bivariatebusinesses.objects.filter(variablegroup__iexact=var_group, xvariable=dimension)
         serializer_bivariate_businesses = getattr(serializers, 'BivariateBusinesses')(businesses_bivariate_stats, many=True)
 
         model_univariateworkers = apps.get_model('api', 'UnivariateWorkers')
@@ -115,8 +114,8 @@ class BivariateViewSet(viewsets.ViewSet):
             'm_age': 'age'
         }
 
-        data_labels_univariate = ('total', 'perc_of_total', 'label_ne', 'label_en')
-        data_labels_bivariate = ('total', 'perc_of_total', 'x_label_ne', 'x_label_en', 'y_label_en', 'y_label_ne')
+        data_labels_univariate = ('total', 'percoftotal', 'label_ne', 'label_en')
+        data_labels_bivariate = ('total', 'percoftotal', 'xlabel_ne', 'xlabel_en', 'ylabel_en', 'ylabel_ne')
         dimension_variables_workers = ('m_gender', 'm_edu_levl', 'm_years_of_experience', 'm_age')
         dimension_variables_businesses = ('m_biz_type', 'm_biz_years_in_operation')
 
@@ -132,24 +131,24 @@ class BivariateViewSet(viewsets.ViewSet):
             univariate[data['variable']].append(d_labels)
             univariate_filter[data['variable']] = filter(None, univariate[data['variable']])
 
-        univariate_final = merge_dict(univariate_filter, title_response)
+        univariate_final = merge_dict(label_split(univariate_filter), title_response)
 
         bivariate = {}
         bivariate_filter = {}
         for data in serializer_bivariate.data:
-            if data['y_variable'] not in bivariate:
-                bivariate[data['y_variable']] = []
+            if data['yvariable'] not in bivariate:
+                bivariate[data['yvariable']] = []
 
             d_labels = {}
             for label in data_labels_bivariate:
                 d_labels[label] = data[label]
 
-            bivariate[data['y_variable']].append(d_labels)
-            bivariate_filter[data['y_variable']] = filter(None, bivariate[data['y_variable']])
+            bivariate[data['yvariable']].append(d_labels)
+            bivariate_filter[data['yvariable']] = filter(None, bivariate[data['yvariable']])
 
         computed_data = extract_all(bivariate_filter)
                
-        bivariate_final = merge_dict(computed_data, title_response)
+        bivariate_final = merge_dict(label_split(computed_data), title_response)
 
         response = {"univariate": univariate_final,"bivariate": bivariate_final}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
@@ -160,14 +159,14 @@ def extract_all(dict1):
         keys = dict2.keys()
         for key in keys:
             df = pd.DataFrame(dict2[key])
-            df = df.astype({'total': 'int32', 'perc_of_total':'float32'})
-            total_df = pd.DataFrame(df.groupby(['y_label_en', 'y_label_ne'])[['total', 'perc_of_total']].sum()).reset_index()
-            total_df['dist'] = total_df['y_label_en'].apply(func=lambda x: df[df['y_label_en']==x].to_dict())
+            df = df.astype({'total': 'int32', 'percoftotal':'float32'})
+            total_df = pd.DataFrame(df.groupby(['ylabel_en', 'ylabel_ne'])[['total', 'percoftotal']].sum()).reset_index()
+            total_df['dist'] = total_df['ylabel_en'].apply(func=lambda x: df[df['ylabel_en']==x].to_dict())
             return total_df
 
     def split_dict(final_dict):
         new_list = []
-        for index in list(range(len(final_dict['y_label_en']))):
+        for index in list(range(len(final_dict['ylabel_en']))):
             new_dict1 = {}
             for item in final_dict.items():
                 new_dict1[item[0]] = item[1][index]
@@ -179,10 +178,10 @@ def extract_all(dict1):
         for dicts in new_list:
             sub_list = []
             new_dict = dicts.copy()
-            for index in list(range(len(new_list[0]['dist']['x_label_en']))):
+            for index in list(range(len(new_list[0]['dist']['xlabel_en']))):
                 dict_1 = {}
                 for i in dicts['dist'].items():
-                    if i[0] != 'y_label_en'and i[0] != 'y_label_ne':
+                    if i[0] != 'ylabel_en'and i[0] != 'ylabel_ne':
                         dict_1[i[0]] = [x for x in i[1].values()][index]
                 sub_list.append(dict_1)
             new_dict['dist'] = sub_list
@@ -209,40 +208,49 @@ def make_json(csvFilePath):
             data[key] = rows
 
     
-    # result = _nested_dict(data)
+    result = ques_split(data)
    
-    return data
+    return result
 
-def _nested_dict2(data):
+def split_func_list(dict1):
+    result = {}
+    for key, value in dict1.items():
+        split_key = key.split('_')
+        if len(split_key) ==1:
+            result[split_key[0]] = value
+        else:
+            for i in split_key:
+                new_dict = {}
+                new_dict[split_key[1]] = value
+            try:
+                result[split_key[0]] = {list(result[split_key[0]].keys())[0]: list(result[split_key[0]].values())[0], list(new_dict.keys())[0]: new_dict[split_key[1]]}
+            except:
+                result[split_key[0]] = new_dict
+    return result
+
+def label_split(data):
+    main_dict = {}
+    for main_key, main_value in data.items():
+        list1 = []
+        for dict1 in main_value:
+            result = split_func_list(dict1)
+            list1.append(result)
+        main_dict[main_key] = list1
+    return main_dict
+
+def ques_split(data):
     result = {}
     final_result = {}
     for k,v in data.items():
-        for key, value in v[0].items():
-            split_rec(key, value, result)
+        for key, value in v.items():
+            split_func_dict(key, value, result)
         final_result[k] = result
     return final_result
 
-def _nested_dict(data):
-    result = {}
-    final_result = {}
-    for k,v in data.items():
-        # if v is dict:
-            for key, value in v.items():
-                split_rec(key, value, result)
-            final_result[k] = result
-        # else:
-        #     for key, value in v[k].items():
-        #         split_rec(key, value, result)
-        #     final_result[k] = result
-
-    return final_result
-
-def split_rec(k, v, result):
-    
-    # if 'ques' in k:
+def split_func_dict(k, v, result):
     k, *rest = k.split('_', 1)
     if rest:
-        split_rec(rest[0], v, result.setdefault(k, {}))
+        split_func_dict(rest[0], v, result.setdefault(k, {}))
     else:
         result[k] = v
    
@@ -257,15 +265,15 @@ def merge_dict(dict1, dict2):
         dict3.append(new_dict)
     return dict3
 
-class MapVisualization(viewsets.ViewSet):
-    def list(Self, request):
-        model_distribution = apps.get_model('api', 'MapDistribution')
-        map_dist_stats = model_distribution.objects.all()
-        serializer_dist = getattr(serializers, 'MapDistribution')(map_dist_stats, many=True)
+# class MapVisualization(viewsets.ViewSet):
+#     def list(Self, request):
+#         model_distribution = apps.get_model('api', 'MapDistribution')
+#         map_dist_stats = model_distribution.objects.all()
+#         serializer_dist = getattr(serializers, 'MapDistribution')(map_dist_stats, many=True)
         
-        model_coordinates = apps.get_model('api', 'BusinessCoordinates')
-        map_business_coordinates = model_coordinates.objects.all()
-        serializer_coordinates = getattr(serializers, 'BusinessCoordinates')(map_business_coordinates, many=True)
+#         model_coordinates = apps.get_model('api', 'BusinessCoordinates')
+#         map_business_coordinates = model_coordinates.objects.all()
+#         serializer_coordinates = getattr(serializers, 'BusinessCoordinates')(map_business_coordinates, many=True)
 
-        response = {"distribution": serializer_dist}
-        return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
+#         response = {"distribution": serializer_dist}
+#         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
