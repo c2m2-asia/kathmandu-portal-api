@@ -32,7 +32,7 @@ class UnivariateBusinesses (models.Model):
     variablegroup = models.TextField()
 
     class Meta:
-        db_table = 'business_univariate_stats'
+        db_table = 'businesses_univariate_stats'
         unique_together = (('variable', 'value'),)
         managed = False
 
@@ -72,7 +72,7 @@ class BivariateBusinesses (models.Model):
     variablegroup = models.TextField()
 
     class Meta:
-        db_table = 'business_bivariate_stats'
+        db_table = 'businesses_bivariate_stats'
         unique_together = (('xvariable', 'xvalue', 'yvariable', 'yvalue'),)
         managed = False
 

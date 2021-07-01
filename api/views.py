@@ -208,7 +208,7 @@ def make_json(csvFilePath):
             data[key] = rows
 
     
-    result = ques_split(data)
+        result = ques_split(data)
    
     return result
 
@@ -237,14 +237,12 @@ def label_split(data):
             list1.append(result)
         main_dict[main_key] = list1
     return main_dict
-
+    
 def ques_split(data):
-    result = {}
     final_result = {}
     for k,v in data.items():
-        for key, value in v.items():
-            split_func_dict(key, value, result)
-        final_result[k] = result
+        final_result[k] = split_func_list(v)
+    
     return final_result
 
 def split_func_dict(k, v, result):
@@ -277,3 +275,7 @@ def merge_dict(dict1, dict2):
 
 #         response = {"distribution": serializer_dist}
 #         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
+
+# class DownloadData(viewsets.ViewSet):
+#     def list(self, request):
+        

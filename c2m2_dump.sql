@@ -1,5 +1,5 @@
 --
--- -QL database dump
+-- PostgreSQL database dump
 --
 
 -- Dumped from database version 13.2 (Ubuntu 13.2-1.pgdg20.04+1)
@@ -21,31 +21,31 @@ SET default_tablespace = '';
 SET default_table_access_method = heap;
 
 --
--- Name: business_bivariate_stats; Type: TABLE; Schema: public; Owner: -
+-- Name: businesses_bivariate_stats ; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public.business_bivariate_stats (
-    xVariable text,
-    xValue bigint,
-    xLabel_en text,
-    xLabel_ne text,
-    yVariable text,
-    yValue double precision,
-    yLabel_en text,
-    yLabel_ne text,
-    total double precision,
-    percOfTotal double precision,
-    variableGroup text,
+CREATE TABLE public.businesses_bivariate_stats  (
+    xvariable text,
+    xvalue bigint,
+    xlabel_en text,
+    xlabel_ne text,
+    yvariable text,
+    yvalue bigint,
+    ylabel_en text,
+    ylabel_ne text,
+    total bigint,
+    percoftotal double precision,
+    variablegroup text,
     index bigint
 );
 
 --
--- Name: business_impact_downloads_data; Type: TABLE; Schema: public; Owner: -
+-- Name: businesses_impact_downloads_data; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public.business_impact_downloads_data (
+CREATE TABLE public.businesses_impact_downloads_data (
     id bigint,
-    timestamp timestamp without time zone,
+    submission_date timestamp without time zone,
     stop_business text,
     how_lng_stop_business text,
     business_effect_by_reduced_vol_business bigint,
@@ -141,12 +141,12 @@ CREATE TABLE public.business_impact_downloads_data (
 );
 
 --
--- Name: business_metadata_downloads_data; Type: TABLE; Schema: public; Owner: -
+-- Name: businesses_metadata_downloads_data; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public.business_metadata_downloads_data (
+CREATE TABLE public.businesses_metadata_downloads_data (
     id bigint,
-    timestamp timestamp without time zone,
+    submission_date timestamp without time zone,
     business_dist text,
     business_coodinates text,
     business_type text,
@@ -154,21 +154,21 @@ CREATE TABLE public.business_metadata_downloads_data (
 );
 
 --
--- Name: business_needs_downloads_data; Type: TABLE; Schema: public; Owner: -
+-- Name: businesses_needs_downloads_data; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public.business_needs_downloads_data (
+CREATE TABLE public.businesses_needs_downloads_data (
     id bigint,
-    timestamp timestamp without time zone
+    submission_date timestamp without time zone
 );
 
 --
--- Name: business_outlook_downloads_data; Type: TABLE; Schema: public; Owner: -
+-- Name: businesses_outlook_downloads_data; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public.business_outlook_downloads_data (
+CREATE TABLE public.businesses_outlook_downloads_data (
     id bigint,
-    timestamp timestamp without time zone,
+    submission_date timestamp without time zone,
     how_lng_covid_dsrupt_last text,
     revenue_gen_21_v_19 text,
     wrkfrc_size_chng_21_v_19 text,
@@ -248,12 +248,12 @@ CREATE TABLE public.business_outlook_downloads_data (
 );
 
 --
--- Name: business_preparedness_downloads_data; Type: TABLE; Schema: public; Owner: -
+-- Name: businesses_preparedness_downloads_data; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public.business_preparedness_downloads_data (
+CREATE TABLE public.businesses_preparedness_downloads_data (
     id bigint,
-    timestamp timestamp without time zone,
+    submission_date timestamp without time zone,
     hhs_measures_placed_sanitizers bigint,
     hhs_measures_trained_employes_on_hhs bigint,
     hhs_measures_placed_thermal_screening bigint,
@@ -296,17 +296,17 @@ CREATE TABLE public.business_preparedness_downloads_data (
 );
 
 --
--- Name: business_univariate_stats; Type: TABLE; Schema: public; Owner: -
+-- Name: businesses_univariate_stats ; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public.business_univariate_stats (
+CREATE TABLE public.businesses_univariate_stats  (
     variable text,
     value text,
     label_en text,
     label_ne text,
-    variableGroup text,
+    variablegroup text,
     total bigint,
-    percOfTotal double precision,
+    percoftotal double precision,
     index bigint
 );
 
@@ -315,17 +315,17 @@ CREATE TABLE public.business_univariate_stats (
 --
 
 CREATE TABLE public.workers_bivariate_stats (
-    xVariable text,
-    xValue bigint,
-    xLabel_en text,
-    xLabel_ne text,
-    yVariable text,
-    yValue bigint,
-    yLabel_en text,
-    yLabel_ne text,
+    xvariable text,
+    xvalue bigint,
+    xlabel_en text,
+    xlabel_ne text,
+    yvariable text,
+    yvalue bigint,
+    ylabel_en text,
+    ylabel_ne text,
     total bigint,
-    percOfTotal double precision,
-    variableGroup text,
+    percoftotal double precision,
+    variablegroup text,
     index bigint
 );
 
@@ -335,7 +335,7 @@ CREATE TABLE public.workers_bivariate_stats (
 
 CREATE TABLE public.workers_impact_downloads_data (
     id bigint,
-    timestamp timestamp without time zone,
+    submission_date timestamp without time zone,
     occpatn_shopkeeper_pre_covid bigint,
     occpatn_tour_guide_pre_covid bigint,
     occpatn_trekking_guide_pre_covid bigint,
@@ -449,7 +449,7 @@ CREATE TABLE public.workers_impact_downloads_data (
 
 CREATE TABLE public.workers_needs_downloads_data (
     id bigint,
-    timestamp timestamp without time zone,
+    submission_date timestamp without time zone,
     needs_health_training_for_recovery bigint,
     needs_employment_related_training_for_recovery bigint,
     needs_skills_learning_opportunity_for_recovery bigint,
@@ -472,7 +472,7 @@ CREATE TABLE public.workers_needs_downloads_data (
 
 CREATE TABLE public.workers_preparedness_downloads_data (
     id bigint,
-    timestamp timestamp without time zone,
+    submission_date timestamp without time zone,
     have_alternative_income_source text,
     alternate_income_source_agriculture_animal_husbandry double precision,
     alternate_income_source_daily_wages double precision,
@@ -535,17 +535,17 @@ CREATE TABLE public.workers_univariate_stats (
     value text,
     label_en text,
     label_ne text,
-    variableGroup text,
+    variablegroup text,
     total bigint,
-    percOfTotal double precision,
+    percoftotal double precision,
     index bigint
 );
 
 --
--- Data for Name: business_bivariate_stats; Type: TABLE DATA; Schema: public; Owner: -
+-- Data for Name: businesses_bivariate_stats ; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.business_bivariate_stats (xVariable, xValue, xLabel_en, xLabel_ne, yVariable, yValue, yLabel_en, yLabel_ne, total, percOfTotal, variableGroup, index) FROM stdin;
+COPY public.businesses_bivariate_stats  (xvariable, xvalue, xlabel_en, xlabel_ne, yvariable, yvalue, ylabel_en, ylabel_ne, total, percoftotal, variablegroup, index) FROM stdin;
 m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	i_covid_effect_business	10	Other	अन्य	0	0	impact	1
 m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	i_covid_effect_business	5	Supply chain disruption	आपूर्ति श्रृंखला अवरोध	0	0	impact	2
 m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	i_covid_effect_business	2	Increased COVID-19 cases in our area	हाम्रो क्षेत्रमा कोभिड-१९ केसहरू बढ्यो 	1	0.008928571428571428	impact	3
@@ -3742,10 +3742,10 @@ b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impa
 
 
 --
--- Data for Name: business_impact_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
+-- Data for Name: businesses_impact_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.business_impact_downloads_data (id, timestamp, stop_business, how_lng_stop_business, business_effect_by_reduced_vol_business, business_effect_by_increased_covid_cases, business_effect_by_emplys_covid_situation, business_effect_by_human_resources_shortage, business_effect_by_supply_chain_disruption, business_effect_by_lack_sevices_access, business_effect_by_lack_mobility, business_effect_by_patners_disagrmnt, business_effect_by_lack_fin_resources, business_effect_by_other, business_no_effect, most_significant_effect_business, wrkfrc_actn_reduced_temporary_workers, wrkfrc_actn_reduced_permanent_workers, wrkfrc_actn_reduced_working_hours, wrkfrc_actn_introduced_rotational_employment, wrkfrc_actn_asked_workers_paid_leave, wrkfrc_actn_asked_workers_unpaid_leave, wrkfrc_actn_asked_workers_reduced_pay, wrkfrc_actn_decreased_employee_benefits, wrkfrc_actn_other, no_wrkfrc_actn, loan_impact_took_loan_easily, loan_impact_couldnt_take_loan, loan_impact_took_loan_difficultly, loan_impact_difficult_paying_existing_loan, loan_impact_other, no_loan_impact, asset_impact_sold_assets, asset_impact_couldnt_sell_assets, asset_impact_rented_assets, asset_impact_other, no_asset_impact, cost_impact_couldnt_cover_operating_cost, cost_impact_cancelled_investment_plans, cost_impact_made_visit_nepal_investments, cost_impact_other, no_cost_impact, location_impact_moved_business, location_impact_closed_branches, location_impact_tried_couldnt_move_business, location_impact_other, no_location_impact, eqty_ownrshp_impact_sold_entire_business, eqty_ownrshp_impact_tried_cant_sell_business, eqty_ownrshp_impact_sold_some_business_equity, eqty_ownrshp_impact_tried_cant_sell_some_equity, eqty_ownrshp_impact_other, no_eqty_ownrshp_impact, fin_effect_other, n_employes_pre_covid, wrkfrc_size_chng_2020_v_2019, revenue_chng_2020_v_2019, savings_chng_2020_v_2019, accomondation_service_offered_pre_covid, adventure_equipment_service_offered_pre_covid, adventure_sports_service_offered_pre_covid, bar_service_offered_pre_covid, flight_booking_service_offered_pre_covid, food_delivery_service_offered_pre_covid, gymnasium_service_offered_pre_covid, hotel_booking_service_offered_pre_covid, online_service_offered_pre_covid, restaurant_service_offered_pre_covid, souvenir_shop_service_offered_pre_covid, spa_services_offered_pre_covid, swimming_pool_service_offered_pre_covid, tour_package_service_offered_pre_covid, travel_guide_porter_service_offered_pre_covid, vehicle_booking_service_offered_pre_covid, other_service_offered_pre_covid, accomondation_service_offered_post_covid, restaurant_service_offered_post_covid, bar_service_offered_post_covid, gymnasium_service_offered_post_covid, spa_service_offered_post_covid, swimming_pool_service_offered_post_covid, flight_booking_service_offered_post_covid, travel_guide_porter_service_offered_post_covid, adventure_sport_service_offered_post_covid, adventure_equipment_service_offered_post_covid, tour_package_service_offered_post_covid, vehicle_booking_service_offered_post_covid, hotel_booking_service_offered_post_covid, souvenir_shop_service_offered_post_covid, food_delivery_service_offered_post_covid, online_service_offered_post_covid, isolation_service_offered_post_covid, quarantine_service_offered_post_covid, other_service_offered_post_covid) FROM stdin;
+COPY public.businesses_impact_downloads_data (id, submission_date, stop_business, how_lng_stop_business, business_effect_by_reduced_vol_business, business_effect_by_increased_covid_cases, business_effect_by_emplys_covid_situation, business_effect_by_human_resources_shortage, business_effect_by_supply_chain_disruption, business_effect_by_lack_sevices_access, business_effect_by_lack_mobility, business_effect_by_patners_disagrmnt, business_effect_by_lack_fin_resources, business_effect_by_other, business_no_effect, most_significant_effect_business, wrkfrc_actn_reduced_temporary_workers, wrkfrc_actn_reduced_permanent_workers, wrkfrc_actn_reduced_working_hours, wrkfrc_actn_introduced_rotational_employment, wrkfrc_actn_asked_workers_paid_leave, wrkfrc_actn_asked_workers_unpaid_leave, wrkfrc_actn_asked_workers_reduced_pay, wrkfrc_actn_decreased_employee_benefits, wrkfrc_actn_other, no_wrkfrc_actn, loan_impact_took_loan_easily, loan_impact_couldnt_take_loan, loan_impact_took_loan_difficultly, loan_impact_difficult_paying_existing_loan, loan_impact_other, no_loan_impact, asset_impact_sold_assets, asset_impact_couldnt_sell_assets, asset_impact_rented_assets, asset_impact_other, no_asset_impact, cost_impact_couldnt_cover_operating_cost, cost_impact_cancelled_investment_plans, cost_impact_made_visit_nepal_investments, cost_impact_other, no_cost_impact, location_impact_moved_business, location_impact_closed_branches, location_impact_tried_couldnt_move_business, location_impact_other, no_location_impact, eqty_ownrshp_impact_sold_entire_business, eqty_ownrshp_impact_tried_cant_sell_business, eqty_ownrshp_impact_sold_some_business_equity, eqty_ownrshp_impact_tried_cant_sell_some_equity, eqty_ownrshp_impact_other, no_eqty_ownrshp_impact, fin_effect_other, n_employes_pre_covid, wrkfrc_size_chng_2020_v_2019, revenue_chng_2020_v_2019, savings_chng_2020_v_2019, accomondation_service_offered_pre_covid, adventure_equipment_service_offered_pre_covid, adventure_sports_service_offered_pre_covid, bar_service_offered_pre_covid, flight_booking_service_offered_pre_covid, food_delivery_service_offered_pre_covid, gymnasium_service_offered_pre_covid, hotel_booking_service_offered_pre_covid, online_service_offered_pre_covid, restaurant_service_offered_pre_covid, souvenir_shop_service_offered_pre_covid, spa_services_offered_pre_covid, swimming_pool_service_offered_pre_covid, tour_package_service_offered_pre_covid, travel_guide_porter_service_offered_pre_covid, vehicle_booking_service_offered_pre_covid, other_service_offered_pre_covid, accomondation_service_offered_post_covid, restaurant_service_offered_post_covid, bar_service_offered_post_covid, gymnasium_service_offered_post_covid, spa_service_offered_post_covid, swimming_pool_service_offered_post_covid, flight_booking_service_offered_post_covid, travel_guide_porter_service_offered_post_covid, adventure_sport_service_offered_post_covid, adventure_equipment_service_offered_post_covid, tour_package_service_offered_post_covid, vehicle_booking_service_offered_post_covid, hotel_booking_service_offered_post_covid, souvenir_shop_service_offered_post_covid, food_delivery_service_offered_post_covid, online_service_offered_post_covid, isolation_service_offered_post_covid, quarantine_service_offered_post_covid, other_service_offered_post_covid) FROM stdin;
 174444706	2021-04-28 00:00:00	Yes, temporarily stopped operations	7 to 12 months	1	0	0	0	0	0	1	0	1	0	0	Lack of adequate financial resources	1	1	1	1	0	1	1	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	11 to 30 people	Workforce size became 75% of 2019	Revenue became 50% of 2019	The business now has negative savings (i.e. it had to borrow money)	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 176510702	2021-05-07 00:00:00	Yes, temporarily stopped operations	Less than a month	1	0	1	0	1	0	1	0	0	0	0	Reduced volume of business	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	51 to 100 people	Workforce size became 75% of 2019	Revenue became 50% of 2019	Savings became 25% of 2019	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 173876161	2021-04-26 00:00:00	Yes, temporarily stopped operations	7 to 12 months	1	0	0	0	0	0	0	0	0	0	0	\N	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	1	11 to 30 people	Workforce size became zero	Revenue stopped completely	The business now has negative savings (i.e. it had to borrow money)	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
@@ -3862,10 +3862,10 @@ COPY public.business_impact_downloads_data (id, timestamp, stop_business, how_ln
 
 
 --
--- Data for Name: business_metadata_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
+-- Data for Name: businesses_metadata_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.business_metadata_downloads_data (id, timestamp, business_dist, business_coodinates, business_type, business_yrs_in_operation) FROM stdin;
+COPY public.businesses_metadata_downloads_data (id, submission_date, business_dist, business_coodinates, business_type, business_yrs_in_operation) FROM stdin;
 174444706	2021-04-28 00:00:00	Kathmandu	27.7153038584918 85.3103238891712	Restaurant and Bar	11 years or above
 176510702	2021-05-07 00:00:00	Mahottari	26.98806 85.89996	Restaurant and Bar	3 to 5 years
 173876161	2021-04-26 00:00:00	Chitawan	27.58148 84.49332	Hotel	11 years or above
@@ -3982,10 +3982,10 @@ COPY public.business_metadata_downloads_data (id, timestamp, business_dist, busi
 
 
 --
--- Data for Name: business_needs_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
+-- Data for Name: businesses_needs_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.business_needs_downloads_data (id, timestamp) FROM stdin;
+COPY public.businesses_needs_downloads_data (id, submission_date) FROM stdin;
 174444706	2021-04-28 00:00:00
 176510702	2021-05-07 00:00:00
 173876161	2021-04-26 00:00:00
@@ -4102,10 +4102,10 @@ COPY public.business_needs_downloads_data (id, timestamp) FROM stdin;
 
 
 --
--- Data for Name: business_outlook_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
+-- Data for Name: businesses_outlook_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.business_outlook_downloads_data (id, timestamp, how_lng_covid_dsrupt_last, revenue_gen_21_v_19, wrkfrc_size_chng_21_v_19, rcvry_diffclty_winning_tourist_confidence, rcvry_diffclty_understanding_source_markets, rcvry_diffclty_ensuring_tourist_health_saftey, rcvry_diffclty_ensuring_workers_health_saftey, rcvry_diffclty_goods_shortage, rcvry_diffclty_human_resource_shortage, rcvry_diffclty_cash_flow_shortage, rcvry_diffclty_additional_fund_shortage, other_rcvry_diffclty, most_significant_rcvry_difficulty, biggest_support_rcvry, perm_stopped_not_started_new_business, perm_stopped_started_new_trsm_business, perm_stopped_started_new_non_trsm_business, perm_stopped_will_retrn_to_trsm_business, perm_stopped_started_hotel_accommodation_business, perm_stopped_started_restaurant_bar_business, perm_stopped_started_travel_tours_business, perm_stopped_started_trekking_mountaineering_business, perm_stopped_started_adventure_sports_business, perm_stopped_started_other_trsm_business, perm_stopped_started_accountancy_finance_business, perm_stopped_started_consulting_management_business, perm_stopped_started_charity_voluntary_business, perm_stopped_started_art_design_business, perm_stopped_started_energy_utillities_business, perm_stopped_started_engineering_manufacturing_business, perm_stopped_started_environment_agriculture_business, perm_stopped_started_healthcare_business, perm_stopped_started_information_technology_business, perm_stopped_started_law_business, perm_stopped_started_marketing_pr_business, perm_stopped_started_internet_media_business, perm_stopped_started_construction_property_business, perm_stopped_started_public_services_business, perm_stopped_started_retail_sales_business, perm_stopped_started_teaching_business, perm_stopped_started_logistics_transport_business, perm_stopped_started_other_non_tourism_business, perm_stopped_started_new_job, perm_stopped_started_shopkeeper_job, perm_stopped_started_tour_guide_job, perm_stopped_started_trekking_guide_job, perm_stopped_started_rafting_guide_job, perm_stopped_started_mountain_guide_job, perm_stopped_started_driver_job, perm_stopped_started_travel_agent_job, perm_stopped_started_flight_attendant_job, perm_stopped_started_pilot_job, perm_stopped_started_chef_cook_job, perm_stopped_started_hotel_manager_job, perm_stopped_started_hotel_staff_job, perm_stopped_started_waiter_job, perm_stopped_started_bartender_job, perm_stopped_started_other_tourism_job, perm_stopped_started_accountancy_finance_job, perm_stopped_started_consulting_management_job, perm_stopped_started_charity_voluntary_job, perm_stopped_started_art_design_job, perm_stopped_started_energy_utillities_job, perm_stopped_started_engineering_manufacturing_job, perm_stopped_started_environment_agriculture_job, perm_stopped_started_healthcare_job, perm_stopped_started_information_technology_job, perm_stopped_started_law_job, perm_stopped_started_marketing_pr_job, perm_stopped_started_internet_media_job, perm_stopped_started_construction_property_job, perm_stopped_started_public_services_job, perm_stopped_started_sales_retail_job, perm_stopped_started_teaching_job, perm_stopped_started_logistics_transport_job, perm_stopped_started_other_non_trsm_job) FROM stdin;
+COPY public.businesses_outlook_downloads_data (id, submission_date, how_lng_covid_dsrupt_last, revenue_gen_21_v_19, wrkfrc_size_chng_21_v_19, rcvry_diffclty_winning_tourist_confidence, rcvry_diffclty_understanding_source_markets, rcvry_diffclty_ensuring_tourist_health_saftey, rcvry_diffclty_ensuring_workers_health_saftey, rcvry_diffclty_goods_shortage, rcvry_diffclty_human_resource_shortage, rcvry_diffclty_cash_flow_shortage, rcvry_diffclty_additional_fund_shortage, other_rcvry_diffclty, most_significant_rcvry_difficulty, biggest_support_rcvry, perm_stopped_not_started_new_business, perm_stopped_started_new_trsm_business, perm_stopped_started_new_non_trsm_business, perm_stopped_will_retrn_to_trsm_business, perm_stopped_started_hotel_accommodation_business, perm_stopped_started_restaurant_bar_business, perm_stopped_started_travel_tours_business, perm_stopped_started_trekking_mountaineering_business, perm_stopped_started_adventure_sports_business, perm_stopped_started_other_trsm_business, perm_stopped_started_accountancy_finance_business, perm_stopped_started_consulting_management_business, perm_stopped_started_charity_voluntary_business, perm_stopped_started_art_design_business, perm_stopped_started_energy_utillities_business, perm_stopped_started_engineering_manufacturing_business, perm_stopped_started_environment_agriculture_business, perm_stopped_started_healthcare_business, perm_stopped_started_information_technology_business, perm_stopped_started_law_business, perm_stopped_started_marketing_pr_business, perm_stopped_started_internet_media_business, perm_stopped_started_construction_property_business, perm_stopped_started_public_services_business, perm_stopped_started_retail_sales_business, perm_stopped_started_teaching_business, perm_stopped_started_logistics_transport_business, perm_stopped_started_other_non_tourism_business, perm_stopped_started_new_job, perm_stopped_started_shopkeeper_job, perm_stopped_started_tour_guide_job, perm_stopped_started_trekking_guide_job, perm_stopped_started_rafting_guide_job, perm_stopped_started_mountain_guide_job, perm_stopped_started_driver_job, perm_stopped_started_travel_agent_job, perm_stopped_started_flight_attendant_job, perm_stopped_started_pilot_job, perm_stopped_started_chef_cook_job, perm_stopped_started_hotel_manager_job, perm_stopped_started_hotel_staff_job, perm_stopped_started_waiter_job, perm_stopped_started_bartender_job, perm_stopped_started_other_tourism_job, perm_stopped_started_accountancy_finance_job, perm_stopped_started_consulting_management_job, perm_stopped_started_charity_voluntary_job, perm_stopped_started_art_design_job, perm_stopped_started_energy_utillities_job, perm_stopped_started_engineering_manufacturing_job, perm_stopped_started_environment_agriculture_job, perm_stopped_started_healthcare_job, perm_stopped_started_information_technology_job, perm_stopped_started_law_job, perm_stopped_started_marketing_pr_job, perm_stopped_started_internet_media_job, perm_stopped_started_construction_property_job, perm_stopped_started_public_services_job, perm_stopped_started_sales_retail_job, perm_stopped_started_teaching_job, perm_stopped_started_logistics_transport_job, perm_stopped_started_other_non_trsm_job) FROM stdin;
 174444706	2021-04-28 00:00:00	Less than 6 months (till Sep 2021)	Revenue is expected to be 75% of 2019	Workforce size will be 75% of 2019	1	0	0	0	0	0	1	1	0	Shortage of cash flow	Government agencies (Ministry, Department of Tourism, etc.)	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
 176510702	2021-05-07 00:00:00	6 to 12 months (till Mar 2022)	Revenue is expected to be 25% of 2019	Workforce size will be 50% of 2019	1	1	1	0	0	0	1	0	0	Winning the confidence of tourists and guests in the context of COVID-19	Government agencies (Ministry, Department of Tourism, etc.)	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
 173876161	2021-04-26 00:00:00	6 to 12 months (till Mar 2022)	None (or negligible)	None (or negligible)	1	0	0	0	0	0	1	0	0	Winning the confidence of tourists and guests in the context of COVID-19	Government agencies (Ministry, Department of Tourism, etc.)	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
@@ -4222,10 +4222,10 @@ COPY public.business_outlook_downloads_data (id, timestamp, how_lng_covid_dsrupt
 
 
 --
--- Data for Name: business_preparedness_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
+-- Data for Name: businesses_preparedness_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.business_preparedness_downloads_data (id, timestamp, hhs_measures_placed_sanitizers, hhs_measures_trained_employes_on_hhs, hhs_measures_placed_thermal_screening, hhs_measures_maintained_social_distancing, hhs_measures_implemented_cashless_payment, hhs_measures_discontinued_buffed_services, hhs_measures_added_covid_friendly_marketing, hhs_measures_outsourced_services, other_hhs_measures, no_hhs_measures, wrkrs_hlth_informed_covid_saftey_measures, wrkrs_hlth_encouraged_home_stay_if_sick, wrkrs_hlth_maintained_social_distancing, wrkrs_hlth_implemented_working_shifts, wrkrs_hlth_implemented_remote_working, wrkrs_hlth_performed_temperature_checks, wrkrs_hlth_provided_ppe, wrkrs_hlth_provided_paid_sick_leave, wrkrs_hlth_provided_covid_insurance, other_wrkrs_hlth_measures, no_wrkrs_hlth_measures, internl_recvry_strategy_reduce_prdocution, internl_recvry_strategy_increase_production, internl_recvry_strategy_diversify_offerings, internl_recvry_strategy_start_different_business, internl_recvry_strategy_diversify_sales_channels, internl_recvry_strategy_retrain_workers, other_internl_recvry_strategy, no_internl_recvry_strategy, externl_recvry_strategy_negotiate_bank_paymnts, externl_recvry_strategy_lobby_support_trade_unions, externl_recvry_strategy_negotiate_with_wrkrs_union, externl_recvry_strategy_negotiate_with_property_owner, externl_recvry_strategy_partner_with_other_business, externl_recvry_strategy_increase_shareholders, externl_recvry_strategy_share_assets_other_business, other_externl_recvry_strategy, no_externl_recvry_strategy, has_dedictd_covid_desk) FROM stdin;
+COPY public.businesses_preparedness_downloads_data (id, submission_date, hhs_measures_placed_sanitizers, hhs_measures_trained_employes_on_hhs, hhs_measures_placed_thermal_screening, hhs_measures_maintained_social_distancing, hhs_measures_implemented_cashless_payment, hhs_measures_discontinued_buffed_services, hhs_measures_added_covid_friendly_marketing, hhs_measures_outsourced_services, other_hhs_measures, no_hhs_measures, wrkrs_hlth_informed_covid_saftey_measures, wrkrs_hlth_encouraged_home_stay_if_sick, wrkrs_hlth_maintained_social_distancing, wrkrs_hlth_implemented_working_shifts, wrkrs_hlth_implemented_remote_working, wrkrs_hlth_performed_temperature_checks, wrkrs_hlth_provided_ppe, wrkrs_hlth_provided_paid_sick_leave, wrkrs_hlth_provided_covid_insurance, other_wrkrs_hlth_measures, no_wrkrs_hlth_measures, internl_recvry_strategy_reduce_prdocution, internl_recvry_strategy_increase_production, internl_recvry_strategy_diversify_offerings, internl_recvry_strategy_start_different_business, internl_recvry_strategy_diversify_sales_channels, internl_recvry_strategy_retrain_workers, other_internl_recvry_strategy, no_internl_recvry_strategy, externl_recvry_strategy_negotiate_bank_paymnts, externl_recvry_strategy_lobby_support_trade_unions, externl_recvry_strategy_negotiate_with_wrkrs_union, externl_recvry_strategy_negotiate_with_property_owner, externl_recvry_strategy_partner_with_other_business, externl_recvry_strategy_increase_shareholders, externl_recvry_strategy_share_assets_other_business, other_externl_recvry_strategy, no_externl_recvry_strategy, has_dedictd_covid_desk) FROM stdin;
 174444706	2021-04-28 00:00:00	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
 176510702	2021-05-07 00:00:00	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0
 173876161	2021-04-26 00:00:00	1	1	1	1	0	1	0	0	0	0	1	1	1	1	0	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0
@@ -4342,10 +4342,10 @@ COPY public.business_preparedness_downloads_data (id, timestamp, hhs_measures_pl
 
 
 --
--- Data for Name: business_univariate_stats; Type: TABLE DATA; Schema: public; Owner: -
+-- Data for Name: businesses_univariate_stats ; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.business_univariate_stats (variable, value, label_en, label_ne, variableGroup, total, percOfTotal, index) FROM stdin;
+COPY public.businesses_univariate_stats  (variable, value, label_en, label_ne, variablegroup, total, percoftotal, index) FROM stdin;
 i_covid_effect_business	10	Other	अन्य	impact	28	0.25	1
 i_covid_effect_business	5	Supply chain disruption	आपूर्ति श्रृंखला अवरोध	impact	20	0.17857142857142858	2
 i_covid_effect_business	2	Increased COVID-19 cases in our area	हाम्रो क्षेत्रमा कोभिड-१९ केसहरू बढ्यो 	impact	36	0.32142857142857145	3
@@ -4531,7 +4531,7 @@ b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	general	59	
 -- Data for Name: workers_bivariate_stats; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.workers_bivariate_stats (xVariable, xValue, xLabel_en, xLabel_ne, yVariable, yValue, yLabel_en, yLabel_ne, total, percOfTotal, variableGroup, index) FROM stdin;
+COPY public.workers_bivariate_stats (xvariable, xvalue, xlabel_en, xlabel_ne, yvariable, yvalue, ylabel_en, ylabel_ne, total, percoftotal, variablegroup, index) FROM stdin;
 m_gender	2	Female	महिला	i_lvlhd_domicile_chng_self_fml	0	No	परेन	15	0.05813953488372093	impact	1
 m_gender	2	Female	महिला	i_lvlhd_domicile_chng_self_fml	1	Yes	पर्यो	10	0.03875968992248062	impact	2
 m_gender	1	Male	पुरुष	i_lvlhd_domicile_chng_self_fml	0	No	परेन	100	0.3875968992248062	impact	3
@@ -6511,7 +6511,7 @@ m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_
 -- Data for Name: workers_impact_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.workers_impact_downloads_data (id, timestamp, occpatn_shopkeeper_pre_covid, occpatn_tour_guide_pre_covid, occpatn_trekking_guide_pre_covid, occpatn_rafting_guide_pre_covid, occpatn_mountain_guide_pre_covid, occpatn_driver_pre_covid, occpatn_travel_agent_pre_covid, occpatn_flight_attendent_pre_covid, occpatn_pilot_pre_covid, occpatn_cook_pre_covid, occpatn_hotel_manager_pre_covid, occpatn_hotel_staff_pre_covid, occpatn_waiter_pre_covid, occpatn_bartender_pre_covid, occpatn_porter_pre_covid, other_occpatn_pre_covid, had_frml_employment_contract_pre_covid, had_pan_pre_covid, wrk_type_seasonal_pre_covid, wrk_type_daily_wages_pre_covid, wrk_type_monthly_salary_pre_covid, other_wrk_type_pre_covid, sesonal_work_period, gender_individual, age_individual, education_level_individual, years_of_experience_individual, permanent_district_individual, temporary_district_individual, trsm_major_work_achham_district, trsm_major_work_arghakhanchi_district, trsm_major_work_baglung_district, trsm_major_work_baitadi_district, trsm_major_work_bajhang_district, b_empl_trsm_bajura_district, trsm_major_work_banke_district, trsm_major_work_bara_district, trsm_major_work_bardiya_district, trsm_major_work_bhaktapur_district, trsm_major_work_bhojpur_district, trsm_major_work_chitwan_district, trsm_major_work_dadeldhura_district, trsm_major_work_dailekh_district, trsm_major_work_dang_district, trsm_major_work_darchula_district, trsm_major_work_dhading_district, trsm_major_work_dhankuta_district, trsm_major_work_dhanusa_district, trsm_major_work_dolakha_district, trsm_major_work_dolpa_district, trsm_major_work_doti_district, trsm_major_work_gorkha_district, trsm_major_work_gulmi_district, trsm_major_work_humla_district, trsm_major_work_illam_district, trsm_major_work_jajarkot_district, trsm_major_work_jhapa_district, trsm_major_work_jumla_district, trsm_major_work_kailali_district, trsm_major_work_kalikot_district, trsm_major_work_kanchanpur_district, trsm_major_work_kapilbastu_district, trsm_major_work_kaski_district, trsm_major_work_kathmandu_district, trsm_major_work_kavrepalanchok_district, trsm_major_work_khotang_district, trsm_major_work_lalitpur_district, trsm_major_work_lamjung_district, trsm_major_work_mahottari_district, trsm_major_work_makwanpur_district, trsm_major_work_manang_district, trsm_major_work_morang_district, trsm_major_work_mugu_district, trsm_major_work_mustang_district, trsm_major_work_myagdi_district, trsm_major_work_nawalpur_district, trsm_major_work_parasi_district, trsm_major_work_nuwakot_district, trsm_major_work_okhaldhunga_district, trsm_major_work_palpa_district, trsm_major_work_panchthar_district, trsm_major_work_parbat_district, trsm_major_work_pyuthan_district, trsm_major_work_ramechhap_district, trsm_major_work_rasuwa_district, trsm_major_work_rautahat_district, trsm_major_work_rolpa_district, trsm_major_work_rukum_east_district, trsm_major_work_rukum_west_district, trsm_major_work_rupandehi_district, trsm_major_work_salyan_district, trsm_major_work_sankhuwasabha_district, trsm_major_work_saptari_district, trsm_major_work_sarlahi_district, trsm_major_work_sindhuli_district, trsm_major_work_sindhupalchok_district, trsm_major_work_siraha_district, trsm_major_work_solukhumbu_district, trsm_major_work_sunsari_district, trsm_major_work_surkhet_district, trsm_major_work_syangja_district, trsm_major_work_tanahu_district, trsm_major_work_taplejung_district, trsm_major_work_terhathum_district, trsm_major_work_udayapur_district) FROM stdin;
+COPY public.workers_impact_downloads_data (id, submission_date, occpatn_shopkeeper_pre_covid, occpatn_tour_guide_pre_covid, occpatn_trekking_guide_pre_covid, occpatn_rafting_guide_pre_covid, occpatn_mountain_guide_pre_covid, occpatn_driver_pre_covid, occpatn_travel_agent_pre_covid, occpatn_flight_attendent_pre_covid, occpatn_pilot_pre_covid, occpatn_cook_pre_covid, occpatn_hotel_manager_pre_covid, occpatn_hotel_staff_pre_covid, occpatn_waiter_pre_covid, occpatn_bartender_pre_covid, occpatn_porter_pre_covid, other_occpatn_pre_covid, had_frml_employment_contract_pre_covid, had_pan_pre_covid, wrk_type_seasonal_pre_covid, wrk_type_daily_wages_pre_covid, wrk_type_monthly_salary_pre_covid, other_wrk_type_pre_covid, sesonal_work_period, gender_individual, age_individual, education_level_individual, years_of_experience_individual, permanent_district_individual, temporary_district_individual, trsm_major_work_achham_district, trsm_major_work_arghakhanchi_district, trsm_major_work_baglung_district, trsm_major_work_baitadi_district, trsm_major_work_bajhang_district, b_empl_trsm_bajura_district, trsm_major_work_banke_district, trsm_major_work_bara_district, trsm_major_work_bardiya_district, trsm_major_work_bhaktapur_district, trsm_major_work_bhojpur_district, trsm_major_work_chitwan_district, trsm_major_work_dadeldhura_district, trsm_major_work_dailekh_district, trsm_major_work_dang_district, trsm_major_work_darchula_district, trsm_major_work_dhading_district, trsm_major_work_dhankuta_district, trsm_major_work_dhanusa_district, trsm_major_work_dolakha_district, trsm_major_work_dolpa_district, trsm_major_work_doti_district, trsm_major_work_gorkha_district, trsm_major_work_gulmi_district, trsm_major_work_humla_district, trsm_major_work_illam_district, trsm_major_work_jajarkot_district, trsm_major_work_jhapa_district, trsm_major_work_jumla_district, trsm_major_work_kailali_district, trsm_major_work_kalikot_district, trsm_major_work_kanchanpur_district, trsm_major_work_kapilbastu_district, trsm_major_work_kaski_district, trsm_major_work_kathmandu_district, trsm_major_work_kavrepalanchok_district, trsm_major_work_khotang_district, trsm_major_work_lalitpur_district, trsm_major_work_lamjung_district, trsm_major_work_mahottari_district, trsm_major_work_makwanpur_district, trsm_major_work_manang_district, trsm_major_work_morang_district, trsm_major_work_mugu_district, trsm_major_work_mustang_district, trsm_major_work_myagdi_district, trsm_major_work_nawalpur_district, trsm_major_work_parasi_district, trsm_major_work_nuwakot_district, trsm_major_work_okhaldhunga_district, trsm_major_work_palpa_district, trsm_major_work_panchthar_district, trsm_major_work_parbat_district, trsm_major_work_pyuthan_district, trsm_major_work_ramechhap_district, trsm_major_work_rasuwa_district, trsm_major_work_rautahat_district, trsm_major_work_rolpa_district, trsm_major_work_rukum_east_district, trsm_major_work_rukum_west_district, trsm_major_work_rupandehi_district, trsm_major_work_salyan_district, trsm_major_work_sankhuwasabha_district, trsm_major_work_saptari_district, trsm_major_work_sarlahi_district, trsm_major_work_sindhuli_district, trsm_major_work_sindhupalchok_district, trsm_major_work_siraha_district, trsm_major_work_solukhumbu_district, trsm_major_work_sunsari_district, trsm_major_work_surkhet_district, trsm_major_work_syangja_district, trsm_major_work_tanahu_district, trsm_major_work_taplejung_district, trsm_major_work_terhathum_district, trsm_major_work_udayapur_district) FROM stdin;
 181454796	2021-05-31 00:00:00	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	4 to 6 months	Male	21 - 40 years	10+2 or equivalent	6 to 10 years	Gorkha	Kathmandu	0	0	1	0	0	0	0	0	0	1	0	1	0	1	0	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	0	0	1	1	0	1	0	1	0	1	1	1	0
 180535647	2021-05-27 00:00:00	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	4 to 6 months	Male	41 - 60 years	SLC or equivalent	6 to 10 years	Kathmandu	Kathmandu	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
 172149666	2021-04-17 00:00:00	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4 to 6 months	Male	21 - 40 years	10+2 or equivalent	6 to 10 years	Sindhuli	Kathmandu	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
@@ -6777,7 +6777,7 @@ COPY public.workers_impact_downloads_data (id, timestamp, occpatn_shopkeeper_pre
 -- Data for Name: workers_needs_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.workers_needs_downloads_data (id, timestamp, needs_health_training_for_recovery, needs_employment_related_training_for_recovery, needs_skills_learning_opportunity_for_recovery, needs_new_employment_opportunity_for_recovery, needs_subsidized_loans_for_recovery, needs_interest_rate_discount_for_recovery, needs_tax_discount_for_recovery, needs_emi_periods_extension_for_recovery, needs_provision_of_social_security_for_recovery, needs_grant_for_recovery, need_health_counselling_for_recovery, need_other_incentives_for_recovery, no_need_of_any_recovery_incentives, most_significant_recovery_incentive) FROM stdin;
+COPY public.workers_needs_downloads_data (id, submission_date, needs_health_training_for_recovery, needs_employment_related_training_for_recovery, needs_skills_learning_opportunity_for_recovery, needs_new_employment_opportunity_for_recovery, needs_subsidized_loans_for_recovery, needs_interest_rate_discount_for_recovery, needs_tax_discount_for_recovery, needs_emi_periods_extension_for_recovery, needs_provision_of_social_security_for_recovery, needs_grant_for_recovery, need_health_counselling_for_recovery, need_other_incentives_for_recovery, no_need_of_any_recovery_incentives, most_significant_recovery_incentive) FROM stdin;
 181454796	2021-05-31 00:00:00	0	1	1	1	1	1	0	1	0	1	0	0	0	New employment opportunities
 180535647	2021-05-27 00:00:00	0	1	0	0	1	0	0	0	1	0	0	0	0	Subsidized loans
 172149666	2021-04-17 00:00:00	0	0	0	0	1	0	0	0	1	1	1	0	0	Grant
@@ -7043,7 +7043,7 @@ COPY public.workers_needs_downloads_data (id, timestamp, needs_health_training_f
 -- Data for Name: workers_preparedness_downloads_data; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.workers_preparedness_downloads_data (id, timestamp, have_alternative_income_source, alternate_income_source_agriculture_animal_husbandry, alternate_income_source_daily_wages, alternate_income_source_business_occupation, alternate_income_source_job_estate, alternate_income_source_professional_work, other_alternate_income_source, self_savings_chng_today_v_19, had_land_assets_pre_covid, had_television_pre_covid, had_cable_tv_pre_covid, had_computer_pre_covid, had_internet_pre_covid, had_telephone_pre_covid, had_mobile_phone_pre_covid, had_referigerator_pre_covid, had_motorcycle_pre_covid, had_personal_use_four_wheeler_pre_covid, had_professional_use_four_wheeler_pre_covid, did_not_have_mentioned_assets_pre_covid, has_land_assets_post_covid, has_television_post_covid, has_cable_tv_post_covid, has_computer_post_covid, has_internet_post_covid, has_telephone_post_covid, has_mobile_phone_post_covid, has_referigerator_post_covid, has_motorcycle_post_covid, has_personal_use_four_wheeler_post_covid, has_professional_use_four_wheeler_post_covid, do_not_have_mentioned_assets_post_covid, has_outstanding_debt, num_depndnt_fml_membrs_pre_covid, num_depndnt_fml_membrs_post_covid, num_depndnt_fml_membrs_needs_post_covid, is_vaccinated_against_covid, has_received_covid_hhs_training, received_hhs_training_source_goverment, received_hhs_training_source_ngo, received_hhs_training_source_employer, received_hhs_training_source_hotel_worker_association, received_hhs_training_other_source, major_covid_info_source_is_family_friends, major_covid_info_source_is_social_media, major_covid_info_source_is_radio, major_covid_info_source_is_television, major_covid_info_source_is_newspapers, major_covid_info_source_is_nearby_health_service, uses_other_major_covid_info_source, learned_new_skills_during_pandemic) FROM stdin;
+COPY public.workers_preparedness_downloads_data (id, submission_date, have_alternative_income_source, alternate_income_source_agriculture_animal_husbandry, alternate_income_source_daily_wages, alternate_income_source_business_occupation, alternate_income_source_job_estate, alternate_income_source_professional_work, other_alternate_income_source, self_savings_chng_today_v_19, had_land_assets_pre_covid, had_television_pre_covid, had_cable_tv_pre_covid, had_computer_pre_covid, had_internet_pre_covid, had_telephone_pre_covid, had_mobile_phone_pre_covid, had_referigerator_pre_covid, had_motorcycle_pre_covid, had_personal_use_four_wheeler_pre_covid, had_professional_use_four_wheeler_pre_covid, did_not_have_mentioned_assets_pre_covid, has_land_assets_post_covid, has_television_post_covid, has_cable_tv_post_covid, has_computer_post_covid, has_internet_post_covid, has_telephone_post_covid, has_mobile_phone_post_covid, has_referigerator_post_covid, has_motorcycle_post_covid, has_personal_use_four_wheeler_post_covid, has_professional_use_four_wheeler_post_covid, do_not_have_mentioned_assets_post_covid, has_outstanding_debt, num_depndnt_fml_membrs_pre_covid, num_depndnt_fml_membrs_post_covid, num_depndnt_fml_membrs_needs_post_covid, is_vaccinated_against_covid, has_received_covid_hhs_training, received_hhs_training_source_goverment, received_hhs_training_source_ngo, received_hhs_training_source_employer, received_hhs_training_source_hotel_worker_association, received_hhs_training_other_source, major_covid_info_source_is_family_friends, major_covid_info_source_is_social_media, major_covid_info_source_is_radio, major_covid_info_source_is_television, major_covid_info_source_is_newspapers, major_covid_info_source_is_nearby_health_service, uses_other_major_covid_info_source, learned_new_skills_during_pandemic) FROM stdin;
 181454796	2021-05-31 00:00:00	0	\N	\N	\N	\N	\N	\N	Has reduced to almost zero	1	1	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	1	6 people or more	6 people or more	1 to 2 people	1	0	\N	\N	\N	\N	\N	0	1	1	0	1	0	0	0
 180535647	2021-05-27 00:00:00	0	\N	\N	\N	\N	\N	\N	Has reduced to almost zero	0	1	0	1	1	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	1	3 to 5 people	3 to 5 people	Not sufficient for myself	0	0	\N	\N	\N	\N	\N	0	1	0	0	0	0	0	0
 172149666	2021-04-17 00:00:00	0	\N	\N	\N	\N	\N	\N	25% remaining	1	1	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	1	3 to 5 people	3 to 5 people	Not sufficient for myself	0	0	\N	\N	\N	\N	\N	0	1	0	1	1	0	0	0
@@ -7309,7 +7309,7 @@ COPY public.workers_preparedness_downloads_data (id, timestamp, have_alternative
 -- Data for Name: workers_univariate_stats; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public.workers_univariate_stats (variable, value, label_en, label_ne, variableGroup, total, percOfTotal, index) FROM stdin;
+COPY public.workers_univariate_stats (variable, value, label_en, label_ne, variablegroup, total, percoftotal, index) FROM stdin;
 i_lvlhd_domicile_chng_self_fml	0	No	परेन	impact	115	0.44573643410852715	1
 i_lvlhd_domicile_chng_self_fml	1	Yes	पर्यो	impact	143	0.5542635658914729	2
 i_empl_jb_prsnt_status	4	No, I have left all tourism-related work	छैन, मैले पर्यटन क्षेत्र छाडिसकेको छु	impact	4	0.015503875968992248	3
@@ -7446,6 +7446,6 @@ m_years_of_experience	3	6 to 10 years	६-१० वर्ष	\N	94	0.3643410852
 
 
 --
--- -QL database dump complete
+-- PostgreSQL database dump complete
 --
 
