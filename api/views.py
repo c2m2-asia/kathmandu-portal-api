@@ -147,6 +147,7 @@ class BivariateViewSet(viewsets.ViewSet):
             bivariate_filter[data['yvariable']] = filter(None, bivariate[data['yvariable']])
 
         computed_data = extract_all(bivariate_filter)
+        print('bivariate_filter', computed_data)
                
         bivariate_final = merge_dict(label_split(computed_data), title_response)
 
@@ -174,6 +175,7 @@ def extract_all(dict1):
         return new_list
 
     def prepare_dict(new_list):
+        # print('new_list', new_list)
         final_list = []
         for dicts in new_list:
             sub_list = []
@@ -184,7 +186,7 @@ def extract_all(dict1):
                     if i[0] != 'ylabel_en'and i[0] != 'ylabel_ne':
                         dict_1[i[0]] = [x for x in i[1].values()][index]
                 sub_list.append(dict_1)
-            new_dict['dist'] = sub_list
+            new_dict['dist'] = ques_split(sub_list)
             final_list.append(new_dict)
         return final_list
         
@@ -237,21 +239,27 @@ def label_split(data):
             list1.append(result)
         main_dict[main_key] = list1
     return main_dict
-    
-def ques_split(data):
-    final_result = {}
-    for k,v in data.items():
-        final_result[k] = split_func_list(v)
-    
-    return final_result
 
-def split_func_dict(k, v, result):
-    k, *rest = k.split('_', 1)
-    if rest:
-        split_func_dict(rest[0], v, result.setdefault(k, {}))
+def ques_split(data):
+    result = {}
+    final_list = []
+    final_dict = {}
+    if type(data) is list:
+        for l1 in data:
+            result = split_func_list(l1)
+            final_list.append(result)
+        return final_list
     else:
-        result[k] = v
-   
+        for k,v in data.items():
+            final_dict[k] = split_func_list(v)
+    return final_dict
+
+# def ques_split(data):
+#     final_result = {}
+#     for k,v in data.items():
+#         final_result[k] = split_func_list(v)
+    
+#     return final_result   
 
 def merge_dict(dict1, dict2):
 

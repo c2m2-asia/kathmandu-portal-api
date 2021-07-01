@@ -3084,7 +3084,7 @@ b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest
 b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_support	4	Financial Institutions	वित्तीय संस्था	4	0.043010752688172046	need	2535
 b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_support	2	Nepal Tourism Board	नेपाल पर्यटन बोर्ड	2	0.021505376344086023	need	2536
 b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_support	7	Friends and family	साथी र परिवार	6	0.06451612903225806	need	2537
-m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	1	0.008928571428571428	perception	2802
+m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	1	0.008928571428571428	outlook	2802
 b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_support	1	Government agencies (Ministry, Department of Tourism, etc.)	सरकारी एजेन्सीहरू (मंत्रालय, पर्यटन विभाग, आदि)	17	0.1827956989247312	need	2538
 b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_support	3	Unions and associations	युनियन र संघहरू	1	0.010752688172043012	need	2539
 b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_support	6	Shareholders	शेयरधारकहरू	0	0	need	2540
@@ -3321,423 +3321,423 @@ b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_how_efctv_gov
 b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_how_efctv_gov_schemes	1	These schemes are difficult to understand	यी योजनाहरू बुझ्न गाह्रो छ	5	0.14705882352941177	need	2772
 b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_how_efctv_gov_schemes	3	These schemes are not sufficient	यी योजनाहरू पर्याप्त छैनन्	5	0.14705882352941177	need	2773
 b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_how_efctv_gov_schemes	2	These schemes are not easy to use	यी योजनाहरू प्रयोग गर्न सजिलो छैन	12	0.35294117647058826	need	2774
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	0	0	perception	2775
-m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	17	0.15178571428571427	perception	2830
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	perception	2776
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	perception	2777
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	0	0	perception	2778
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	2	0.017857142857142856	perception	2779
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	3	0.026785714285714284	perception	2780
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	7	0.0625	perception	2781
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	9	0.08035714285714286	perception	2782
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	4	0.03571428571428571	perception	2783
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	5	0.044642857142857144	perception	2784
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	8	0.07142857142857142	perception	2785
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	10	0.08928571428571429	perception	2786
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	2	0.017857142857142856	perception	2787
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	7	0.0625	perception	2788
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	7	0.0625	perception	2789
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	14	0.125	perception	2790
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	4	0.03571428571428571	perception	2791
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	7	0.0625	perception	2792
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	7	0.0625	perception	2793
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	15	0.13392857142857142	perception	2794
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	0	0	perception	2795
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	perception	2796
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	perception	2797
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	1	0.008928571428571428	perception	2798
-m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2799
-m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	perception	2800
-m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	perception	2801
-m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	3	0.026785714285714284	perception	2803
-m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	perception	2804
-m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	4	0.03571428571428571	perception	2805
-m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	2	0.017857142857142856	perception	2806
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2807
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	perception	2808
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	2	0.017857142857142856	perception	2809
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	4	0.03571428571428571	perception	2810
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2811
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	perception	2812
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	2	0.017857142857142856	perception	2813
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	7	0.0625	perception	2814
-m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2815
-m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	perception	2816
-m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	3	0.026785714285714284	perception	2817
-m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	4	0.03571428571428571	perception	2818
-m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2819
-m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	perception	2820
-m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	4	0.03571428571428571	perception	2821
-m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	7	0.0625	perception	2822
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2823
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	5	0.044642857142857144	perception	2824
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	9	0.08035714285714286	perception	2825
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	5	0.044642857142857144	perception	2826
-m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	3	0.026785714285714284	perception	2827
-m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	perception	2828
-m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	5	0.044642857142857144	perception	2829
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	0	0	perception	2831
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	perception	2832
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	perception	2833
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	2	0.017857142857142856	perception	2834
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2835
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	perception	2836
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	perception	2837
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	2	0.017857142857142856	perception	2838
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	perception	2839
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	perception	2840
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	2	0.017857142857142856	perception	2841
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	6	0.05357142857142857	perception	2842
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	6	0.05357142857142857	perception	2843
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	11	0.09821428571428571	perception	2844
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	8	0.07142857142857142	perception	2845
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	13	0.11607142857142858	perception	2846
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	4	0.03571428571428571	perception	2847
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	11	0.09821428571428571	perception	2848
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	19	0.16964285714285715	perception	2849
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	25	0.22321428571428573	perception	2850
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2851
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	perception	2852
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	0	0	perception	2853
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	1	0.010752688172043012	perception	2854
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	1	0.010752688172043012	perception	2855
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	1	0.010752688172043012	perception	2856
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2857
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	3	0.03225806451612903	perception	2858
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	5	0.053763440860215055	perception	2859
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	7	0.07526881720430108	perception	2860
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	11	0.11827956989247312	perception	2861
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	16	0.17204301075268819	perception	2862
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2863
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	7	0.07526881720430108	perception	2864
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	6	0.06451612903225806	perception	2865
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	7	0.07526881720430108	perception	2866
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	9	0.0967741935483871	perception	2867
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	14	0.15053763440860216	perception	2868
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2869
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	perception	2870
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	9	0.0967741935483871	perception	2871
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	11	0.11827956989247312	perception	2872
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	17	0.1827956989247312	perception	2873
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	16	0.17204301075268819	perception	2874
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	9	Others	अन्य	1	0.010752688172043012	perception	2875
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	perception	2876
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2899
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	perception	3060
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	7	0.07526881720430108	perception	2877
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	7	0.07526881720430108	perception	2878
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	19	0.20430107526881722	perception	2879
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	17	0.1827956989247312	perception	2880
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2881
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	perception	2882
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	0	0	perception	2883
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	0	0	perception	2884
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	0	0	perception	2885
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	0	0	perception	2886
-m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2887
-m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	perception	2888
-m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	perception	2889
-m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	0	0	perception	2890
-m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	1	0.010752688172043012	perception	2891
-m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	1	0.010752688172043012	perception	2892
-m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2893
-m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	3	0.03225806451612903	perception	2894
-m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	perception	2895
-m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	3	0.03225806451612903	perception	2896
-m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	7	0.07526881720430108	perception	2897
-m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	4	0.043010752688172046	perception	2898
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	perception	2900
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	perception	2901
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	2	0.021505376344086023	perception	2902
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	6	0.06451612903225806	perception	2903
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	8	0.08602150537634409	perception	2904
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2905
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	perception	2906
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	3	0.03225806451612903	perception	2907
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	2	0.021505376344086023	perception	2908
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	1	0.010752688172043012	perception	2909
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	6	0.06451612903225806	perception	2910
-m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2911
-m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	4	0.043010752688172046	perception	2912
-m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	4	0.043010752688172046	perception	2913
-m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	5	0.053763440860215055	perception	2914
-m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	8	0.08602150537634409	perception	2915
-m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	8	0.08602150537634409	perception	2916
-m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2917
-m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	perception	2918
-m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	4	0.043010752688172046	perception	2919
-m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	5	0.053763440860215055	perception	2920
-m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	4	0.043010752688172046	perception	2921
-m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	7	0.07526881720430108	perception	2922
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2923
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	perception	2924
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	5	0.053763440860215055	perception	2925
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	8	0.08602150537634409	perception	2926
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	10	0.10752688172043011	perception	2927
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	11	0.11827956989247312	perception	2928
-m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	9	Others	अन्य	1	0.010752688172043012	perception	2929
-m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	perception	2930
-m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	8	0.08602150537634409	perception	2931
-m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	8	0.08602150537634409	perception	2932
-m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	20	0.21505376344086022	perception	2933
-m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	19	0.20430107526881722	perception	2934
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2935
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	perception	2936
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	perception	2937
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	0	0	perception	2938
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	2	0.021505376344086023	perception	2939
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	1	0.010752688172043012	perception	2940
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2941
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	perception	2942
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	31	0.3333333333333333	perception	2964
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	2	0.021505376344086023	perception	2943
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	3	0.03225806451612903	perception	2944
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	2	0.021505376344086023	perception	2945
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	2	0.021505376344086023	perception	2946
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	9	Others	अन्य	1	0.010752688172043012	perception	2947
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	perception	2948
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	4	0.043010752688172046	perception	2949
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	3	0.03225806451612903	perception	2950
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	6	0.06451612903225806	perception	2951
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	8	0.08602150537634409	perception	2952
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2953
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	6	0.06451612903225806	perception	2954
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	7	0.07526881720430108	perception	2955
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	12	0.12903225806451613	perception	2956
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	21	0.22580645161290322	perception	2957
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	22	0.23655913978494625	perception	2958
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	perception	2959
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	6	0.06451612903225806	perception	2960
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	13	0.13978494623655913	perception	2961
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	15	0.16129032258064516	perception	2962
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	26	0.27956989247311825	perception	2963
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	10	0.10752688172043011	perception	2988
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	2965
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	2966
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	2967
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	perception	2968
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2969
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	perception	2970
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2971
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2972
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2973
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	2974
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	2975
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	11	0.11827956989247312	perception	2976
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2977
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	2978
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	2979
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2980
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	6	0.06451612903225806	perception	2981
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	11	0.11827956989247312	perception	2982
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	2983
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	2984
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	2985
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2986
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	8	0.08602150537634409	perception	2987
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	2989
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	2990
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	2991
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	5	0.053763440860215055	perception	2992
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	8	0.08602150537634409	perception	2993
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	9	0.0967741935483871	perception	2994
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	2995
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	2996
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	2997
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	perception	2998
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	0	0	perception	2999
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	perception	3000
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	3001
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	3002
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	3003
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3004
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	0	0	perception	3005
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	perception	3006
-m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	3007
-m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3008
-m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3009
-m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	perception	3010
-m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3011
-m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	3	0.03225806451612903	perception	3012
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	3013
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3014
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3015
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3016
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3017
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	4	0.043010752688172046	perception	3018
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3019
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3020
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3021
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3022
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3023
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	3	0.03225806451612903	perception	3024
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3025
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	3026
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	3027
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3028
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3029
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	perception	3030
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	3031
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3032
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3033
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3034
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	3035
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	perception	3036
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3037
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	3038
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3039
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3040
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	6	0.06451612903225806	perception	3041
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	6	0.06451612903225806	perception	3042
-m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3043
-m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3044
-m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3045
-m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	3046
-m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	9	0.0967741935483871	perception	3047
-m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	10	0.10752688172043011	perception	3048
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	3049
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	3050
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	3051
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3052
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3053
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	perception	3054
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	3055
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	3056
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	3057
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	perception	3058
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3059
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	perception	3061
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	perception	3062
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	perception	3063
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3064
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	5	0.053763440860215055	perception	3065
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	2	0.021505376344086023	perception	3066
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	perception	3067
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	3068
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	4	0.043010752688172046	perception	3069
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	4	0.043010752688172046	perception	3070
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	8	0.08602150537634409	perception	3071
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	15	0.16129032258064516	perception	3072
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	4	0.043010752688172046	perception	3073
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	3074
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	2	0.021505376344086023	perception	3075
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	perception	3076
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	9	0.0967741935483871	perception	3077
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	23	0.24731182795698925	perception	3078
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3079
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3080
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	perception	3081
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	perception	3082
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	perception	3083
-m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	1	0.010752688172043012	perception	3084
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	perception	3085
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	perception	3086
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	perception	3087
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	4	0.043010752688172046	perception	3088
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	6	0.06451612903225806	perception	3089
-m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	6	0.06451612903225806	perception	3090
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	perception	3091
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3092
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	3	0.03225806451612903	perception	3093
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	perception	3094
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	perception	3095
-m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	10	0.10752688172043011	perception	3096
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3097
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	perception	3098
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	perception	3099
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	5	0.053763440860215055	perception	3100
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	11	0.11827956989247312	perception	3101
-m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	8	0.08602150537634409	perception	3102
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3103
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	4	0.043010752688172046	perception	3104
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	3	0.03225806451612903	perception	3105
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	5	0.053763440860215055	perception	3106
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	6	0.06451612903225806	perception	3107
-m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	7	0.07526881720430108	perception	3108
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3109
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3110
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	perception	3111
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	perception	3112
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	perception	3113
-m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	0	0	perception	3114
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3115
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3116
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	perception	3117
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	perception	3118
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	perception	3119
-m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	2	0.021505376344086023	perception	3120
-m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	perception	3121
-m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	perception	3122
-m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	perception	3123
-m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	perception	3124
-m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	perception	3125
-m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	4	0.043010752688172046	perception	3126
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3127
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	3	0.03225806451612903	perception	3128
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	perception	3129
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	3	0.03225806451612903	perception	3130
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	2	0.021505376344086023	perception	3131
-m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	2	0.021505376344086023	perception	3132
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3133
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3134
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	perception	3135
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	perception	3136
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	5	0.053763440860215055	perception	3137
-m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	3	0.03225806451612903	perception	3138
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3139
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3140
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	2	0.021505376344086023	perception	3141
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	perception	3142
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	3	0.03225806451612903	perception	3143
-m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	6	0.06451612903225806	perception	3144
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3145
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	perception	3146
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	perception	3147
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	perception	3148
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	4	0.043010752688172046	perception	3149
-m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	6	0.06451612903225806	perception	3150
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3151
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	perception	3152
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	2	0.021505376344086023	perception	3153
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	perception	3154
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	perception	3155
-m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	5	0.053763440860215055	perception	3156
-m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	perception	3157
-m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3158
-m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	2	0.021505376344086023	perception	3159
-m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	11	0.11827956989247312	perception	3160
-m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	8	0.08602150537634409	perception	3161
-m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	4	0.043010752688172046	perception	3162
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3163
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3164
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	perception	3165
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	perception	3166
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	perception	3167
-b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	0	0	perception	3168
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3169
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3170
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	perception	3171
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	perception	3172
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	perception	3173
-b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	1	0.010752688172043012	perception	3174
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	perception	3175
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	perception	3176
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	perception	3177
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	4	0.043010752688172046	perception	3178
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	perception	3179
-b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	3	0.03225806451612903	perception	3180
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	perception	3181
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	5	0.053763440860215055	perception	3182
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	perception	3183
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	5	0.053763440860215055	perception	3184
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	8	0.08602150537634409	perception	3185
-b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	15	0.16129032258064516	perception	3186
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	perception	3187
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	perception	3188
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	5	0.053763440860215055	perception	3189
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	4	0.043010752688172046	perception	3190
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	20	0.21505376344086022	perception	3191
-b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	13	0.13978494623655913	perception	3192
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	0	0	outlook	2775
+m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	17	0.15178571428571427	outlook	2830
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	outlook	2776
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	outlook	2777
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	0	0	outlook	2778
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	2	0.017857142857142856	outlook	2779
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	3	0.026785714285714284	outlook	2780
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	7	0.0625	outlook	2781
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	9	0.08035714285714286	outlook	2782
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	4	0.03571428571428571	outlook	2783
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	5	0.044642857142857144	outlook	2784
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	8	0.07142857142857142	outlook	2785
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	10	0.08928571428571429	outlook	2786
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	2	0.017857142857142856	outlook	2787
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	7	0.0625	outlook	2788
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	7	0.0625	outlook	2789
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	14	0.125	outlook	2790
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	4	0.03571428571428571	outlook	2791
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	7	0.0625	outlook	2792
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	7	0.0625	outlook	2793
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	15	0.13392857142857142	outlook	2794
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	0	0	outlook	2795
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	outlook	2796
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	outlook	2797
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	1	0.008928571428571428	outlook	2798
+m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2799
+m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	outlook	2800
+m_biz_type	5	Rafting	राफ्टिङ	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	outlook	2801
+m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	3	0.026785714285714284	outlook	2803
+m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	outlook	2804
+m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	4	0.03571428571428571	outlook	2805
+m_biz_type	9	Other	अन्य	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	2	0.017857142857142856	outlook	2806
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2807
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	outlook	2808
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	2	0.017857142857142856	outlook	2809
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	4	0.03571428571428571	outlook	2810
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2811
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	outlook	2812
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	2	0.017857142857142856	outlook	2813
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	7	0.0625	outlook	2814
+m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2815
+m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	outlook	2816
+m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	3	0.026785714285714284	outlook	2817
+m_biz_type	4	Handicraft	हस्तशिल्प	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	4	0.03571428571428571	outlook	2818
+m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2819
+m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	outlook	2820
+m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	4	0.03571428571428571	outlook	2821
+m_biz_type	6	Trekking	ट्रेकिंग	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	7	0.0625	outlook	2822
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2823
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	5	0.044642857142857144	outlook	2824
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	9	0.08035714285714286	outlook	2825
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	5	0.044642857142857144	outlook	2826
+m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	3	0.026785714285714284	outlook	2827
+m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	4	0.03571428571428571	outlook	2828
+m_biz_type	1	Hotel	होटल	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	5	0.044642857142857144	outlook	2829
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	0	0	outlook	2831
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	outlook	2832
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	outlook	2833
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	2	0.017857142857142856	outlook	2834
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2835
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	0	0	outlook	2836
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	0	0	outlook	2837
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	2	0.017857142857142856	outlook	2838
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	1	0.008928571428571428	outlook	2839
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	1	0.008928571428571428	outlook	2840
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	2	0.017857142857142856	outlook	2841
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	6	0.05357142857142857	outlook	2842
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	6	0.05357142857142857	outlook	2843
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	11	0.09821428571428571	outlook	2844
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	8	0.07142857142857142	outlook	2845
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	13	0.11607142857142858	outlook	2846
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	4	0.03571428571428571	outlook	2847
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	11	0.09821428571428571	outlook	2848
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	19	0.16964285714285715	outlook	2849
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	25	0.22321428571428573	outlook	2850
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2851
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	outlook	2852
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	0	0	outlook	2853
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	1	0.010752688172043012	outlook	2854
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	1	0.010752688172043012	outlook	2855
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	1	0.010752688172043012	outlook	2856
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2857
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	3	0.03225806451612903	outlook	2858
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	5	0.053763440860215055	outlook	2859
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	7	0.07526881720430108	outlook	2860
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	11	0.11827956989247312	outlook	2861
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	16	0.17204301075268819	outlook	2862
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2863
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	7	0.07526881720430108	outlook	2864
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	6	0.06451612903225806	outlook	2865
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	7	0.07526881720430108	outlook	2866
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	9	0.0967741935483871	outlook	2867
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	14	0.15053763440860216	outlook	2868
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2869
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	outlook	2870
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	9	0.0967741935483871	outlook	2871
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	11	0.11827956989247312	outlook	2872
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	17	0.1827956989247312	outlook	2873
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	16	0.17204301075268819	outlook	2874
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	9	Others	अन्य	1	0.010752688172043012	outlook	2875
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	outlook	2876
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2899
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	outlook	3060
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	7	0.07526881720430108	outlook	2877
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	7	0.07526881720430108	outlook	2878
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	19	0.20430107526881722	outlook	2879
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	17	0.1827956989247312	outlook	2880
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2881
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	outlook	2882
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	0	0	outlook	2883
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	0	0	outlook	2884
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	0	0	outlook	2885
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	0	0	outlook	2886
+m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2887
+m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	outlook	2888
+m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	outlook	2889
+m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	0	0	outlook	2890
+m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	1	0.010752688172043012	outlook	2891
+m_biz_type	5	Rafting	राफ्टिङ	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	1	0.010752688172043012	outlook	2892
+m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2893
+m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	3	0.03225806451612903	outlook	2894
+m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	outlook	2895
+m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	3	0.03225806451612903	outlook	2896
+m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	7	0.07526881720430108	outlook	2897
+m_biz_type	9	Other	अन्य	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	4	0.043010752688172046	outlook	2898
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	outlook	2900
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	outlook	2901
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	2	0.021505376344086023	outlook	2902
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	6	0.06451612903225806	outlook	2903
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	8	0.08602150537634409	outlook	2904
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2905
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	outlook	2906
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	3	0.03225806451612903	outlook	2907
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	2	0.021505376344086023	outlook	2908
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	1	0.010752688172043012	outlook	2909
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	6	0.06451612903225806	outlook	2910
+m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2911
+m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	4	0.043010752688172046	outlook	2912
+m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	4	0.043010752688172046	outlook	2913
+m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	5	0.053763440860215055	outlook	2914
+m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	8	0.08602150537634409	outlook	2915
+m_biz_type	4	Handicraft	हस्तशिल्प	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	8	0.08602150537634409	outlook	2916
+m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2917
+m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	outlook	2918
+m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	4	0.043010752688172046	outlook	2919
+m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	5	0.053763440860215055	outlook	2920
+m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	4	0.043010752688172046	outlook	2921
+m_biz_type	6	Trekking	ट्रेकिंग	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	7	0.07526881720430108	outlook	2922
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2923
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	outlook	2924
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	5	0.053763440860215055	outlook	2925
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	8	0.08602150537634409	outlook	2926
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	10	0.10752688172043011	outlook	2927
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	11	0.11827956989247312	outlook	2928
+m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	9	Others	अन्य	1	0.010752688172043012	outlook	2929
+m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	2	0.021505376344086023	outlook	2930
+m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	8	0.08602150537634409	outlook	2931
+m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	8	0.08602150537634409	outlook	2932
+m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	20	0.21505376344086022	outlook	2933
+m_biz_type	1	Hotel	होटल	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	19	0.20430107526881722	outlook	2934
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2935
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	0	0	outlook	2936
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	1	0.010752688172043012	outlook	2937
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	0	0	outlook	2938
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	2	0.021505376344086023	outlook	2939
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	1	0.010752688172043012	outlook	2940
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2941
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	outlook	2942
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	31	0.3333333333333333	outlook	2964
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	2	0.021505376344086023	outlook	2943
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	3	0.03225806451612903	outlook	2944
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	2	0.021505376344086023	outlook	2945
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	2	0.021505376344086023	outlook	2946
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	9	Others	अन्य	1	0.010752688172043012	outlook	2947
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	1	0.010752688172043012	outlook	2948
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	4	0.043010752688172046	outlook	2949
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	3	0.03225806451612903	outlook	2950
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	6	0.06451612903225806	outlook	2951
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	8	0.08602150537634409	outlook	2952
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2953
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	6	0.06451612903225806	outlook	2954
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	7	0.07526881720430108	outlook	2955
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	12	0.12903225806451613	outlook	2956
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	21	0.22580645161290322	outlook	2957
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	22	0.23655913978494625	outlook	2958
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	9	Others	अन्य	0	0	outlook	2959
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	6	0.06451612903225806	outlook	2960
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	13	0.13978494623655913	outlook	2961
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	15	0.16129032258064516	outlook	2962
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	26	0.27956989247311825	outlook	2963
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	10	0.10752688172043011	outlook	2988
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	2965
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	2966
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	2967
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	outlook	2968
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2969
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	outlook	2970
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2971
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2972
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2973
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	2974
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	2975
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	11	0.11827956989247312	outlook	2976
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2977
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	2978
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	2979
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2980
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	6	0.06451612903225806	outlook	2981
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	11	0.11827956989247312	outlook	2982
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	2983
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	2984
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	2985
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2986
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	8	0.08602150537634409	outlook	2987
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	2989
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	2990
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	2991
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	5	0.053763440860215055	outlook	2992
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	8	0.08602150537634409	outlook	2993
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	9	0.0967741935483871	outlook	2994
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	2995
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	2996
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	2997
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	outlook	2998
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	0	0	outlook	2999
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	outlook	3000
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	3001
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	3002
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	3003
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3004
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	0	0	outlook	3005
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	outlook	3006
+m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	3007
+m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3008
+m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3009
+m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	outlook	3010
+m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3011
+m_biz_type	9	Other	अन्य	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	3	0.03225806451612903	outlook	3012
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	3013
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3014
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3015
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3016
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3017
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	4	0.043010752688172046	outlook	3018
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3019
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3020
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3021
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3022
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3023
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	3	0.03225806451612903	outlook	3024
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3025
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	3026
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	3027
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3028
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3029
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	outlook	3030
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	3031
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3032
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3033
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3034
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	3035
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	outlook	3036
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3037
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	3038
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3039
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3040
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	6	0.06451612903225806	outlook	3041
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	6	0.06451612903225806	outlook	3042
+m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3043
+m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3044
+m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3045
+m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	3046
+m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	9	0.0967741935483871	outlook	3047
+m_biz_type	1	Hotel	होटल	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	10	0.10752688172043011	outlook	3048
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	3049
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	3050
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	3051
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3052
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3053
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	outlook	3054
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	3055
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	3056
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	3057
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	0	0	outlook	3058
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3059
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	0	0	outlook	3061
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	0	0	outlook	3062
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	0	0	outlook	3063
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3064
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	5	0.053763440860215055	outlook	3065
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	2	0.021505376344086023	outlook	3066
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	1	0.010752688172043012	outlook	3067
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	3068
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	4	0.043010752688172046	outlook	3069
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	4	0.043010752688172046	outlook	3070
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	8	0.08602150537634409	outlook	3071
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	15	0.16129032258064516	outlook	3072
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	4	0.043010752688172046	outlook	3073
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	3074
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	2	0.021505376344086023	outlook	3075
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	3	0.03225806451612903	outlook	3076
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	9	0.0967741935483871	outlook	3077
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	23	0.24731182795698925	outlook	3078
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3079
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3080
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	outlook	3081
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	outlook	3082
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	outlook	3083
+m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	1	0.010752688172043012	outlook	3084
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	outlook	3085
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	outlook	3086
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	outlook	3087
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	4	0.043010752688172046	outlook	3088
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	6	0.06451612903225806	outlook	3089
+m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	6	0.06451612903225806	outlook	3090
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	outlook	3091
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3092
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	3	0.03225806451612903	outlook	3093
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	outlook	3094
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	outlook	3095
+m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	10	0.10752688172043011	outlook	3096
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3097
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	outlook	3098
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	outlook	3099
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	5	0.053763440860215055	outlook	3100
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	11	0.11827956989247312	outlook	3101
+m_biz_years_in_operation	3	3 to 5 years	३-५ बर्ष	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	8	0.08602150537634409	outlook	3102
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3103
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	4	0.043010752688172046	outlook	3104
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	3	0.03225806451612903	outlook	3105
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	5	0.053763440860215055	outlook	3106
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	6	0.06451612903225806	outlook	3107
+m_biz_years_in_operation	5	11 years or above	११ बर्ष वा माथि	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	7	0.07526881720430108	outlook	3108
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3109
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3110
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	outlook	3111
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	outlook	3112
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	outlook	3113
+m_biz_type	7	Mountaineering	पर्वतारोहण	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	0	0	outlook	3114
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3115
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3116
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	outlook	3117
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	outlook	3118
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	outlook	3119
+m_biz_type	5	Rafting	राफ्टिङ	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	2	0.021505376344086023	outlook	3120
+m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	outlook	3121
+m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	outlook	3122
+m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	outlook	3123
+m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	outlook	3124
+m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	outlook	3125
+m_biz_type	9	Other	अन्य	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	4	0.043010752688172046	outlook	3126
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3127
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	3	0.03225806451612903	outlook	3128
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	outlook	3129
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	3	0.03225806451612903	outlook	3130
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	2	0.021505376344086023	outlook	3131
+m_biz_type	2	Restaurant and Bar	भोजनालय र बार	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	2	0.021505376344086023	outlook	3132
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3133
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3134
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	outlook	3135
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	outlook	3136
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	5	0.053763440860215055	outlook	3137
+m_biz_type	8	Shop/Merchandise	पसल / सामान	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	3	0.03225806451612903	outlook	3138
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3139
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3140
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	2	0.021505376344086023	outlook	3141
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	outlook	3142
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	3	0.03225806451612903	outlook	3143
+m_biz_type	4	Handicraft	हस्तशिल्प	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	6	0.06451612903225806	outlook	3144
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3145
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	outlook	3146
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	outlook	3147
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	outlook	3148
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	4	0.043010752688172046	outlook	3149
+m_biz_type	6	Trekking	ट्रेकिंग	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	6	0.06451612903225806	outlook	3150
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3151
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	outlook	3152
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	2	0.021505376344086023	outlook	3153
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	0	0	outlook	3154
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	7	0.07526881720430108	outlook	3155
+m_biz_type	3	Travel and Tour Operator	यात्रा र यात्रा अपरेटर	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	5	0.053763440860215055	outlook	3156
+m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	outlook	3157
+m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3158
+m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	2	0.021505376344086023	outlook	3159
+m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	11	0.11827956989247312	outlook	3160
+m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	8	0.08602150537634409	outlook	3161
+m_biz_type	1	Hotel	होटल	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	4	0.043010752688172046	outlook	3162
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3163
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3164
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	outlook	3165
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	outlook	3166
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	0	0	outlook	3167
+b_n_emplyes_pre_covid	5	More than 100 people	१०० भन्दा बढी 	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	0	0	outlook	3168
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3169
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3170
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	0	0	outlook	3171
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	1	0.010752688172043012	outlook	3172
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	outlook	3173
+b_n_emplyes_pre_covid	4	51 to 100 people	५१-१०० जना	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	1	0.010752688172043012	outlook	3174
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	0	0	outlook	3175
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	0	0	outlook	3176
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	outlook	3177
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	4	0.043010752688172046	outlook	3178
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	1	0.010752688172043012	outlook	3179
+b_n_emplyes_pre_covid	3	31 to 50 people	३१-५० जना	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	3	0.03225806451612903	outlook	3180
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	outlook	3181
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	5	0.053763440860215055	outlook	3182
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	1	0.010752688172043012	outlook	3183
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	5	0.053763440860215055	outlook	3184
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	8	0.08602150537634409	outlook	3185
+b_n_emplyes_pre_covid	2	11 to 30 people	११-३० जना 	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	15	0.16129032258064516	outlook	3186
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	1	0.010752688172043012	outlook	3187
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	1	0.010752688172043012	outlook	3188
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	5	0.053763440860215055	outlook	3189
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	4	0.043010752688172046	outlook	3190
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	20	0.21505376344086022	outlook	3191
+b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	13	0.13978494623655913	outlook	3192
 \.
 
 
@@ -4484,28 +4484,28 @@ o_do_u_know_of_gov_schemes	1	I am NOT aware of such government schemes.	म त�
 o_how_efctv_gov_schemes	1	These schemes are difficult to understand	यी योजनाहरू बुझ्न गाह्रो छ	need	8	0.23529411764705882	135
 o_how_efctv_gov_schemes	3	These schemes are not sufficient	यी योजनाहरू पर्याप्त छैनन्	need	14	0.4117647058823529	136
 o_how_efctv_gov_schemes	2	These schemes are not easy to use	यी योजनाहरू प्रयोग गर्न सजिलो छैन	need	21	0.6176470588235294	137
-o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	perception	12	0.10714285714285714	138
-o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	perception	23	0.20535714285714285	139
-o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	perception	29	0.25892857142857145	140
-o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	perception	48	0.42857142857142855	141
-o_rcvry_biggest_diffclties	9	Others	अन्य	perception	1	0.010752688172043012	142
-o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	perception	14	0.15053763440860216	143
-o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	perception	27	0.2903225806451613	144
-o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	perception	33	0.3548387096774194	145
-o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	perception	57	0.6129032258064516	146
-o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	perception	64	0.6881720430107527	147
-o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	perception	5	0.053763440860215055	148
-o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	perception	6	0.06451612903225806	149
-o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	perception	6	0.06451612903225806	150
-o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	perception	10	0.10752688172043011	151
-o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	perception	25	0.26881720430107525	152
-o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	perception	41	0.44086021505376344	153
-o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	perception	2	0.021505376344086023	154
-o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	perception	6	0.06451612903225806	155
-o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	perception	8	0.08602150537634409	156
-o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	perception	15	0.16129032258064516	157
-o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	perception	30	0.3225806451612903	158
-o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	perception	32	0.34408602150537637	159
+o_covid_how_long_it_last	4	More than 24 months (beyond Mar 2023 )	२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता)	outlook	12	0.10714285714285714	138
+o_covid_how_long_it_last	1	Less than 6 months (till Sep 2021)	६ महिना भन्दा कम (सेप्टे २०२१ सम्म)	outlook	23	0.20535714285714285	139
+o_covid_how_long_it_last	3	13 to 24 months (till Mar 2023)	१३-२४ महिना (मार्च २०२३ सम्म) 	outlook	29	0.25892857142857145	140
+o_covid_how_long_it_last	2	6 to 12 months (till Mar 2022)	६-१२ महिना (मार्च २०२२ सम्म)	outlook	48	0.42857142857142855	141
+o_rcvry_biggest_diffclties	9	Others	अन्य	outlook	1	0.010752688172043012	142
+o_rcvry_biggest_diffclties	5	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	outlook	14	0.15053763440860216	143
+o_rcvry_biggest_diffclties	2	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	outlook	27	0.2903225806451613	144
+o_rcvry_biggest_diffclties	3	Ensuring health and safety measures for employees, guests and tourists	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	outlook	33	0.3548387096774194	145
+o_rcvry_biggest_diffclties	7	Shortage of cash flow	नगद प्रवाहको अभाव	outlook	57	0.6129032258064516	146
+o_rcvry_biggest_diffclties	1	Winning the confidence of tourists and guests in the context of COVID-19	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	outlook	64	0.6881720430107527	147
+o_econ_impact_revenue_chng_21_v_19	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	outlook	5	0.053763440860215055	148
+o_econ_impact_revenue_chng_21_v_19	4	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	outlook	6	0.06451612903225806	149
+o_econ_impact_revenue_chng_21_v_19	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	outlook	6	0.06451612903225806	150
+o_econ_impact_revenue_chng_21_v_19	3	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	outlook	10	0.10752688172043011	151
+o_econ_impact_revenue_chng_21_v_19	2	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	outlook	25	0.26881720430107525	152
+o_econ_impact_revenue_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	outlook	41	0.44086021505376344	153
+o_econ_impact_wrkfrc_chng_21_v_19	6	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	outlook	2	0.021505376344086023	154
+o_econ_impact_wrkfrc_chng_21_v_19	4	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	outlook	6	0.06451612903225806	155
+o_econ_impact_wrkfrc_chng_21_v_19	5	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	outlook	8	0.08602150537634409	156
+o_econ_impact_wrkfrc_chng_21_v_19	3	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	outlook	15	0.16129032258064516	157
+o_econ_impact_wrkfrc_chng_21_v_19	1	None (or negligible)	कुनै पनि होइन (वा नगण्य)	outlook	30	0.3225806451612903	158
+o_econ_impact_wrkfrc_chng_21_v_19	2	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	outlook	32	0.34408602150537637	159
 m_biz_years_in_operation	1	Less than a year	एक बर्ष भन्दा कम	general	1	0.008928571428571428	160
 m_biz_years_in_operation	2	1 to 2 years	१-२ बर्ष	general	21	0.1875	161
 m_biz_years_in_operation	4	6 to 10 years	६-१० बर्ष	general	27	0.24107142857142858	162
@@ -5978,532 +5978,532 @@ m_years_of_experience	3	6 to 10 years	६-१० वर्ष	n_rcvry_preferred_
 m_years_of_experience	3	6 to 10 years	६-१० वर्ष	n_rcvry_preferred_incentives	9	Provision of social security system	सामाजिक सुरक्षाको व्यवस्था	56	0.21705426356589147	need	1444
 m_years_of_experience	3	6 to 10 years	६-१० वर्ष	n_rcvry_preferred_incentives	2	Employment-related training or retraining	रोजगारीमूलक तालिम वा पुन:प्रशिक्षण	53	0.2054263565891473	need	1445
 m_years_of_experience	3	6 to 10 years	६-१० वर्ष	n_rcvry_preferred_incentives	5	Subsidized loans	सहुलियत दरमा ऋण	70	0.2713178294573643	need	1446
-m_gender	2	Female	महिला	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	perception	1447
-m_gender	2	Female	महिला	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	3	0.011627906976744186	perception	1448
-m_gender	2	Female	महिला	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	10	0.03875968992248062	perception	1449
-m_gender	2	Female	महिला	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	11	0.04263565891472868	perception	1450
-m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	13	0.050387596899224806	perception	1451
-m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	72	0.27906976744186046	perception	1452
-m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	72	0.27906976744186046	perception	1453
-m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	76	0.29457364341085274	perception	1454
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	perception	1455
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	0	0	perception	1456
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	0	0	perception	1457
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	perception	1458
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	perception	1459
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	perception	1460
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	4	0.015503875968992248	perception	1461
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	1	0.003875968992248062	perception	1462
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	perception	1463
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	22	0.08527131782945736	perception	1464
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	6	0.023255813953488372	perception	1465
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	12	0.046511627906976744	perception	1466
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	10	0.03875968992248062	perception	1467
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	53	0.2054263565891473	perception	1468
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	72	0.27906976744186046	perception	1469
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	74	0.2868217054263566	perception	1470
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	perception	1471
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	0	0	perception	1472
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	0	0	perception	1473
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	perception	1474
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	perception	1475
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	perception	1476
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	1	0.003875968992248062	perception	1477
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	0	0	perception	1478
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	perception	1479
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	14	0.05426356589147287	perception	1480
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	6	0.023255813953488372	perception	1481
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	4	0.015503875968992248	perception	1482
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	perception	1483
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	10	0.03875968992248062	perception	1484
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	10	0.03875968992248062	perception	1485
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	6	0.023255813953488372	perception	1486
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	2	0.007751937984496124	perception	1487
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	18	0.06976744186046512	perception	1488
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	19	0.07364341085271318	perception	1489
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	21	0.08139534883720931	perception	1490
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	2	0.007751937984496124	perception	1491
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	11	0.04263565891472868	perception	1492
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	20	0.07751937984496124	perception	1493
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	27	0.10465116279069768	perception	1494
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	9	0.03488372093023256	perception	1495
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	22	0.08527131782945736	perception	1496
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	26	0.10077519379844961	perception	1497
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	29	0.1124031007751938	perception	1498
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	perception	1499
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	3	0.011627906976744186	perception	1500
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	6	0.023255813953488372	perception	1501
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	6	0.023255813953488372	perception	1502
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	perception	1503
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	8	0.031007751937984496	perception	1504
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	14	0.05426356589147287	perception	1505
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	19	0.07364341085271318	perception	1506
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	perception	1507
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	12	0.046511627906976744	perception	1508
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	15	0.05813953488372093	perception	1509
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	19	0.07364341085271318	perception	1510
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	perception	1511
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	25	0.09689922480620156	perception	1512
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	12	0.046511627906976744	perception	1513
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	15	0.05813953488372093	perception	1514
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	4	0.015503875968992248	perception	1515
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	27	0.10465116279069768	perception	1516
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	35	0.13565891472868216	perception	1517
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	28	0.10852713178294573	perception	1518
-m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1519
-m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1520
-m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	perception	1521
-m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	11	0.04263565891472868	perception	1522
-m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	14	0.05426356589147287	perception	1523
-m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	3	0.011627906976744186	perception	1524
-m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	5	0.01937984496124031	perception	1525
-m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	15	0.05813953488372093	perception	1526
-m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	66	0.2558139534883721	perception	1527
-m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	144	0.5581395348837209	perception	1528
-m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1529
-m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	perception	1530
-m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	0	0	perception	1531
-m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1532
-m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	0	0	perception	1533
-m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1534
-m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1535
-m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	1	0.003875968992248062	perception	1536
-m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	3	0.011627906976744186	perception	1537
-m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	2	0.007751937984496124	perception	1538
-m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	2	0.007751937984496124	perception	1539
-m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	perception	1540
-m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	perception	1541
-m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	13	0.050387596899224806	perception	1542
-m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	24	0.09302325581395349	perception	1543
-m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	1	0.003875968992248062	perception	1544
-m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	3	0.011627906976744186	perception	1545
-m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	12	0.046511627906976744	perception	1546
-m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	61	0.2364341085271318	perception	1547
-m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	132	0.5116279069767442	perception	1548
-m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1549
-m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	perception	1550
-m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	0	0	perception	1551
-m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1552
-m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	0	0	perception	1553
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1554
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1555
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	perception	1556
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	0	0	perception	1557
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	1	0.003875968992248062	perception	1558
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1559
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	perception	1560
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	perception	1561
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	5	0.01937984496124031	perception	1562
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	17	0.06589147286821706	perception	1563
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1564
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1565
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	perception	1566
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	10	0.03875968992248062	perception	1567
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	15	0.05813953488372093	perception	1568
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1569
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	perception	1570
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	perception	1571
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	12	0.046511627906976744	perception	1572
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	45	0.1744186046511628	perception	1573
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	1	0.003875968992248062	perception	1574
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	perception	1575
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	6	0.023255813953488372	perception	1576
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	23	0.08914728682170543	perception	1577
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	29	0.1124031007751938	perception	1578
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	2	0.007751937984496124	perception	1579
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	perception	1580
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	5	0.01937984496124031	perception	1581
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	27	0.10465116279069768	perception	1582
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	51	0.19767441860465115	perception	1583
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1584
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1585
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	perception	1586
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	6	0.023255813953488372	perception	1587
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	8	0.031007751937984496	perception	1588
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1589
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	perception	1590
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	1	0.003875968992248062	perception	1591
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	16	0.06201550387596899	perception	1592
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	25	0.09689922480620156	perception	1593
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	perception	1594
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	perception	1595
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	3	0.011627906976744186	perception	1596
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	17	0.06589147286821706	perception	1597
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	29	0.1124031007751938	perception	1598
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	2	0.007751937984496124	perception	1599
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	perception	1600
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	perception	1601
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	20	0.07751937984496124	perception	1602
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	29	0.1124031007751938	perception	1603
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	1	0.003875968992248062	perception	1604
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	perception	1605
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	7	0.027131782945736434	perception	1606
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	18	0.06976744186046512	perception	1607
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	67	0.2596899224806202	perception	1608
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	perception	1609
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1610
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	9	0.03488372093023256	perception	1611
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	12	0.046511627906976744	perception	1612
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	20	0.07751937984496124	perception	1613
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	12	0.046511627906976744	perception	1614
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	16	0.06201550387596899	perception	1615
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	15	0.05813953488372093	perception	1616
-m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	17	0.06589147286821706	perception	1617
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	3	0.011627906976744186	perception	1618
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	4	0.015503875968992248	perception	1619
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	66	0.2558139534883721	perception	1620
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	120	0.46511627906976744	perception	1621
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	118	0.4573643410852713	perception	1622
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	152	0.5891472868217055	perception	1623
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	149	0.5775193798449613	perception	1624
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	152	0.5891472868217055	perception	1625
-m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	161	0.624031007751938	perception	1626
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	perception	1627
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1628
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	3	0.011627906976744186	perception	1629
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	1	0.003875968992248062	perception	1630
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	3	0.011627906976744186	perception	1631
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	2	0.007751937984496124	perception	1632
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	3	0.011627906976744186	perception	1633
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	3	0.011627906976744186	perception	1634
-m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	4	0.015503875968992248	perception	1635
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	1	0.003875968992248062	perception	1636
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	perception	1637
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	11	0.04263565891472868	perception	1638
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	18	0.06976744186046512	perception	1639
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	30	0.11627906976744186	perception	1640
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	25	0.09689922480620156	perception	1641
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	28	0.10852713178294573	perception	1642
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	25	0.09689922480620156	perception	1643
-m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	34	0.13178294573643412	perception	1644
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	4	0.015503875968992248	perception	1645
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	3	0.011627906976744186	perception	1646
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	61	0.2364341085271318	perception	1647
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	113	0.437984496124031	perception	1648
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	105	0.4069767441860465	perception	1649
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	137	0.5310077519379846	perception	1650
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	134	0.5193798449612403	perception	1651
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	139	0.5387596899224806	perception	1652
-m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	140	0.5426356589147286	perception	1653
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	perception	1654
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1655
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	0	0	perception	1656
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	0	0	perception	1657
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	1	0.003875968992248062	perception	1658
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	1	0.003875968992248062	perception	1659
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	1	0.003875968992248062	perception	1660
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	1	0.003875968992248062	perception	1661
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	1	0.003875968992248062	perception	1662
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	perception	1663
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1664
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	7	0.027131782945736434	perception	1665
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	12	0.046511627906976744	perception	1666
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	14	0.05426356589147287	perception	1667
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	21	0.08139534883720931	perception	1668
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	17	0.06589147286821706	perception	1669
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	20	0.07751937984496124	perception	1670
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	19	0.07364341085271318	perception	1671
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	perception	1672
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	perception	1673
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	7	0.027131782945736434	perception	1674
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	16	0.06201550387596899	perception	1675
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	17	0.06589147286821706	perception	1676
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	17	0.06589147286821706	perception	1677
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	15	0.05813953488372093	perception	1678
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	17	0.06589147286821706	perception	1679
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	17	0.06589147286821706	perception	1680
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	perception	1681
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1682
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	18	0.06976744186046512	perception	1683
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	31	0.12015503875968993	perception	1684
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	31	0.12015503875968993	perception	1685
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	45	0.1744186046511628	perception	1686
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	34	0.13178294573643412	perception	1687
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	41	0.15891472868217055	perception	1688
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	43	0.16666666666666666	perception	1689
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	8	other	अन्य	1	0.003875968992248062	perception	1690
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	2	0.007751937984496124	perception	1691
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	16	0.06201550387596899	perception	1692
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	29	0.1124031007751938	perception	1693
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	12	0.046511627906976744	perception	1719
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	31	0.12015503875968993	perception	1694
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	29	0.1124031007751938	perception	1695
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	39	0.1511627906976744	perception	1696
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	32	0.12403100775193798	perception	1697
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	36	0.13953488372093023	perception	1698
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	perception	1699
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	perception	1700
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	27	0.10465116279069768	perception	1701
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	44	0.17054263565891473	perception	1702
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	44	0.17054263565891473	perception	1703
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	51	0.19767441860465115	perception	1704
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	59	0.22868217054263565	perception	1705
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	56	0.21705426356589147	perception	1706
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	62	0.24031007751937986	perception	1707
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	perception	1708
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1709
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	10	0.03875968992248062	perception	1710
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	4	0.015503875968992248	perception	1711
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	9	0.03488372093023256	perception	1712
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	6	0.023255813953488372	perception	1713
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	8	0.031007751937984496	perception	1714
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	7	0.027131782945736434	perception	1715
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	9	0.03488372093023256	perception	1716
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	perception	1717
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1718
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	22	0.08527131782945736	perception	1720
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	20	0.07751937984496124	perception	1721
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	27	0.10465116279069768	perception	1722
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	32	0.12403100775193798	perception	1723
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	28	0.10852713178294573	perception	1724
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	30	0.11627906976744186	perception	1725
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	perception	1726
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	perception	1727
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	9	0.03488372093023256	perception	1728
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	22	0.08527131782945736	perception	1729
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	28	0.10852713178294573	perception	1730
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	29	0.1124031007751938	perception	1731
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	30	0.11627906976744186	perception	1732
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	32	0.12403100775193798	perception	1733
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	32	0.12403100775193798	perception	1734
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	8	other	अन्य	1	0.003875968992248062	perception	1735
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	perception	1736
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	16	0.06201550387596899	perception	1737
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	28	0.10852713178294573	perception	1738
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	37	0.1434108527131783	perception	1739
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	37	0.1434108527131783	perception	1740
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	40	0.15503875968992248	perception	1741
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	37	0.1434108527131783	perception	1742
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	41	0.15891472868217055	perception	1743
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	perception	1744
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	3	0.011627906976744186	perception	1745
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	28	0.10852713178294573	perception	1746
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	56	0.21705426356589147	perception	1747
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	44	0.17054263565891473	perception	1748
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	65	0.25193798449612403	perception	1749
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	55	0.2131782945736434	perception	1750
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	63	0.2441860465116279	perception	1751
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	66	0.2558139534883721	perception	1752
-m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	6	other	अन्य	3	0.011627906976744186	perception	1753
-m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1754
-m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	5	0.01937984496124031	perception	1755
-m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	10	0.03875968992248062	perception	1756
-m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	17	0.06589147286821706	perception	1757
-m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	19	0.07364341085271318	perception	1758
-m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	23	0.08914728682170543	perception	1759
-m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	6	other	अन्य	5	0.01937984496124031	perception	1760
-m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	perception	1761
-m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	69	0.26744186046511625	perception	1762
-m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	143	0.5542635658914729	perception	1763
-m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	146	0.5658914728682171	perception	1764
-m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	162	0.627906976744186	perception	1765
-m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	190	0.7364341085271318	perception	1766
-m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	0	0	perception	1767
-m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1768
-m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	0	0	perception	1769
-m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	4	0.015503875968992248	perception	1770
-m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	4	0.015503875968992248	perception	1771
-m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	4	0.015503875968992248	perception	1772
-m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	4	0.015503875968992248	perception	1773
-m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	3	0.011627906976744186	perception	1774
-m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	perception	1775
-m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	15	0.05813953488372093	perception	1776
-m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	27	0.10465116279069768	perception	1777
-m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	27	0.10465116279069768	perception	1778
-m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	33	0.12790697674418605	perception	1779
-m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	33	0.12790697674418605	perception	1780
-m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	5	0.01937984496124031	perception	1781
-m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1782
-m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	59	0.22868217054263565	perception	1783
-m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	122	0.4728682170542636	perception	1784
-m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	132	0.5116279069767442	perception	1785
-m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	144	0.5581395348837209	perception	1786
-m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	176	0.6821705426356589	perception	1787
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	6	other	अन्य	0	0	perception	1788
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1789
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	0	0	perception	1790
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	0	0	perception	1791
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	0	0	perception	1792
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	0	0	perception	1793
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	1	0.003875968992248062	perception	1794
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	perception	1795
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	perception	1796
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	5	0.01937984496124031	perception	1797
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	13	0.050387596899224806	perception	1798
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	14	0.05426356589147287	perception	1799
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	14	0.05426356589147287	perception	1800
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	20	0.07751937984496124	perception	1801
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	perception	1802
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1803
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	12	0.046511627906976744	perception	1804
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	21	0.08139534883720931	perception	1805
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	17	0.06589147286821706	perception	1806
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	18	0.06976744186046512	perception	1807
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	22	0.08527131782945736	perception	1808
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	perception	1809
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1810
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	9	0.03488372093023256	perception	1811
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	30	0.11627906976744186	perception	1812
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	40	0.15503875968992248	perception	1813
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	44	0.17054263565891473	perception	1814
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	49	0.18992248062015504	perception	1815
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	6	other	अन्य	4	0.015503875968992248	perception	1816
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1817
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	23	0.08914728682170543	perception	1818
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	35	0.13565891472868216	perception	1819
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	42	0.16279069767441862	perception	1820
-m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	16	0.06201550387596899	perception	1873
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	50	0.1937984496124031	perception	1821
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	52	0.20155038759689922	perception	1822
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	perception	1823
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1824
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	25	0.09689922480620156	perception	1825
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	54	0.20930232558139536	perception	1826
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	50	0.1937984496124031	perception	1827
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	55	0.2131782945736434	perception	1828
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	69	0.26744186046511625	perception	1829
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	0	0	perception	1830
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1831
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	4	0.015503875968992248	perception	1832
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	11	0.04263565891472868	perception	1833
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	9	0.03488372093023256	perception	1834
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	9	0.03488372093023256	perception	1835
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	10	0.03875968992248062	perception	1836
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	2	0.007751937984496124	perception	1837
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1838
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	15	0.05813953488372093	perception	1839
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	24	0.09302325581395349	perception	1840
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	24	0.09302325581395349	perception	1841
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	29	0.1124031007751938	perception	1842
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	37	0.1434108527131783	perception	1843
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	2	0.007751937984496124	perception	1844
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1845
-m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	14	0.05426356589147287	perception	1872
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	16	0.06201550387596899	perception	1846
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	31	0.12015503875968993	perception	1847
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	31	0.12015503875968993	perception	1848
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	34	0.13178294573643412	perception	1849
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	41	0.15891472868217055	perception	1850
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	6	other	अन्य	3	0.011627906976744186	perception	1851
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	perception	1852
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	21	0.08139534883720931	perception	1853
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	37	0.1434108527131783	perception	1854
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	32	0.12403100775193798	perception	1855
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	40	0.15503875968992248	perception	1856
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	44	0.17054263565891473	perception	1857
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	perception	1858
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	perception	1859
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	18	0.06976744186046512	perception	1860
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	50	0.1937984496124031	perception	1861
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	67	0.2596899224806202	perception	1862
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	69	0.26744186046511625	perception	1863
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	81	0.313953488372093	perception	1864
-m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	1	0.003875968992248062	perception	1865
-m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	perception	1866
-m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	2	0.007751937984496124	perception	1867
-m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	perception	1868
-m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	5	0.01937984496124031	perception	1869
-m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	14	0.05426356589147287	perception	1870
-m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	4	0.015503875968992248	perception	1871
-m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	19	0.07364341085271318	perception	1874
-m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	38	0.14728682170542637	perception	1875
-m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	142	0.5503875968992248	perception	1876
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	0	0	perception	1877
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	0	0	perception	1878
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	perception	1879
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	0	0	perception	1880
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	0	0	perception	1881
-m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1882
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1883
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	1	0.003875968992248062	perception	1884
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	perception	1885
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	perception	1886
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	2	0.007751937984496124	perception	1887
-m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	2	0.007751937984496124	perception	1888
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1889
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	perception	1890
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	perception	1891
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	2	0.007751937984496124	perception	1892
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	4	0.015503875968992248	perception	1893
-m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	29	0.1124031007751938	perception	1894
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	5	0.01937984496124031	perception	1895
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	13	0.050387596899224806	perception	1896
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	12	0.046511627906976744	perception	1897
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	17	0.06589147286821706	perception	1898
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	37	0.1434108527131783	perception	1899
-m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	125	0.4844961240310077	perception	1900
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	0	0	perception	1901
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	0	0	perception	1902
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	perception	1903
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	0	0	perception	1904
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	0	0	perception	1905
-m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1906
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1907
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	0	0	perception	1908
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	perception	1909
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	0	0	perception	1910
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	0	0	perception	1911
-m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	1	0.003875968992248062	perception	1912
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1913
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	1	0.003875968992248062	perception	1914
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	2	0.007751937984496124	perception	1915
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	perception	1916
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	1	0.003875968992248062	perception	1917
-m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	19	0.07364341085271318	perception	1918
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1919
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	perception	1920
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	4	0.015503875968992248	perception	1921
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	perception	1922
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	7	0.027131782945736434	perception	1923
-m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	13	0.050387596899224806	perception	1924
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	2	0.007751937984496124	perception	1925
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	3	0.011627906976744186	perception	1926
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	perception	1927
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	5	0.01937984496124031	perception	1928
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	6	0.023255813953488372	perception	1929
-m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	44	0.17054263565891473	perception	1930
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1931
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	5	0.01937984496124031	perception	1932
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	perception	1933
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	2	0.007751937984496124	perception	1934
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	13	0.050387596899224806	perception	1935
-m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	34	0.13178294573643412	perception	1936
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	3	0.011627906976744186	perception	1937
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	5	0.01937984496124031	perception	1938
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	perception	1939
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	11	0.04263565891472868	perception	1940
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	16	0.06201550387596899	perception	1941
-m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	45	0.1744186046511628	perception	1942
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1943
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	perception	1944
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	3	0.011627906976744186	perception	1945
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	4	0.015503875968992248	perception	1946
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	5	0.01937984496124031	perception	1947
-m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	2	0.007751937984496124	perception	1948
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	2	0.007751937984496124	perception	1949
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	5	0.01937984496124031	perception	1950
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	2	0.007751937984496124	perception	1951
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	2	0.007751937984496124	perception	1952
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	15	0.05813953488372093	perception	1953
-m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	18	0.06976744186046512	perception	1954
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	perception	1955
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	perception	1956
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	3	0.011627906976744186	perception	1957
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	6	0.023255813953488372	perception	1958
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	8	0.031007751937984496	perception	1959
-m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	30	0.11627906976744186	perception	1960
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	2	0.007751937984496124	perception	1961
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	1	0.003875968992248062	perception	1962
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	perception	1963
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	4	0.015503875968992248	perception	1964
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	6	0.023255813953488372	perception	1965
-m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	36	0.13953488372093023	perception	1966
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	1	0.003875968992248062	perception	1967
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	6	0.023255813953488372	perception	1968
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	4	0.015503875968992248	perception	1969
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	4	0.015503875968992248	perception	1970
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	9	0.03488372093023256	perception	1971
-m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	70	0.2713178294573643	perception	1972
+m_gender	2	Female	महिला	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	outlook	1447
+m_gender	2	Female	महिला	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	3	0.011627906976744186	outlook	1448
+m_gender	2	Female	महिला	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	10	0.03875968992248062	outlook	1449
+m_gender	2	Female	महिला	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	11	0.04263565891472868	outlook	1450
+m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	13	0.050387596899224806	outlook	1451
+m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	72	0.27906976744186046	outlook	1452
+m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	72	0.27906976744186046	outlook	1453
+m_gender	1	Male	पुरुष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	76	0.29457364341085274	outlook	1454
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	outlook	1455
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	0	0	outlook	1456
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	0	0	outlook	1457
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	outlook	1458
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	outlook	1459
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	outlook	1460
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	4	0.015503875968992248	outlook	1461
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	1	0.003875968992248062	outlook	1462
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	outlook	1463
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	22	0.08527131782945736	outlook	1464
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	6	0.023255813953488372	outlook	1465
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	12	0.046511627906976744	outlook	1466
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	10	0.03875968992248062	outlook	1467
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	53	0.2054263565891473	outlook	1468
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	72	0.27906976744186046	outlook	1469
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	74	0.2868217054263566	outlook	1470
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	outlook	1471
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	0	0	outlook	1472
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	0	0	outlook	1473
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	outlook	1474
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	outlook	1475
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	0	0	outlook	1476
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	1	0.003875968992248062	outlook	1477
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	0	0	outlook	1478
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	0	0	outlook	1479
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	14	0.05426356589147287	outlook	1480
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	6	0.023255813953488372	outlook	1481
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	4	0.015503875968992248	outlook	1482
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	outlook	1483
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	10	0.03875968992248062	outlook	1484
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	10	0.03875968992248062	outlook	1485
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	6	0.023255813953488372	outlook	1486
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	2	0.007751937984496124	outlook	1487
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	18	0.06976744186046512	outlook	1488
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	19	0.07364341085271318	outlook	1489
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	21	0.08139534883720931	outlook	1490
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	2	0.007751937984496124	outlook	1491
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	11	0.04263565891472868	outlook	1492
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	20	0.07751937984496124	outlook	1493
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	27	0.10465116279069768	outlook	1494
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	9	0.03488372093023256	outlook	1495
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	22	0.08527131782945736	outlook	1496
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	26	0.10077519379844961	outlook	1497
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	29	0.1124031007751938	outlook	1498
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	1	0.003875968992248062	outlook	1499
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	3	0.011627906976744186	outlook	1500
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	6	0.023255813953488372	outlook	1501
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	6	0.023255813953488372	outlook	1502
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	outlook	1503
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	8	0.031007751937984496	outlook	1504
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	14	0.05426356589147287	outlook	1505
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	19	0.07364341085271318	outlook	1506
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	outlook	1507
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	12	0.046511627906976744	outlook	1508
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	15	0.05813953488372093	outlook	1509
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	19	0.07364341085271318	outlook	1510
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	3	0.011627906976744186	outlook	1511
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	25	0.09689922480620156	outlook	1512
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	12	0.046511627906976744	outlook	1513
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	15	0.05813953488372093	outlook	1514
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	4	0.015503875968992248	outlook	1515
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	27	0.10465116279069768	outlook	1516
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	35	0.13565891472868216	outlook	1517
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	28	0.10852713178294573	outlook	1518
+m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1519
+m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1520
+m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	outlook	1521
+m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	11	0.04263565891472868	outlook	1522
+m_gender	2	Female	महिला	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	14	0.05426356589147287	outlook	1523
+m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	3	0.011627906976744186	outlook	1524
+m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	5	0.01937984496124031	outlook	1525
+m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	15	0.05813953488372093	outlook	1526
+m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	66	0.2558139534883721	outlook	1527
+m_gender	1	Male	पुरुष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	144	0.5581395348837209	outlook	1528
+m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1529
+m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	outlook	1530
+m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	0	0	outlook	1531
+m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1532
+m_gender	3	Third gender	तेस्रो लिंगी	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	0	0	outlook	1533
+m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1534
+m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1535
+m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	1	0.003875968992248062	outlook	1536
+m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	3	0.011627906976744186	outlook	1537
+m_age	1	Less than 20 years	०-२० बर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	2	0.007751937984496124	outlook	1538
+m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	2	0.007751937984496124	outlook	1539
+m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	outlook	1540
+m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	outlook	1541
+m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	13	0.050387596899224806	outlook	1542
+m_age	3	41 - 60 years	४१-६० वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	24	0.09302325581395349	outlook	1543
+m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	1	0.003875968992248062	outlook	1544
+m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	3	0.011627906976744186	outlook	1545
+m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	12	0.046511627906976744	outlook	1546
+m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	61	0.2364341085271318	outlook	1547
+m_age	2	21 - 40 years	२१-४० बर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	132	0.5116279069767442	outlook	1548
+m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1549
+m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	outlook	1550
+m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	0	0	outlook	1551
+m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1552
+m_age	4	61 and above	६१ वर्ष वा माथि	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	0	0	outlook	1553
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1554
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1555
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	outlook	1556
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	0	0	outlook	1557
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	1	0.003875968992248062	outlook	1558
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1559
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	outlook	1560
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	0	0	outlook	1561
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	5	0.01937984496124031	outlook	1562
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	17	0.06589147286821706	outlook	1563
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1564
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1565
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	outlook	1566
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	10	0.03875968992248062	outlook	1567
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	15	0.05813953488372093	outlook	1568
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1569
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	outlook	1570
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	outlook	1571
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	12	0.046511627906976744	outlook	1572
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	45	0.1744186046511628	outlook	1573
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	1	0.003875968992248062	outlook	1574
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	outlook	1575
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	6	0.023255813953488372	outlook	1576
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	23	0.08914728682170543	outlook	1577
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	29	0.1124031007751938	outlook	1578
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	2	0.007751937984496124	outlook	1579
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	outlook	1580
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	5	0.01937984496124031	outlook	1581
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	27	0.10465116279069768	outlook	1582
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	51	0.19767441860465115	outlook	1583
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1584
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1585
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	outlook	1586
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	6	0.023255813953488372	outlook	1587
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	8	0.031007751937984496	outlook	1588
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1589
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	outlook	1590
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	1	0.003875968992248062	outlook	1591
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	16	0.06201550387596899	outlook	1592
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	25	0.09689922480620156	outlook	1593
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	0	0	outlook	1594
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	0	0	outlook	1595
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	3	0.011627906976744186	outlook	1596
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	17	0.06589147286821706	outlook	1597
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	29	0.1124031007751938	outlook	1598
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	2	0.007751937984496124	outlook	1599
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	2	0.007751937984496124	outlook	1600
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	2	0.007751937984496124	outlook	1601
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	20	0.07751937984496124	outlook	1602
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	29	0.1124031007751938	outlook	1603
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	1	0.003875968992248062	outlook	1604
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	1	0.003875968992248062	outlook	1605
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	7	0.027131782945736434	outlook	1606
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	18	0.06976744186046512	outlook	1607
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	67	0.2596899224806202	outlook	1608
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	outlook	1609
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1610
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	9	0.03488372093023256	outlook	1611
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	12	0.046511627906976744	outlook	1612
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	20	0.07751937984496124	outlook	1613
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	12	0.046511627906976744	outlook	1614
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	16	0.06201550387596899	outlook	1615
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	15	0.05813953488372093	outlook	1616
+m_gender	2	Female	महिला	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	17	0.06589147286821706	outlook	1617
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	3	0.011627906976744186	outlook	1618
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	4	0.015503875968992248	outlook	1619
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	66	0.2558139534883721	outlook	1620
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	120	0.46511627906976744	outlook	1621
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	118	0.4573643410852713	outlook	1622
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	152	0.5891472868217055	outlook	1623
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	149	0.5775193798449613	outlook	1624
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	152	0.5891472868217055	outlook	1625
+m_gender	1	Male	पुरुष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	161	0.624031007751938	outlook	1626
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	outlook	1627
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1628
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	3	0.011627906976744186	outlook	1629
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	1	0.003875968992248062	outlook	1630
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	3	0.011627906976744186	outlook	1631
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	2	0.007751937984496124	outlook	1632
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	3	0.011627906976744186	outlook	1633
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	3	0.011627906976744186	outlook	1634
+m_age	1	Less than 20 years	०-२० बर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	4	0.015503875968992248	outlook	1635
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	1	0.003875968992248062	outlook	1636
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	outlook	1637
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	11	0.04263565891472868	outlook	1638
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	18	0.06976744186046512	outlook	1639
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	30	0.11627906976744186	outlook	1640
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	25	0.09689922480620156	outlook	1641
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	28	0.10852713178294573	outlook	1642
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	25	0.09689922480620156	outlook	1643
+m_age	3	41 - 60 years	४१-६० वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	34	0.13178294573643412	outlook	1644
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	4	0.015503875968992248	outlook	1645
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	3	0.011627906976744186	outlook	1646
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	61	0.2364341085271318	outlook	1647
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	113	0.437984496124031	outlook	1648
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	105	0.4069767441860465	outlook	1649
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	137	0.5310077519379846	outlook	1650
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	134	0.5193798449612403	outlook	1651
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	139	0.5387596899224806	outlook	1652
+m_age	2	21 - 40 years	२१-४० बर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	140	0.5426356589147286	outlook	1653
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	outlook	1654
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1655
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	0	0	outlook	1656
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	0	0	outlook	1657
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	1	0.003875968992248062	outlook	1658
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	1	0.003875968992248062	outlook	1659
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	1	0.003875968992248062	outlook	1660
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	1	0.003875968992248062	outlook	1661
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	1	0.003875968992248062	outlook	1662
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	outlook	1663
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1664
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	7	0.027131782945736434	outlook	1665
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	12	0.046511627906976744	outlook	1666
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	14	0.05426356589147287	outlook	1667
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	21	0.08139534883720931	outlook	1668
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	17	0.06589147286821706	outlook	1669
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	20	0.07751937984496124	outlook	1670
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	19	0.07364341085271318	outlook	1671
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	outlook	1672
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	outlook	1673
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	7	0.027131782945736434	outlook	1674
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	16	0.06201550387596899	outlook	1675
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	17	0.06589147286821706	outlook	1676
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	17	0.06589147286821706	outlook	1677
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	15	0.05813953488372093	outlook	1678
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	17	0.06589147286821706	outlook	1679
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	17	0.06589147286821706	outlook	1680
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	outlook	1681
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1682
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	18	0.06976744186046512	outlook	1683
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	31	0.12015503875968993	outlook	1684
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	31	0.12015503875968993	outlook	1685
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	45	0.1744186046511628	outlook	1686
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	34	0.13178294573643412	outlook	1687
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	41	0.15891472868217055	outlook	1688
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	43	0.16666666666666666	outlook	1689
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	8	other	अन्य	1	0.003875968992248062	outlook	1690
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	2	0.007751937984496124	outlook	1691
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	16	0.06201550387596899	outlook	1692
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	29	0.1124031007751938	outlook	1693
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	12	0.046511627906976744	outlook	1719
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	31	0.12015503875968993	outlook	1694
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	29	0.1124031007751938	outlook	1695
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	39	0.1511627906976744	outlook	1696
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	32	0.12403100775193798	outlook	1697
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	36	0.13953488372093023	outlook	1698
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	outlook	1699
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	outlook	1700
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	27	0.10465116279069768	outlook	1701
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	44	0.17054263565891473	outlook	1702
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	44	0.17054263565891473	outlook	1703
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	51	0.19767441860465115	outlook	1704
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	59	0.22868217054263565	outlook	1705
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	56	0.21705426356589147	outlook	1706
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	62	0.24031007751937986	outlook	1707
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	outlook	1708
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1709
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	10	0.03875968992248062	outlook	1710
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	4	0.015503875968992248	outlook	1711
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	9	0.03488372093023256	outlook	1712
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	6	0.023255813953488372	outlook	1713
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	8	0.031007751937984496	outlook	1714
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	7	0.027131782945736434	outlook	1715
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	9	0.03488372093023256	outlook	1716
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	outlook	1717
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1718
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	22	0.08527131782945736	outlook	1720
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	20	0.07751937984496124	outlook	1721
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	27	0.10465116279069768	outlook	1722
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	32	0.12403100775193798	outlook	1723
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	28	0.10852713178294573	outlook	1724
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	30	0.11627906976744186	outlook	1725
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	0	0	outlook	1726
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	0	0	outlook	1727
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	9	0.03488372093023256	outlook	1728
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	22	0.08527131782945736	outlook	1729
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	28	0.10852713178294573	outlook	1730
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	29	0.1124031007751938	outlook	1731
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	30	0.11627906976744186	outlook	1732
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	32	0.12403100775193798	outlook	1733
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	32	0.12403100775193798	outlook	1734
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	8	other	अन्य	1	0.003875968992248062	outlook	1735
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	1	0.003875968992248062	outlook	1736
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	16	0.06201550387596899	outlook	1737
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	28	0.10852713178294573	outlook	1738
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	37	0.1434108527131783	outlook	1739
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	37	0.1434108527131783	outlook	1740
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	40	0.15503875968992248	outlook	1741
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	37	0.1434108527131783	outlook	1742
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	41	0.15891472868217055	outlook	1743
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	8	other	अन्य	2	0.007751937984496124	outlook	1744
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	3	0.011627906976744186	outlook	1745
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	28	0.10852713178294573	outlook	1746
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	56	0.21705426356589147	outlook	1747
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	44	0.17054263565891473	outlook	1748
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	65	0.25193798449612403	outlook	1749
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	55	0.2131782945736434	outlook	1750
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	63	0.2441860465116279	outlook	1751
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	66	0.2558139534883721	outlook	1752
+m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	6	other	अन्य	3	0.011627906976744186	outlook	1753
+m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1754
+m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	5	0.01937984496124031	outlook	1755
+m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	10	0.03875968992248062	outlook	1756
+m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	17	0.06589147286821706	outlook	1757
+m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	19	0.07364341085271318	outlook	1758
+m_gender	2	Female	महिला	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	23	0.08914728682170543	outlook	1759
+m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	6	other	अन्य	5	0.01937984496124031	outlook	1760
+m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	outlook	1761
+m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	69	0.26744186046511625	outlook	1762
+m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	143	0.5542635658914729	outlook	1763
+m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	146	0.5658914728682171	outlook	1764
+m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	162	0.627906976744186	outlook	1765
+m_gender	1	Male	पुरुष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	190	0.7364341085271318	outlook	1766
+m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	0	0	outlook	1767
+m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1768
+m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	0	0	outlook	1769
+m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	4	0.015503875968992248	outlook	1770
+m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	4	0.015503875968992248	outlook	1771
+m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	4	0.015503875968992248	outlook	1772
+m_age	1	Less than 20 years	०-२० बर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	4	0.015503875968992248	outlook	1773
+m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	3	0.011627906976744186	outlook	1774
+m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	outlook	1775
+m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	15	0.05813953488372093	outlook	1776
+m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	27	0.10465116279069768	outlook	1777
+m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	27	0.10465116279069768	outlook	1778
+m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	33	0.12790697674418605	outlook	1779
+m_age	3	41 - 60 years	४१-६० वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	33	0.12790697674418605	outlook	1780
+m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	5	0.01937984496124031	outlook	1781
+m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1782
+m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	59	0.22868217054263565	outlook	1783
+m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	122	0.4728682170542636	outlook	1784
+m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	132	0.5116279069767442	outlook	1785
+m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	144	0.5581395348837209	outlook	1786
+m_age	2	21 - 40 years	२१-४० बर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	176	0.6821705426356589	outlook	1787
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	6	other	अन्य	0	0	outlook	1788
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1789
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	0	0	outlook	1790
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	0	0	outlook	1791
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	0	0	outlook	1792
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	0	0	outlook	1793
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	1	0.003875968992248062	outlook	1794
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	outlook	1795
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	outlook	1796
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	5	0.01937984496124031	outlook	1797
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	13	0.050387596899224806	outlook	1798
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	14	0.05426356589147287	outlook	1799
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	14	0.05426356589147287	outlook	1800
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	20	0.07751937984496124	outlook	1801
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	outlook	1802
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1803
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	12	0.046511627906976744	outlook	1804
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	21	0.08139534883720931	outlook	1805
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	17	0.06589147286821706	outlook	1806
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	18	0.06976744186046512	outlook	1807
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	22	0.08527131782945736	outlook	1808
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	outlook	1809
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1810
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	9	0.03488372093023256	outlook	1811
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	30	0.11627906976744186	outlook	1812
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	40	0.15503875968992248	outlook	1813
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	44	0.17054263565891473	outlook	1814
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	49	0.18992248062015504	outlook	1815
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	6	other	अन्य	4	0.015503875968992248	outlook	1816
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1817
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	23	0.08914728682170543	outlook	1818
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	35	0.13565891472868216	outlook	1819
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	42	0.16279069767441862	outlook	1820
+m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	16	0.06201550387596899	outlook	1873
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	50	0.1937984496124031	outlook	1821
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	52	0.20155038759689922	outlook	1822
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	outlook	1823
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1824
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	25	0.09689922480620156	outlook	1825
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	54	0.20930232558139536	outlook	1826
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	50	0.1937984496124031	outlook	1827
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	55	0.2131782945736434	outlook	1828
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	69	0.26744186046511625	outlook	1829
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	0	0	outlook	1830
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1831
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	4	0.015503875968992248	outlook	1832
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	11	0.04263565891472868	outlook	1833
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	9	0.03488372093023256	outlook	1834
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	9	0.03488372093023256	outlook	1835
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	10	0.03875968992248062	outlook	1836
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	2	0.007751937984496124	outlook	1837
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1838
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	15	0.05813953488372093	outlook	1839
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	24	0.09302325581395349	outlook	1840
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	24	0.09302325581395349	outlook	1841
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	29	0.1124031007751938	outlook	1842
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	37	0.1434108527131783	outlook	1843
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	2	0.007751937984496124	outlook	1844
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1845
+m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	14	0.05426356589147287	outlook	1872
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	16	0.06201550387596899	outlook	1846
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	31	0.12015503875968993	outlook	1847
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	31	0.12015503875968993	outlook	1848
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	34	0.13178294573643412	outlook	1849
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	41	0.15891472868217055	outlook	1850
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	6	other	अन्य	3	0.011627906976744186	outlook	1851
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	1	0.003875968992248062	outlook	1852
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	21	0.08139534883720931	outlook	1853
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	37	0.1434108527131783	outlook	1854
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	32	0.12403100775193798	outlook	1855
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	40	0.15503875968992248	outlook	1856
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	44	0.17054263565891473	outlook	1857
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	6	other	अन्य	1	0.003875968992248062	outlook	1858
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	0	0	outlook	1859
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	18	0.06976744186046512	outlook	1860
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	50	0.1937984496124031	outlook	1861
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	67	0.2596899224806202	outlook	1862
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	69	0.26744186046511625	outlook	1863
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	81	0.313953488372093	outlook	1864
+m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	1	0.003875968992248062	outlook	1865
+m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	outlook	1866
+m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	2	0.007751937984496124	outlook	1867
+m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	outlook	1868
+m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	5	0.01937984496124031	outlook	1869
+m_gender	2	Female	महिला	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	14	0.05426356589147287	outlook	1870
+m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	4	0.015503875968992248	outlook	1871
+m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	19	0.07364341085271318	outlook	1874
+m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	38	0.14728682170542637	outlook	1875
+m_gender	1	Male	पुरुष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	142	0.5503875968992248	outlook	1876
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	0	0	outlook	1877
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	0	0	outlook	1878
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	outlook	1879
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	0	0	outlook	1880
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	0	0	outlook	1881
+m_gender	3	Third gender	तेस्रो लिंगी	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1882
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1883
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	1	0.003875968992248062	outlook	1884
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	outlook	1885
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	outlook	1886
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	2	0.007751937984496124	outlook	1887
+m_age	1	Less than 20 years	०-२० बर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	2	0.007751937984496124	outlook	1888
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1889
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	outlook	1890
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	outlook	1891
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	2	0.007751937984496124	outlook	1892
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	4	0.015503875968992248	outlook	1893
+m_age	3	41 - 60 years	४१-६० वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	29	0.1124031007751938	outlook	1894
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	5	0.01937984496124031	outlook	1895
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	13	0.050387596899224806	outlook	1896
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	12	0.046511627906976744	outlook	1897
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	17	0.06589147286821706	outlook	1898
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	37	0.1434108527131783	outlook	1899
+m_age	2	21 - 40 years	२१-४० बर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	125	0.4844961240310077	outlook	1900
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	0	0	outlook	1901
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	0	0	outlook	1902
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	outlook	1903
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	0	0	outlook	1904
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	0	0	outlook	1905
+m_age	4	61 and above	६१ वर्ष वा माथि	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1906
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1907
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	0	0	outlook	1908
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	outlook	1909
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	0	0	outlook	1910
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	0	0	outlook	1911
+m_edu_levl	1	No education (illiterate)	निरक्षर	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	1	0.003875968992248062	outlook	1912
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1913
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	1	0.003875968992248062	outlook	1914
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	2	0.007751937984496124	outlook	1915
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	outlook	1916
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	1	0.003875968992248062	outlook	1917
+m_edu_levl	2	Can read and/or write	अक्षर चिन्ने	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	19	0.07364341085271318	outlook	1918
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1919
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	outlook	1920
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	4	0.015503875968992248	outlook	1921
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	1	0.003875968992248062	outlook	1922
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	7	0.027131782945736434	outlook	1923
+m_edu_levl	6	Master's degree or higher	स्नातकोत्तर वा माथि	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	13	0.050387596899224806	outlook	1924
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	2	0.007751937984496124	outlook	1925
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	3	0.011627906976744186	outlook	1926
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	0	0	outlook	1927
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	5	0.01937984496124031	outlook	1928
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	6	0.023255813953488372	outlook	1929
+m_edu_levl	3	SLC or equivalent	एस्.एल.सी.	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	44	0.17054263565891473	outlook	1930
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1931
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	5	0.01937984496124031	outlook	1932
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	outlook	1933
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	2	0.007751937984496124	outlook	1934
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	13	0.050387596899224806	outlook	1935
+m_edu_levl	5	Bachelor's degree or equivalent	स्नातक	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	34	0.13178294573643412	outlook	1936
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	3	0.011627906976744186	outlook	1937
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	5	0.01937984496124031	outlook	1938
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	outlook	1939
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	11	0.04263565891472868	outlook	1940
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	16	0.06201550387596899	outlook	1941
+m_edu_levl	4	10+2 or equivalent	+२' वा सो सरह	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	45	0.1744186046511628	outlook	1942
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1943
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	outlook	1944
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	3	0.011627906976744186	outlook	1945
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	4	0.015503875968992248	outlook	1946
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	5	0.01937984496124031	outlook	1947
+m_years_of_experience	1	0 to 2 years	०-२ वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	2	0.007751937984496124	outlook	1948
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	2	0.007751937984496124	outlook	1949
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	5	0.01937984496124031	outlook	1950
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	2	0.007751937984496124	outlook	1951
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	2	0.007751937984496124	outlook	1952
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	15	0.05813953488372093	outlook	1953
+m_years_of_experience	2	3 to 5 years	३-५ वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	18	0.06976744186046512	outlook	1954
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	0	0	outlook	1955
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	2	0.007751937984496124	outlook	1956
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	3	0.011627906976744186	outlook	1957
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	6	0.023255813953488372	outlook	1958
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	8	0.031007751937984496	outlook	1959
+m_years_of_experience	4	11 to 15 years	११-१५ बर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	30	0.11627906976744186	outlook	1960
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	2	0.007751937984496124	outlook	1961
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	1	0.003875968992248062	outlook	1962
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	6	0.023255813953488372	outlook	1963
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	4	0.015503875968992248	outlook	1964
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	6	0.023255813953488372	outlook	1965
+m_years_of_experience	5	15 years or more	१५ वर्ष भन्दा बढी	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	36	0.13953488372093023	outlook	1966
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	1	0.003875968992248062	outlook	1967
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	6	0.023255813953488372	outlook	1968
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	4	0.015503875968992248	outlook	1969
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	4	0.015503875968992248	outlook	1970
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	9	0.03488372093023256	outlook	1971
+m_years_of_experience	3	6 to 10 years	६-१० वर्ष	o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	70	0.2713178294573643	outlook	1972
 \.
 
 
@@ -7395,37 +7395,37 @@ n_rcvry_preferred_incentives	4	New employment opportunities	नयाँ रो�
 n_rcvry_preferred_incentives	9	Provision of social security system	सामाजिक सुरक्षाको व्यवस्था	need	140	0.5426356589147286	83
 n_rcvry_preferred_incentives	2	Employment-related training or retraining	रोजगारीमूलक तालिम वा पुन:प्रशिक्षण	need	142	0.5503875968992248	84
 n_rcvry_preferred_incentives	5	Subsidized loans	सहुलियत दरमा ऋण	need	168	0.6511627906976745	85
-o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	perception	14	0.05426356589147287	86
-o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	perception	75	0.29069767441860467	87
-o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	perception	82	0.3178294573643411	88
-o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	perception	87	0.3372093023255814	89
-o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	perception	3	0.011627906976744186	90
-o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	perception	5	0.01937984496124031	91
-o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	perception	15	0.05813953488372093	92
-o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	perception	77	0.29844961240310075	93
-o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	perception	158	0.6124031007751938	94
-o_impct_to_self_nxt_6_mnths	8	other	अन्य	perception	5	0.01937984496124031	95
-o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	perception	4	0.015503875968992248	96
-o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	perception	75	0.29069767441860467	97
-o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	perception	132	0.5116279069767442	98
-o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	perception	138	0.5348837209302325	99
-o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	perception	164	0.6356589147286822	100
-o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	perception	165	0.6395348837209303	101
-o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	perception	167	0.6472868217054264	102
-o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	perception	178	0.689922480620155	103
-o_rcvry_chllng_trsm_revival	6	other	अन्य	perception	8	0.031007751937984496	104
-o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	perception	1	0.003875968992248062	105
-o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	perception	74	0.2868217054263566	106
-o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	perception	153	0.5930232558139535	107
-o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	perception	163	0.6317829457364341	108
-o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	perception	181	0.7015503875968992	109
-o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	perception	213	0.8255813953488372	110
-o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	perception	5	0.01937984496124031	111
-o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	perception	16	0.06201550387596899	112
-o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	perception	18	0.06976744186046512	113
-o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	perception	20	0.07751937984496124	114
-o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	perception	43	0.16666666666666666	115
-o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	perception	156	0.6046511627906976	116
+o_econ_impact_how_long_months	1	Less than 6 months	६ महिना भन्दा कम	outlook	14	0.05426356589147287	86
+o_econ_impact_how_long_months	4	24 months or more	२४ महिना भन्दा बढी	outlook	75	0.29069767441860467	87
+o_econ_impact_how_long_months	3	13 to 24 months	१३ देखि २४ महिना सम्म	outlook	82	0.3178294573643411	88
+o_econ_impact_how_long_months	2	6 to 12 months	६ देखि १२ महिना सम्म	outlook	87	0.3372093023255814	89
+o_empl_status_to_nrml_how_long_months	4	I've left the tourism sector	म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु	outlook	3	0.011627906976744186	90
+o_empl_status_to_nrml_how_long_months	1	Immediately	तुरुन्तै	outlook	5	0.01937984496124031	91
+o_empl_status_to_nrml_how_long_months	2	Within 3 months	सुचारु भएको ३ महिना भित्र	outlook	15	0.05813953488372093	92
+o_empl_status_to_nrml_how_long_months	3	Within 12 months	सुचारु भएको १२ महिना भित्र	outlook	77	0.29844961240310075	93
+o_empl_status_to_nrml_how_long_months	5	Can't say	केहि भन्न सकिंदैन	outlook	158	0.6124031007751938	94
+o_impct_to_self_nxt_6_mnths	8	other	अन्य	outlook	5	0.01937984496124031	95
+o_impct_to_self_nxt_6_mnths	9	I won't have to suffer from Covid-19 in any way	मलाई कोभिड-१९ ले कुनै प्रकारको अवस्था भोग्नु नपर्ला	outlook	4	0.015503875968992248	96
+o_impct_to_self_nxt_6_mnths	1	Won't be able to pay house / room rent (partially)	घर/कोठा भाडा तिर्न सकिन्न (आम्सिक)	outlook	75	0.29069767441860467	97
+o_impct_to_self_nxt_6_mnths	6	Won't be able to acquire additional loans and borrowings	ऋण तथा सापटी लिन सकिन्न	outlook	132	0.5116279069767442	98
+o_impct_to_self_nxt_6_mnths	4	Won't be able to afford necessary educational services	शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	outlook	138	0.5348837209302325	99
+o_impct_to_self_nxt_6_mnths	2	Won't be able to pay house / room rent (full)	घर/कोठा भाडा तिर्न सकिन्न (पूर्ण)	outlook	164	0.6356589147286822	100
+o_impct_to_self_nxt_6_mnths	3	Won't be able to meet necessary health care expenses	स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न	outlook	165	0.6395348837209303	101
+o_impct_to_self_nxt_6_mnths	5	Won't be able to meet fooding expenses	खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न	outlook	167	0.6472868217054264	102
+o_impct_to_self_nxt_6_mnths	7	Won't be able to pay off existing loans	ऋण तथा सापटी तिर्न सकिन्न	outlook	178	0.689922480620155	103
+o_rcvry_chllng_trsm_revival	6	other	अन्य	outlook	8	0.031007751937984496	104
+o_rcvry_chllng_trsm_revival	7	There are no challenges in the tourism sector that I am involved in	म संलग्न रहेको पर्यटन क्षेत्रमा कुनै किसिमका चुनौतीहरू छैनन्	outlook	1	0.003875968992248062	105
+o_rcvry_chllng_trsm_revival	5	Understanding the demands and needs of the source market correctly	स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने	outlook	74	0.2868217054263566	106
+o_rcvry_chllng_trsm_revival	1	Winning tourists' confidence	कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने	outlook	153	0.5930232558139535	107
+o_rcvry_chllng_trsm_revival	3	Overcoming financial challenges	आर्थिक चुनौतीहरू	outlook	163	0.6317829457364341	108
+o_rcvry_chllng_trsm_revival	4	Decreased number of tourists	पर्यटकको संख्यामा आउने कमि	outlook	181	0.7015503875968992	109
+o_rcvry_chllng_trsm_revival	2	Ensuring HHS Compliance	स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने	outlook	213	0.8255813953488372	110
+o_econ_impact_fml_income_chng_21_v_19	6	Will exceed that of 2019	कुल आय बढ्छ होला	outlook	5	0.01937984496124031	111
+o_econ_impact_fml_income_chng_21_v_19	2	Will reduce by 25%	कुल आय एक-चौथाई (२५%)ले घट्छ होला	outlook	16	0.06201550387596899	112
+o_econ_impact_fml_income_chng_21_v_19	3	Will reduce by 50%	कुल आय आधि (५०%)ले घट्छ होला	outlook	18	0.06976744186046512	113
+o_econ_impact_fml_income_chng_21_v_19	1	Will stay the same	कुल आय लगभग उत्तिक्कै हुन्छ होला	outlook	20	0.07751937984496124	114
+o_econ_impact_fml_income_chng_21_v_19	4	Will reduce by 75%	कुल आय तीन-चौथाई (७५%)ले घट्छ होला	outlook	43	0.16666666666666666	115
+o_econ_impact_fml_income_chng_21_v_19	5	Will reduce to zero	कुल आय लगभग शुन्य (०%) हुन्छ होला	outlook	156	0.6046511627906976	116
 m_gender	2	Female	महिला	\N	25	0.09689922480620156	117
 m_gender	1	Male	पुरुष	\N	233	0.9031007751937985	118
 m_age	1	Less than 20 years	०-२० बर्ष	\N	6	0.023255813953488372	119
