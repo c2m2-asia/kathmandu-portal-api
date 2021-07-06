@@ -76,19 +76,25 @@ class BivariateBusinesses (models.Model):
         unique_together = (('xvariable', 'xvalue', 'yvariable', 'yvalue'),)
         managed = False
 
-# class BusinessCoordinates (models.Model):
-#     m_name_business = models.TextField()
-#     value = models.TextField()
-#     variable = models.TextField()
-#     label_en = models.TextField()
-#     label_ne = models.TextField()
-#     m_coodinates_latitude = models.TextField()
-#     m_coodinates_longitude = models.TextField()
+class MapDistribution (models.Model):
 
-#     class Meta:
-#         db_table = 'business_coordinate_stats'
-#         unique_together = (('m_name_business', 'value', 'variable'))
-#         managed = False
+    index = models.BigIntegerField(primary_key=True)
+    businessname = models.TextField()
+    submissiondate = models.BigIntegerField()
+    businesstype = models.TextField()
+    percoftotal = models.BigIntegerField()
+    total = models.BigIntegerField()
+    value = models.BigIntegerField()
+    variable = models.TextField()
+    label_en = models.TextField()
+    label_ne = models.TextField()
+    latitude = models.FloatField()
+    longitude = models.FloatField()
+
+    class Meta:
+        db_table = 'map_visualization_data'
+        unique_together = (('businessname', 'value', 'variable'))
+        managed = False
 
 # class MapDistribution (models.Model):
 #     variable = models.TextField()

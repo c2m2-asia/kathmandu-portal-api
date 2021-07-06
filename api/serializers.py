@@ -21,11 +21,10 @@ class BivariateBusinesses(serializers.ModelSerializer):
         model = models.BivariateBusinesses
         fields = '__all__'
 
-# class BusinessCoordinates(serializers.ModelSerializer):
-
-#     class Meta:
-#         model = models.BusinessCoordinates
-#         fields = '__all__'
+class MapDistribution(serializers.ModelSerializer):
+    class Meta:
+        model = models.MapDistribution
+        fields = '__all__'
 
 # class MapDistribution(serializers.ModelSerializer):
 

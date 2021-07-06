@@ -154,6 +154,17 @@ class BivariateViewSet(viewsets.ViewSet):
         response = {"univariate": univariate_final,"bivariate": bivariate_final}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
 
+class MapVisualization(viewsets.ViewSet):
+    def list(Self, request):
+        timeindex = request.GET.get('timeindex')
+
+        model_map_distribution = apps.get_model('api', 'MapDistribution')
+        map_distribution = model_map_distribution.objects.filter(submissiondate__lte = timeindex)
+        serializer_distribution = getattr(serializers, 'MapDistribution')(map_distribution, many=True)
+
+        response = {"distribution": serializer_distribution.data}
+        return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
+
 def extract_all(dict1):
     
     def extract_total(dict2):
@@ -175,7 +186,7 @@ def extract_all(dict1):
         return new_list
 
     def prepare_dict(new_list):
-        # print('new_list', new_list)
+        print('new_list', new_list)
         final_list = []
         for dicts in new_list:
             sub_list = []
@@ -270,19 +281,6 @@ def merge_dict(dict1, dict2):
         new_dict['chart_data'] = dict1[key]
         dict3.append(new_dict)
     return dict3
-
-# class MapVisualization(viewsets.ViewSet):
-#     def list(Self, request):
-#         model_distribution = apps.get_model('api', 'MapDistribution')
-#         map_dist_stats = model_distribution.objects.all()
-#         serializer_dist = getattr(serializers, 'MapDistribution')(map_dist_stats, many=True)
-        
-#         model_coordinates = apps.get_model('api', 'BusinessCoordinates')
-#         map_business_coordinates = model_coordinates.objects.all()
-#         serializer_coordinates = getattr(serializers, 'BusinessCoordinates')(map_business_coordinates, many=True)
-
-#         response = {"distribution": serializer_dist}
-#         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
 
 # class DownloadData(viewsets.ViewSet):
 #     def list(self, request):
