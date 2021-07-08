@@ -9,6 +9,7 @@ from rest_framework.response import Response
 from . import serializers
 from .filters import MyFilter
 from itertools import groupby
+from geojson import Feature, Point
 
 import pandas as pd
 
@@ -158,11 +159,38 @@ class MapVisualization(viewsets.ViewSet):
     def list(Self, request):
         timeindex = request.GET.get('timeindex')
 
+        # get project root path
+        root_path = os.path.dirname(os.path.realpath(__file__))
+        variable_highlights_map_csv_file_path = root_path + '/../variable_title_mapping_mapviz.csv'
+        highlights_response = make_json(variable_highlights_map_csv_file_path)
+
         model_map_distribution = apps.get_model('api', 'MapDistribution')
         map_distribution = model_map_distribution.objects.filter(submissiondate__lte = timeindex)
         serializer_distribution = getattr(serializers, 'MapDistribution')(map_distribution, many=True)
 
-        response = {"distribution": serializer_distribution.data}
+        data_labels_distribution = ('total', 'percoftotal', 'label_ne', 'label_en')
+        geometry_properties = ('businessname', 'businesstype')
+        geometry_coordinates =  ('longitude', 'latitude')
+
+        distribution = {}
+        
+        for data in serializer_distribution.data:
+            if data['variable'] not in distribution:
+                distribution[data['variable']] = []
+
+            features = {}
+            geometries = Feature(geometry=Point((data['longitude'], data['latitude'])), properties= {'businesstype': data['businesstype'], 'businessname': data['businessname']})
+            features = {'features': geometries}
+
+            d_labels = {}
+            for label in data_labels_distribution:
+                d_labels[label] = data[label]
+            d_labels.update(features)
+
+            distribution[data['variable']].append(d_labels)
+            # distribution[data['variable']].append(geometries)
+            
+        response = {"highlights": highlights_response, "distribution": distribution}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
 
 def extract_all(dict1):
@@ -212,15 +240,24 @@ def extract_all(dict1):
     return final_data
 
 def make_json(csvFilePath):
+
+    root_path = os.path.dirname(os.path.realpath(__file__))
+    variable_highlights_map_csv_file_path = root_path + '/../variable_title_mapping_mapviz.csv'
+
     data = {}
     with open(csvFilePath, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         
-        for rows in csvReader:
-            key = rows['variable']
-            data[key] = rows
+        if (csvFilePath == variable_highlights_map_csv_file_path):
+            for rows in csvReader:
+                key = rows['group']
+                data[key] = rows
+            
+        else:
+            for rows in csvReader:
+                key = rows['variable']
+                data[key] = rows
 
-    
         result = ques_split(data)
    
     return result
