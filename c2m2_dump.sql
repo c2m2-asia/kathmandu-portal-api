@@ -43,7 +43,7 @@ CREATE TABLE public.businesses_bivariate_stats (
 -- Name: businesses_univariate_stats ; Type: TABLE; Schema: public; Owner: -
 --
 
-CREATE TABLE public."businesses_univariate_stats " (
+CREATE TABLE public.businesses_univariate_stats (
     variable text,
     value text,
     label_en text,
@@ -3292,7 +3292,7 @@ b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	o_econ_impa
 -- Data for Name: businesses_univariate_stats ; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-COPY public."businesses_univariate_stats " (variable, value, label_en, label_ne, variablegroup, total, percoftotal, index) FROM stdin;
+COPY public.businesses_univariate_stats (variable, value, label_en, label_ne, variablegroup, total, percoftotal, index) FROM stdin;
 i_covid_effect_business	10	Other	अन्य	impact	28	0.25	1
 i_covid_effect_business	5	Supply chain disruption	आपूर्ति श्रृंखला अवरोध	impact	20	0.17857142857142858	2
 i_covid_effect_business	2	Increased Covid-19 cases in our area	हाम्रो क्षेत्रमा कोभिड-१९ केसहरू बढ्यो 	impact	36	0.32142857142857145	3
