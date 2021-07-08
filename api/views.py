@@ -236,9 +236,11 @@ def list_of_geometries(data):
                 features_i = []
                 for j in i:
                     features_i.append(features[j])
-                new_list.append({'features': features_i, 'total':total_i, 'percoftotal': percoftotal_i, 'label_ne': label_ne_i, 'label_en': label_en_i})
+                before_split_list = {'total':total_i, 'percoftotal': percoftotal_i, 'label_ne': label_ne_i, 'label_en': label_en_i, 'features': features_i}
+                new_list.append(split_func_list(before_split_list))
         
-        distribution[k].append(label_split(new_list))
+        # splitted_list = label_split(new_list)
+        distribution[k].append(new_list)
 
     return distribution
 
@@ -330,11 +332,12 @@ def split_func_list(dict1):
 def label_split(data):
     main_dict = {}
     for main_key, main_value in data.items():
-        list1 = []
-        for dict1 in main_value:
-            result = split_func_list(dict1)
-            list1.append(result)
-        main_dict[main_key] = list1
+        if(type(main_value) != int):
+            list1 = []
+            for dict1 in main_value:
+                result = split_func_list(dict1)
+                list1.append(result)
+            main_dict[main_key] = list1
     return main_dict
 
 def ques_split(data):
