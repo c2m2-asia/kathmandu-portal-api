@@ -173,7 +173,8 @@ class MapVisualization(viewsets.ViewSet):
         geometry_coordinates =  ('longitude', 'latitude')
 
         distribution = {}
-        
+        final_distribution = {}
+        list1 = []
         for data in serializer_distribution.data:
             if data['variable'] not in distribution:
                 distribution[data['variable']] = []
@@ -187,11 +188,59 @@ class MapVisualization(viewsets.ViewSet):
                 d_labels[label] = data[label]
             d_labels.update(features)
 
+            # list1.append(d_labels)
+            # final_data = list_of_geometries(list1)
+
             distribution[data['variable']].append(d_labels)
+            # final_data = []
+            # for k, v in distribution.items():
+            #     # print(v)
+            #     final_data = list_of_geometries(v)
+            # final_distribution[data['variable']].append(final_data)
             # distribution[data['variable']].append(geometries)
             
-        response = {"highlights": highlights_response, "distribution": distribution}
+        response = {"highlights": highlights_response, "distribution": list_of_geometries(distribution)}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
+
+def list_of_geometries(data):
+    distribution = {}
+    for k,v in data.items():
+        distribution[k] = []
+        label_en = [i['label_en'] for i in v] 
+        label_ne = [i['label_ne'] for i in v]
+        total = [i['total'] for i in v]
+        percoftotal = [i['percoftotal'] for i in v]
+        features = [i['features'] for i in v]
+        # Block 2
+        # This code block extracts the index of same elements in list a_values
+        output = {}
+        for idx, val in enumerate(label_en): # Loop over a_values with it's index 
+            output[idx] = []
+            for index, i in enumerate(label_en[idx:]): # Slice dict from the index we get from above loop
+                if i==val: # Checks if two elements one from a_values[idx] and another from a_values[idx+index] are equal 
+                    output[idx].append(idx+index)
+        output = list(output.values())
+        for i in output:
+            new_output = [x for x in output if x!=i]
+            for j in new_output:
+                if(all(x in i for x in j)):
+                    output.remove(j)
+        # Block 3
+        # This code uses output of above block to create required dictionary
+        new_list=[]
+        for i in output:
+                total_i = total[i[0]]
+                percoftotal_i = percoftotal[i[0]]
+                label_ne_i = label_ne[i[0]]
+                label_en_i = label_en[i[0]]
+                features_i = []
+                for j in i:
+                    features_i.append(features[j])
+                new_list.append({'features': features_i, 'total':total_i, 'percoftotal': percoftotal_i, 'label_ne': label_ne_i, 'label_en': label_en_i})
+        
+        distribution[k].append(label_split(new_list))
+
+    return distribution
 
 def extract_all(dict1):
     
@@ -241,22 +290,22 @@ def extract_all(dict1):
 
 def make_json(csvFilePath):
 
-    root_path = os.path.dirname(os.path.realpath(__file__))
-    variable_highlights_map_csv_file_path = root_path + '/../variable_title_mapping_mapviz.csv'
+    # root_path = os.path.dirname(os.path.realpath(__file__))
+    # variable_highlights_map_csv_file_path = root_path + '/../variable_title_mapping_mapviz.csv'
 
     data = {}
     with open(csvFilePath, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         
-        if (csvFilePath == variable_highlights_map_csv_file_path):
-            for rows in csvReader:
-                key = rows['group']
-                data[key] = rows
+        # if (csvFilePath == variable_highlights_map_csv_file_path):
+        #     for rows in csvReader:
+        #         key = rows['group']
+        #         data[key] = rows
             
-        else:
-            for rows in csvReader:
-                key = rows['variable']
-                data[key] = rows
+        # else:
+        for rows in csvReader:
+            key = rows['variable']
+            data[key] = rows
 
         result = ques_split(data)
    
