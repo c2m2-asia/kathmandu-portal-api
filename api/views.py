@@ -238,9 +238,10 @@ def list_of_geometries(data):
                     features_i.append(features[j])
                 before_split_list = {'total':total_i, 'percoftotal': percoftotal_i, 'label_ne': label_ne_i, 'label_en': label_en_i, 'geometries': {'type': 'FeatureCollection', 'features': features_i}}
                 new_list.append(split_func_list(before_split_list))
-        
+        # print(new_list)
         # splitted_list = label_split(new_list)
-        distribution[k].append(new_list)
+        # res = str(new_list)[1:-1]
+        distribution[k].extend(new_list)
 
     return distribution
 
