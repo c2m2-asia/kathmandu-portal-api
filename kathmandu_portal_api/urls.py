@@ -29,6 +29,7 @@ router = DefaultRouter()
 router.register('viz/distributions', views.UnivariateViewSet, basename='univariate-stats')
 router.register('viz/relationships', views.BivariateViewSet, basename='bivariate-stats')
 router.register('viz/businessmapinsights', views.MapVisualization, basename='businesses-map-visualization')
+router.register('download/bulk', views.DownloadData, basename='download-datasets')
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),

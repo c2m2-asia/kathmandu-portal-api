@@ -3,6 +3,7 @@ from __future__ import unicode_literals
 
 from django.shortcuts import render
 from django.apps import apps
+from django.http import HttpResponse
 
 from rest_framework import viewsets
 from rest_framework.response import Response
@@ -16,7 +17,10 @@ import pandas as pd
 import logging
 import csv
 import json
-import os
+import os, io
+import zipfile
+from io import StringIO
+
 
 # Create your views here.
 class UnivariateViewSet(viewsets.ViewSet):
@@ -173,8 +177,6 @@ class MapVisualization(viewsets.ViewSet):
         geometry_coordinates =  ('longitude', 'latitude')
 
         distribution = {}
-        final_distribution = {}
-        list1 = []
         for data in serializer_distribution.data:
             if data['variable'] not in distribution:
                 distribution[data['variable']] = []
@@ -188,16 +190,7 @@ class MapVisualization(viewsets.ViewSet):
                 d_labels[label] = data[label]
             d_labels.update(features)
 
-            # list1.append(d_labels)
-            # final_data = list_of_geometries(list1)
-
             distribution[data['variable']].append(d_labels)
-            # final_data = []
-            # for k, v in distribution.items():
-            #     # print(v)
-            #     final_data = list_of_geometries(v)
-            # final_distribution[data['variable']].append(final_data)
-            # distribution[data['variable']].append(geometries)
             
         response = {"highlights": highlights_response, "distribution": list_of_geometries(distribution)}
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': response })
@@ -238,9 +231,7 @@ def list_of_geometries(data):
                     features_i.append(features[j])
                 before_split_list = {'total':total_i, 'percoftotal': percoftotal_i, 'label_ne': label_ne_i, 'label_en': label_en_i, 'geometries': {'type': 'FeatureCollection', 'features': features_i}}
                 new_list.append(split_func_list(before_split_list))
-        # print(new_list)
-        # splitted_list = label_split(new_list)
-        # res = str(new_list)[1:-1]
+
         distribution[k].extend(new_list)
 
     return distribution
@@ -293,19 +284,10 @@ def extract_all(dict1):
 
 def make_json(csvFilePath):
 
-    # root_path = os.path.dirname(os.path.realpath(__file__))
-    # variable_highlights_map_csv_file_path = root_path + '/../variable_title_mapping_mapviz.csv'
-
     data = {}
     with open(csvFilePath, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         
-        # if (csvFilePath == variable_highlights_map_csv_file_path):
-        #     for rows in csvReader:
-        #         key = rows['group']
-        #         data[key] = rows
-            
-        # else:
         for rows in csvReader:
             key = rows['variable']
             data[key] = rows
@@ -353,14 +335,7 @@ def ques_split(data):
     else:
         for k,v in data.items():
             final_dict[k] = split_func_list(v)
-    return final_dict
-
-# def ques_split(data):
-#     final_result = {}
-#     for k,v in data.items():
-#         final_result[k] = split_func_list(v)
-    
-#     return final_result   
+    return final_dict 
 
 def merge_dict(dict1, dict2):
 
@@ -372,6 +347,48 @@ def merge_dict(dict1, dict2):
         dict3.append(new_dict)
     return dict3
 
-# class DownloadData(viewsets.ViewSet):
-#     def list(self, request):
+class DownloadData(viewsets.ViewSet):
+    def list(self, request):
+        type_query = request.GET.get('types')
+        types = type_query.split(',')
+
+        # get project root path
+        root_path = os.path.dirname(os.path.realpath(__file__))
+        # list for zipped files
+        filenames = []
+        for type_res in types:
+            path = root_path + '/../data/' + type_res + '_downloads_data.csv'
+            filenames.append(path)
+
+        zip_dir = type_query.replace(',','_')
+        zip_filename = "%s.zip" % zip_dir
+
+        # Open StringIO to grab in-memory ZIP contents
+        s = io.BytesIO()
+
+        # The zip compressor
+        zf = zipfile.ZipFile(s, "w")
+
+        for fpath in filenames:
+            # Calculate path for file in zip
+            fdir, fname = os.path.split(fpath)
+            zip_path = os.path.join(zip_dir, fname)
+
+            # Add file, at correct path
+            zf.write(fpath, zip_path)
+
+        # Must close zip for all contents to be written
+        zf.close()
+
+        # Grab ZIP file from in-memory, make response with correct MIME-type
+        response = HttpResponse(s.getvalue(), content_type = "application/x-zip-compressed")
+        # ..and correct content-disposition
+        response['Content-Disposition'] = 'attachment; filename=%s' % zip_filename
+
+        return response
+
+        # return Response({'message': 'Successfully fetched', 'code': 200, 'data': zip_filename })
+
+
+        
         
