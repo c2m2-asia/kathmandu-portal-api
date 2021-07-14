@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 from django.shortcuts import render
 from django.apps import apps
 from django.http import HttpResponse
+from django.core import serializers as core_serializers
 
 from rest_framework import viewsets
 from rest_framework.response import Response
@@ -69,7 +70,6 @@ class UnivariateViewSet(viewsets.ViewSet):
         final_response = merge_dict(label_split(response), title_response)
 
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': final_response})
-
 
 
 class BivariateViewSet(viewsets.ViewSet):
@@ -347,7 +347,7 @@ def merge_dict(dict1, dict2):
         dict3.append(new_dict)
     return dict3
 
-class DownloadData(viewsets.ViewSet):
+class DownloadBulkData(viewsets.ViewSet):
     def list(self, request):
         type_query = request.GET.get('types')
         types = type_query.split(',')
@@ -390,5 +390,49 @@ class DownloadData(viewsets.ViewSet):
         # return Response({'message': 'Successfully fetched', 'code': 200, 'data': zip_filename })
 
 
-        
-        
+class DownloadIndvChartData(viewsets.ViewSet):
+    def list(Self, request):
+        # get query parameters
+        type_query = request.GET.get('type')
+        survey = request.GET.get('survey')
+        dimension = request.GET.get('dimension')
+        var_group = request.GET.get('var_group')
+        variable = request.GET.get('variable')
+
+        zip_filename = 'export' + type_query + '_' + variable + '.zip'
+
+        response = HttpResponse(content_type='text/csv')
+        response['Content-Disposition'] = 'attachment; filename=%s' % zip_filename
+        writer = csv.writer(response)
+
+        if type_query == 'univariate':
+            if survey == 'business':
+                model_univariatebusinesses = apps.get_model('api', 'UnivariateBusinesses')
+                businesses_univariate_stats = model_univariatebusinesses.objects.filter(variablegroup__iexact=var_group, variable__iexact=variable)
+                # businesses_serializer = getattr(serializers, 'UnivariateBusinesses')(businesses_univariate_stats, many=True)
+                data = core_serializers.serialize( "python",businesses_univariate_stats )
+                
+                meta = model_univariatebusinesses._meta
+                field_names = [field.name for field in meta.fields]
+
+                writer.writerow(field_names)
+
+                for obj in businesses_univariate_stats:
+                    row = writer.writerow([getattr(obj, field) for field in field_names])
+                
+            elif survey == 'workforce':
+
+                model_univariateworkers = apps.get_model('api', 'UnivariateWorkers')
+                workers_univariate_stats = model_univariateworkers.objects.filter(variablegroup__iexact=var_group, variable__iexact=variable)
+                
+                meta = model_univariateworkers._meta
+                field_names = [field.name for field in meta.fields]
+
+                writer.writerow(field_names)
+
+                for obj in workers_univariate_stats:
+                    row = writer.writerow([getattr(obj, field) for field in field_names])
+
+        return response
+     
+    
