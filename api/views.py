@@ -399,7 +399,7 @@ class DownloadIndvChartData(viewsets.ViewSet):
         var_group = request.GET.get('var_group')
         variable = request.GET.get('variable')
 
-        zip_filename = 'export' + type_query + '_' + variable + '.zip'
+        zip_filename = 'export_' + type_query + '_' + variable + '.zip'
 
         response = HttpResponse(content_type='text/csv')
         response['Content-Disposition'] = 'attachment; filename=%s' % zip_filename
@@ -409,8 +409,6 @@ class DownloadIndvChartData(viewsets.ViewSet):
             if survey == 'business':
                 model_univariatebusinesses = apps.get_model('api', 'UnivariateBusinesses')
                 businesses_univariate_stats = model_univariatebusinesses.objects.filter(variablegroup__iexact=var_group, variable__iexact=variable)
-                # businesses_serializer = getattr(serializers, 'UnivariateBusinesses')(businesses_univariate_stats, many=True)
-                data = core_serializers.serialize( "python",businesses_univariate_stats )
                 
                 meta = model_univariatebusinesses._meta
                 field_names = [field.name for field in meta.fields]
@@ -432,6 +430,56 @@ class DownloadIndvChartData(viewsets.ViewSet):
 
                 for obj in workers_univariate_stats:
                     row = writer.writerow([getattr(obj, field) for field in field_names])
+
+        elif type_query == 'bivariate':
+            if survey == 'business':
+                if len(variable) != 0:
+                    model_bivariatebusinesses = apps.get_model('api', 'BivariateBusinesses')
+                    businesses_bivariate_stats = model_bivariatebusinesses.objects.filter(variablegroup__iexact=var_group, xvariable__iexact=dimension, yvariable__iexact=variable )
+
+                    meta = model_bivariatebusinesses._meta
+                    field_names = [field.name for field in meta.fields]
+
+                    writer.writerow(field_names)
+
+                    for obj in businesses_bivariate_stats:
+                        row = writer.writerow([getattr(obj, field) for field in field_names])
+                else:
+                    model_univariatebusinesses = apps.get_model('api', 'UnivariateBusinesses')
+                    businesses_univariate_stats = model_univariatebusinesses.objects.filter(variablegroup__iexact=var_group, variable__iexact=dimension)
+
+                    meta = model_univariatebusinesses._meta
+                    field_names = [field.name for field in meta.fields]
+
+                    writer.writerow(field_names)
+
+                    for obj in businesses_univariate_stats:
+                        row = writer.writerow([getattr(obj, field) for field in field_names])
+
+            elif survey == 'workforce':
+                if len(variable) != 0:
+                    model_bivariateworkers = apps.get_model('api', 'BivariateWorkers')
+                    workers_bivariate_stats = model_bivariateworkers.objects.filter(variablegroup__iexact=var_group, xvariable__iexact=dimension, yvariable__iexact=variable)
+
+                    meta = model_bivariateworkers._meta
+                    field_names = [field.name for field in meta.fields]
+
+                    writer.writerow(field_names)
+
+                    for obj in workers_bivariate_stats:
+                        row = writer.writerow([getattr(obj, field) for field in field_names])
+
+                else:
+                    model_univariateworkers = apps.get_model('api', 'UnivariateWorkers')
+                    workers_univariate_stats = model_univariateworkers.objects.filter(variablegroup__iexact=var_group, variable__iexact=dimension)
+
+                    meta = model_univariateworkers._meta
+                    field_names = [field.name for field in meta.fields]
+
+                    writer.writerow(field_names)
+
+                    for obj in workers_univariate_stats:
+                        row = writer.writerow([getattr(obj, field) for field in field_names])
 
         return response
      
