@@ -66,7 +66,7 @@ class UnivariateViewSet(viewsets.ViewSet):
             for label in data_labels:
                 d_labels[label] = data[label]
             response[data['variable']].append(d_labels)
-            
+       
         final_response = merge_dict(label_split(response), title_response)
 
         return Response({'message': 'Successfully fetched', 'code': 200, 'data': final_response})
@@ -152,7 +152,6 @@ class BivariateViewSet(viewsets.ViewSet):
             bivariate_filter[data['yvariable']] = filter(None, bivariate[data['yvariable']])
 
         computed_data = extract_all(bivariate_filter)
-        print('bivariate_filter', computed_data)
                
         bivariate_final = merge_dict(label_split(computed_data), title_response)
 
@@ -257,7 +256,7 @@ def extract_all(dict1):
         return new_list
 
     def prepare_dict(new_list):
-        print('new_list', new_list)
+       
         final_list = []
         for dicts in new_list:
             sub_list = []
@@ -293,7 +292,7 @@ def make_json(csvFilePath):
             data[key] = rows
 
         result = ques_split(data)
-   
+    
     return result
 
 def split_func_list(dict1):
@@ -338,13 +337,14 @@ def ques_split(data):
     return final_dict 
 
 def merge_dict(dict1, dict2):
-
+    list1 = list(dict1)
     keys = set(dict1.keys()).intersection(set(dict2.keys()))
     dict3=[]
     for key in keys:
         new_dict = dict([i for i in dict2[key].items()])
         new_dict['chart_data'] = dict1[key]
         dict3.append(new_dict)
+    dict3.sort(key=lambda x: list1.index(x["variable"]))
     return dict3
 
 class DownloadBulkData(viewsets.ViewSet):
