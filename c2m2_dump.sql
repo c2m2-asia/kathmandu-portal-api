@@ -2494,1533 +2494,1533 @@ b_n_emplyes_pre_covid	1	Upto 10 people	१० जना सम्म	general	59	
 --
 
 COPY public.map_visualization_data (businessname, submissiondate, businesstype, variable, value, percoftotal, total, label_en, label_ne, latitude, longitude, index) FROM stdin;
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	i_econ_stop_business	1	6	6	No, operations were always running	होइन, अपरेशनहरू सँधै चलिरहेका थिए	28.2148186	83.9618638	1
-Yakety Yak Hostel	1	Hotel	i_econ_stop_business	1	6	6	No, operations were always running	होइन, अपरेशनहरू सँधै चलिरहेका थिए	27.7133876	85.31238	2
-B s handicrafts	1	Shop/Merchandise	i_econ_stop_business	1	6	6	No, operations were always running	होइन, अपरेशनहरू सँधै चलिरहेका थिए	27.71316	85.31265	3
-Hotel Lakeside Pvt. Ltd	1	Hotel	i_econ_stop_business	1	6	6	No, operations were always running	होइन, अपरेशनहरू सँधै चलिरहेका थिए	28.2077552	83.9684899	4
-Harry guest house and restaurant	1	Hotel	i_econ_stop_business	1	6	6	No, operations were always running	होइन, अपरेशनहरू सँधै चलिरहेका थिए	28.21224	83.9626	5
-Hotel Down Town Pvt. Ltd	1	Hotel	i_econ_stop_business	1	6	6	No, operations were always running	होइन, अपरेशनहरू सँधै चलिरहेका थिए	27.71587	85.30982	6
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7153038584918	85.3103238891712	7
-Naya Nepal collection and export pvt.ltd	1	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.713195	85.3122775	8
-Nepal Ascent Treks	1	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7119692416278	85.3110869262584	9
-Royal handicraft	1	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7155286407712	85.3113662974226	10
-Eco craft collection	1	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7169496294368	85.310175951392	11
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7141228	85.3116181	12
-Splash nepal adventure	1	Rafting	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7146686256428	85.3109832980832	13
-Tourism	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.20794	83.95855	14
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7054130197592	85.3489936269846	15
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2198688	83.9580593	16
-Pilgrims Guest House P.Ltd	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.717619	85.3115799	17
-The  cashmere store	1	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2044184	83.9644088	18
-Green Mansions Jungle Resort	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.5845046127971	84.4711607974195	19
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7156778	85.3113177	20
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7152382	85.3115879	21
-HOTEL	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7177391	85.3101198	22
-Tour and trekking and Expedition	2	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7153213473598	85.3117415550944	23
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7650888094923	85.363349712796	24
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2072939	83.9578631	25
-Mount everest souvenir house	1	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7135681946502	85.3125867485289	26
-HOTEL HIMALAYA PVT. LTD	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.68413	85.31941	27
-Hotel Business	2	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6632585317559	85.4449016109137	28
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7147492	85.3102089	29
-Agaman hotel	2	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7349334767156	85.3143232244077	30
-DBRAND SOLUTION PVT LTD	2	Other	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6924011815381	85.3301440109144	31
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7180005590084	85.3097967996561	32
-Hotel Tharu Garden	2	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.5753519138286	84.5016726992705	33
-Lotus handicraft	2	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7162829183416	85.3101437234923	34
-Carrot holidays pvt ltd	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6882985387026	85.3324406541961	35
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7176441116934	85.3093493859829	36
-Golden Cloud Adventure P. Ltd.	2	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.710411302506	85.3129580931116	37
-Ashirwad export	2	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71892	85.3122	38
-Mithila women handicraft	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7130115973909	85.3125155738383	39
-Krishna handicraft	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.716084576286	85.3099118032157	40
-Kathmandu cityhill Apartmnet	2	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7209932	85.3118557	41
-Nepal Highland Treks P Ltd	2	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7166059299288	85.3117833730153	42
-Demeter Handicrafts	2	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7207596166803	85.3607724987554	43
-Green Boutique Hotel	2	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7210567730833	85.3653754560733	44
-Kailash cafe & bar	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7160368463001	85.3104862262585	45
-Hotel Crown Plaza	2	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7130878	85.3281444	46
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7392974199588	85.3239723928859	47
-Apex himalaya trek and expedition	1	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7104423	85.3109739	48
-Downtown Restaurant	1	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.68076	85.31722	49
-Stunning Adventure	2	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6891069867822	85.2478348127655	50
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7165403	85.3129886	51
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71423	85.31159	52
-Garden of Hope Treks & Expeditions	2	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71459	85.31326	53
-Hiking nepal pvt ltd	1	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71689	85.30937	54
-Hotel Task International Pvt. Ltd.	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2048324	83.9986713	55
-Tiger Mountain	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.21064	84.04247	240
-R.R.Jewellery	2	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7137093	85.3123409	56
-Natural nepal export	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71736	85.31034	57
-Namaste Spa Pvt.Ltd	2	Other	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7151	85.312	58
-Hotel	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71217	85.30787	59
-Rainbow Adventure Nepal	2	Rafting	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7115056	85.3089164	60
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71061	85.31213	61
-Earth angle trading pvt ltd	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71409	85.31012	62
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71223	85.31062	63
-Handicrafts (felt,woolen. Curio	2	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71442	85.31192	64
-Mandala Handicrafts	2	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71297	85.31228	65
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.69443	85.24896	66
-Orbit Nepal Adventure	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71305	85.31126	67
-hostel nextdoor	3	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.684944	85.315922	68
-Suburb cafe	2	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.684759	85.312688	69
-chitwan forest resort	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.58148	84.49332	70
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	26.98806	85.89996	71
-Hemp House Nepal Pvt.Ltd	1	Handicraft	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71575	85.30998	72
-Hemp heafquarter	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71587	85.30991	73
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6742617216237	85.3691647550934	74
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7175	85.32594	75
-Kathmandu Spa	1	Other	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7161657	85.3108951	76
-Spa kinjjala pvt ltd.	2	Other	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.67812	85.30827	77
-Subhakamana Travels and Tours	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.19899	83.97616	78
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7174198	85.3260471	79
-Tiger Mountain	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.21064	84.04247	80
-Cuisine Court	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.719115	85.332184	81
-Asian adventure treks and expedition	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71321	85.31137	82
-Harry guest house and restaurant	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.21224	83.9626	115
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.22345	83.9888	83
-Hotel Tulsi Pokhara	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2097	83.95798	84
-Om Shanti Spa	2	Other	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71578	85.30945	85
-Om Shanti Spa	2	Other	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71578	85.30944	86
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71702	85.33378	87
-Hotel Luna Kathmandu	1	Hotel	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7167297	85.3120921	88
-Restutant	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71665	85.3099	89
-Sun N Fun Holidays	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Yes, temporarily stopped operations	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7043	85.33088	90
-Nepal Mountain Gear	2	Mountaineering	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.7149361495911	85.3104505819971	91
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.69035	85.23849	92
-The freedom cafe restaurant & bar	2	Restaurant and Bar	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	28.2209793	83.9559105	93
-Himalaya Traders & Export	2	Other	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.7148479186674	85.3113777116411	94
-Thamel Seasons Hotel Pvt.ltd	2	Hotel	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.7179141297178	85.3101209550944	95
-Dibya Hospitality Pvt.Ltd	1	Other	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71292	85.35984	96
-Peak trekking equipment collection	2	Trekking	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.7140738	85.3098685	97
-Flight gyani Pvt ltd	2	Travel and Tour Operator	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.7110507076044	85.3150705587519	98
-Nepal Handicraft portal	1	Travel and Tour Operator	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.7115975664926	85.3089139946971	99
-Pashmina	1	Shop/Merchandise	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71274	85.31124	100
-Tharu Home Resort	2	Hotel	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	28.46335	81.25026	101
-New light handicraft	2	Handicraft	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71361	85.31132	102
-Terres du Nepal Trekking	1	Trekking	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71805	85.31192	103
-Aster Hotel Nepal Pvt. Ltd.	2	Hotel	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71331	85.3114	104
-Pashmina Queen and Craft	2	Shop/Merchandise	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71538	85.3104	105
-LEGENDS KHUKURI GALLERY PVT LTD	1	Other	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.7142268	85.3113891	106
-Himalayan idol travel and tours	1	Travel and Tour Operator	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71301	85.31211	107
-Trekking shop	2	Trekking	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	27.71574	85.30944	108
-Himalayan Doorway	1	Travel and Tour Operator	i_econ_stop_business	3	17	19	Yes, permanently stopped	हो, स्थायी रूपमा रोकियो	28.706472	80.577207	109
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7165403	85.3129886	110
-DBRAND SOLUTION PVT LTD	2	Other	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.6924011815381	85.3301440109144	111
-Kailash cafe & bar	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7160368463001	85.3104862262585	112
-Tourism	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.20794	83.95855	113
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7054130197592	85.3489936269846	114
-Hotel Task International Pvt. Ltd.	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.2048324	83.9986713	116
-Tiger Mountain	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.21064	84.04247	117
-B s handicrafts	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.71316	85.31265	118
-Namaste Spa Pvt.Ltd	2	Other	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7151	85.312	119
-Krishna handicraft	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.716084576286	85.3099118032157	120
-Downtown Restaurant	1	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.68076	85.31722	121
-Restutant	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71665	85.3099	122
-Kathmandu Spa	1	Other	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.7161657	85.3108951	123
-Hemp heafquarter	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71587	85.30991	124
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.7153038584918	85.3103238891712	125
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	26.98806	85.89996	126
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71061	85.31213	127
-Tharu Home Resort	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	28.46335	81.25026	128
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71223	85.31062	129
-Suburb cafe	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.684759	85.312688	130
-Pilgrims Guest House P.Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.717619	85.3115799	131
-Spa kinjjala pvt ltd.	2	Other	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.67812	85.30827	132
-Nepal Handicraft portal	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7115975664926	85.3089139946971	133
-Green Mansions Jungle Resort	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.5845046127971	84.4711607974195	134
-Hotel Lakeside Pvt. Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	28.2077552	83.9684899	135
-Nepal Ascent Treks	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7119692416278	85.3110869262584	136
-Hotel Down Town Pvt. Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.71587	85.30982	137
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	28.2148186	83.9618638	138
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	28.22345	83.9888	139
-R.R.Jewellery	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7137093	85.3123409	140
-Yakety Yak Hostel	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7133876	85.31238	141
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7147492	85.3102089	142
-Garden of Hope Treks & Expeditions	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.71459	85.31326	143
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7141228	85.3116181	144
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7156778	85.3113177	145
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.69443	85.24896	146
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7650888094923	85.363349712796	147
-Orbit Nepal Adventure	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71305	85.31126	148
-hostel nextdoor	3	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.684944	85.315922	149
-Dibya Hospitality Pvt.Ltd	1	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71292	85.35984	150
-Naya Nepal collection and export pvt.ltd	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.713195	85.3122775	151
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	28.2072939	83.9578631	152
-HOTEL	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7177391	85.3101198	153
-Hotel Crown Plaza	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7130878	85.3281444	154
-Kathmandu cityhill Apartmnet	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7209932	85.3118557	155
-Mithila women handicraft	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7130115973909	85.3125155738383	156
-Ashirwad export	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71892	85.3122	157
-Himalaya Traders & Export	2	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7148479186674	85.3113777116411	158
-Hotel Tharu Garden	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.5753519138286	84.5016726992705	159
-LEGENDS KHUKURI GALLERY PVT LTD	1	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7142268	85.3113891	160
-HOTEL HIMALAYA PVT. LTD	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.68413	85.31941	161
-Rainbow Adventure Nepal	2	Rafting	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7115056	85.3089164	162
-Stunning Adventure	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.6891069867822	85.2478348127655	163
-Hemp House Nepal Pvt.Ltd	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71575	85.30998	164
-Asian adventure treks and expedition	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71321	85.31137	165
-Om Shanti Spa	2	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71578	85.30945	166
-Om Shanti Spa	2	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71578	85.30944	167
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71702	85.33378	168
-Aster Hotel Nepal Pvt. Ltd.	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71331	85.3114	169
-Subhakamana Travels and Tours	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	28.19899	83.97616	170
-Hotel	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71217	85.30787	171
-Nepal Mountain Gear	2	Mountaineering	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7149361495911	85.3104505819971	172
-Mandala Handicrafts	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71297	85.31228	173
-Handicrafts (felt,woolen. Curio	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71442	85.31192	174
-Cuisine Court	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.719115	85.332184	175
-Golden Cloud Adventure P. Ltd.	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.710411302506	85.3129580931116	176
-Pashmina	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71274	85.31124	177
-chitwan forest resort	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.58148	84.49332	178
-Nepal Highland Treks P Ltd	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7166059299288	85.3117833730153	179
-Hiking nepal pvt ltd	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71689	85.30937	180
-Peak trekking equipment collection	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7140738	85.3098685	181
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7176441116934	85.3093493859829	182
-Demeter Handicrafts	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7207596166803	85.3607724987554	183
-Carrot holidays pvt ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.6882985387026	85.3324406541961	184
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71423	85.31159	185
-Lotus handicraft	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7162829183416	85.3101437234923	186
-Natural nepal export	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71736	85.31034	187
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7180005590084	85.3097967996561	188
-Agaman hotel	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7349334767156	85.3143232244077	189
-Thamel Seasons Hotel Pvt.ltd	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7179141297178	85.3101209550944	190
-Hotel Business	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.6632585317559	85.4449016109137	191
-Flight gyani Pvt ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7110507076044	85.3150705587519	192
-Green Boutique Hotel	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7210567730833	85.3653754560733	193
-Apex himalaya trek and expedition	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7104423	85.3109739	194
-Hotel Luna Kathmandu	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7167297	85.3120921	195
-Tour and trekking and Expedition	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7153213473598	85.3117415550944	196
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7152382	85.3115879	197
-Himalayan Doorway	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.706472	80.577207	198
-Hotel Tulsi Pokhara	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.2097	83.95798	199
-The  cashmere store	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.2044184	83.9644088	200
-New light handicraft	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71361	85.31132	201
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.69035	85.23849	202
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.2198688	83.9580593	203
-Sun N Fun Holidays	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7043	85.33088	204
-Earth angle trading pvt ltd	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71409	85.31012	205
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7175	85.32594	206
-Splash nepal adventure	1	Rafting	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7146686256428	85.3109832980832	207
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7174198	85.3260471	208
-Eco craft collection	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7169496294368	85.310175951392	209
-Royal handicraft	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7155286407712	85.3113662974226	210
-Terres du Nepal Trekking	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71805	85.31192	211
-Pashmina Queen and Craft	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71538	85.3104	212
-Himalayan idol travel and tours	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71301	85.31211	213
-Mount everest souvenir house	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7135681946502	85.3125867485289	214
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7392974199588	85.3239723928859	215
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.6742617216237	85.3691647550934	216
-The freedom cafe restaurant & bar	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	6	2	2	Workforce size increased compared to 2019	कार्यबल आकार २०१९ को तुलनामा बढ्यो	28.2209793	83.9559105	217
-Trekking shop	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	6	2	2	Workforce size increased compared to 2019	कार्यबल आकार २०१९ को तुलनामा बढ्यो	27.71574	85.30944	218
-Natural nepal export	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	1	1	1	Revenue remained the same	राजस्व उही रह्यो	27.71736	85.31034	219
-Krishna handicraft	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.716084576286	85.3099118032157	220
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.7141228	85.3116181	221
-Kathmandu Spa	1	Other	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.7161657	85.3108951	222
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.7147492	85.3102089	223
-Mandala Handicrafts	2	Handicraft	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.71297	85.31228	224
-Trekking shop	2	Trekking	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.71574	85.30944	225
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.71223	85.31062	226
-Pilgrims Guest House P.Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.717619	85.3115799	227
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	28.22345	83.9888	228
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	28.2148186	83.9618638	229
-Downtown Restaurant	1	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.68076	85.31722	230
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.7153038584918	85.3103238891712	231
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	26.98806	85.89996	232
-hostel nextdoor	3	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.684944	85.315922	233
-Suburb cafe	2	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.684759	85.312688	234
-Tharu Home Resort	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.46335	81.25026	235
-Kathmandu cityhill Apartmnet	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7209932	85.3118557	236
-Kailash cafe & bar	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7160368463001	85.3104862262585	237
-Spa kinjjala pvt ltd.	2	Other	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.67812	85.30827	238
-Subhakamana Travels and Tours	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.19899	83.97616	239
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.2072939	83.9578631	241
-Hotel Task International Pvt. Ltd.	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.2048324	83.9986713	242
-Naya Nepal collection and export pvt.ltd	1	Handicraft	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.713195	85.3122775	243
-HOTEL HIMALAYA PVT. LTD	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.68413	85.31941	244
-Hotel Lakeside Pvt. Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.2077552	83.9684899	245
-Green Mansions Jungle Resort	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.5845046127971	84.4711607974195	246
-Splash nepal adventure	1	Rafting	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7146686256428	85.3109832980832	247
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7054130197592	85.3489936269846	248
-Mithila women handicraft	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7130115973909	85.3125155738383	249
-Hotel Crown Plaza	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7130878	85.3281444	250
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7650888094923	85.363349712796	251
-Aster Hotel Nepal Pvt. Ltd.	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71331	85.3114	252
-Yakety Yak Hostel	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7133876	85.31238	253
-Hotel Down Town Pvt. Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71587	85.30982	254
-Rainbow Adventure Nepal	2	Rafting	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7115056	85.3089164	255
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71061	85.31213	256
-Hemp heafquarter	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71587	85.30991	257
-Himalaya Traders & Export	2	Other	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7148479186674	85.3113777116411	258
-LEGENDS KHUKURI GALLERY PVT LTD	1	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7142268	85.3113891	259
-The freedom cafe restaurant & bar	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2209793	83.9559105	260
-Tourism	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.20794	83.95855	261
-Lotus handicraft	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7162829183416	85.3101437234923	262
-Eco craft collection	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7169496294368	85.310175951392	263
-Royal handicraft	1	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7155286407712	85.3113662974226	264
-Nepal Ascent Treks	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7119692416278	85.3110869262584	265
-Dibya Hospitality Pvt.Ltd	1	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71292	85.35984	266
-Himalayan idol travel and tours	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71301	85.31211	267
-Hotel Tharu Garden	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.5753519138286	84.5016726992705	268
-Thamel Seasons Hotel Pvt.ltd	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7179141297178	85.3101209550944	269
-Ashirwad export	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71892	85.3122	270
-Agaman hotel	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7349334767156	85.3143232244077	271
-Hotel Business	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6632585317559	85.4449016109137	272
-Peak trekking equipment collection	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7140738	85.3098685	273
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7176441116934	85.3093493859829	274
-Flight gyani Pvt ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7110507076044	85.3150705587519	275
-Mount everest souvenir house	1	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7135681946502	85.3125867485289	276
-Apex himalaya trek and expedition	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7104423	85.3109739	277
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7392974199588	85.3239723928859	278
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7180005590084	85.3097967996561	279
-Green Boutique Hotel	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7210567730833	85.3653754560733	280
-Demeter Handicrafts	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7207596166803	85.3607724987554	281
-Nepal Highland Treks P Ltd	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7166059299288	85.3117833730153	282
-Golden Cloud Adventure P. Ltd.	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.710411302506	85.3129580931116	283
-Carrot holidays pvt ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6882985387026	85.3324406541961	284
-DBRAND SOLUTION PVT LTD	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6924011815381	85.3301440109144	285
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7165403	85.3129886	286
-Harry guest house and restaurant	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.21224	83.9626	287
-Restutant	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71665	85.3099	288
-Hemp House Nepal Pvt.Ltd	1	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71575	85.30998	289
-Garden of Hope Treks & Expeditions	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71459	85.31326	290
-Hiking nepal pvt ltd	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71689	85.30937	291
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71423	85.31159	292
-R.R.Jewellery	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7137093	85.3123409	293
-B s handicrafts	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71316	85.31265	294
-Namaste Spa Pvt.Ltd	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7151	85.312	295
-Hotel	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71217	85.30787	296
-New light handicraft	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71361	85.31132	297
-Pashmina	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71274	85.31124	298
-Earth angle trading pvt ltd	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71409	85.31012	299
-Handicrafts (felt,woolen. Curio	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71442	85.31192	300
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.69035	85.23849	301
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.69443	85.24896	302
-Rainbow Adventure Nepal	2	Rafting	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7115056	85.3089164	818
-Orbit Nepal Adventure	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71305	85.31126	303
-chitwan forest resort	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.58148	84.49332	304
-Hotel Luna Kathmandu	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7167297	85.3120921	305
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2198688	83.9580593	306
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71702	85.33378	307
-Om Shanti Spa	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71578	85.30945	308
-Nepal Handicraft portal	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7115975664926	85.3089139946971	309
-The  cashmere store	1	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2044184	83.9644088	310
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7156778	85.3113177	311
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7152382	85.3115879	312
-HOTEL	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7177391	85.3101198	313
-Tour and trekking and Expedition	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7153213473598	85.3117415550944	314
-Nepal Mountain Gear	2	Mountaineering	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7149361495911	85.3104505819971	315
-Stunning Adventure	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6891069867822	85.2478348127655	316
-Himalayan Doorway	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.706472	80.577207	317
-Hotel Tulsi Pokhara	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2097	83.95798	318
-Sun N Fun Holidays	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7043	85.33088	319
-Asian adventure treks and expedition	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71321	85.31137	320
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7175	85.32594	321
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7174198	85.3260471	322
-Cuisine Court	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.719115	85.332184	323
-Terres du Nepal Trekking	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71805	85.31192	324
-Pashmina Queen and Craft	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71538	85.3104	325
-Om Shanti Spa	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71578	85.30944	326
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6742617216237	85.3691647550934	327
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7153038584918	85.3103238891712	328
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7175	85.32594	329
-Spa kinjjala pvt ltd.	2	Other	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.67812	85.30827	330
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.22345	83.9888	331
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7156778	85.3113177	419
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7165403	85.3129886	332
-The  cashmere store	1	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.2044184	83.9644088	333
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.2198688	83.9580593	334
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7650888094923	85.363349712796	335
-Eco craft collection	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7169496294368	85.310175951392	336
-Royal handicraft	1	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7155286407712	85.3113662974226	337
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.2072939	83.9578631	338
-Apex himalaya trek and expedition	1	Trekking	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7104423	85.3109739	339
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7392974199588	85.3239723928859	340
-Kailash cafe & bar	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7160368463001	85.3104862262585	341
-Green Boutique Hotel	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7210567730833	85.3653754560733	342
-Demeter Handicrafts	2	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7207596166803	85.3607724987554	343
-Nepal Highland Treks P Ltd	2	Trekking	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7166059299288	85.3117833730153	344
-Krishna handicraft	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.716084576286	85.3099118032157	345
-Mithila women handicraft	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7130115973909	85.3125155738383	346
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7176441116934	85.3093493859829	347
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.6882985387026	85.3324406541961	348
-DBRAND SOLUTION PVT LTD	2	Other	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.6924011815381	85.3301440109144	349
-Agaman hotel	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7349334767156	85.3143232244077	350
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7147492	85.3102089	351
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7174198	85.3260471	352
-Cuisine Court	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.719115	85.332184	353
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.6742617216237	85.3691647550934	354
-R.R.Jewellery	2	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7137093	85.3123409	355
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7392974199588	85.3239723928859	420
-B s handicrafts	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71316	85.31265	356
-Yakety Yak Hostel	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7133876	85.31238	357
-hostel nextdoor	3	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.684944	85.315922	358
-Namaste Spa Pvt.Ltd	2	Other	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7151	85.312	359
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71423	85.31159	360
-Suburb cafe	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.684759	85.312688	361
-Hotel	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71217	85.30787	362
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	26.98806	85.89996	363
-Hiking nepal pvt ltd	1	Trekking	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71689	85.30937	364
-Restutant	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71665	85.3099	365
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71061	85.31213	366
-Garden of Hope Treks & Expeditions	2	Trekking	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71459	85.31326	367
-Natural nepal export	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71736	85.31034	368
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71575	85.30998	369
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71442	85.31192	370
-Orbit Nepal Adventure	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71305	85.31126	371
-Hotel Down Town Pvt. Ltd	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71587	85.30982	372
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.69443	85.24896	373
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71409	85.31012	374
-Hemp heafquarter	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71587	85.30991	375
-Kathmandu Spa	1	Other	o_do_u_know_of_gov_schemes	1	54	49	I am not aware of such government schemes.	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7161657	85.3108951	376
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.710411302506	85.3129580931116	377
-Nepal Ascent Treks	1	Trekking	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7119692416278	85.3110869262584	378
-Ashirwad export	2	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71892	85.3122	379
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.713195	85.3122775	380
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71223	85.31062	381
-Mount everest souvenir house	1	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7135681946502	85.3125867485289	382
-Mandala Handicrafts	2	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71297	85.31228	383
-Rainbow Adventure Nepal	2	Rafting	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7115056	85.3089164	384
-Kathmandu cityhill Apartmnet	2	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7209932	85.3118557	385
-Downtown Restaurant	1	Restaurant and Bar	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.68076	85.31722	386
-Hotel Tharu Garden	2	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.5753519138286	84.5016726992705	387
-Hotel Luna Kathmandu	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7167297	85.3120921	388
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7180005590084	85.3097967996561	389
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71702	85.33378	390
-Om Shanti Spa	2	Other	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71578	85.30944	391
-Om Shanti Spa	2	Other	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71578	85.30945	392
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71321	85.31137	393
-Sun N Fun Holidays	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7043	85.33088	394
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.19899	83.97616	395
-Tiger Mountain	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.21064	84.04247	396
-Hotel Business	2	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.6632585317559	85.4449016109137	397
-Apex himalaya trek and expedition	1	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7104423	85.3109739	421
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7141228	85.3116181	398
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.2148186	83.9618638	399
-Stunning Adventure	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.6891069867822	85.2478348127655	400
-Tour and trekking and Expedition	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7153213473598	85.3117415550944	401
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7152382	85.3115879	402
-chitwan forest resort	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.58148	84.49332	403
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.2077552	83.9684899	404
-Pilgrims Guest House P.Ltd	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.717619	85.3115799	405
-Harry guest house and restaurant	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.21224	83.9626	406
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7054130197592	85.3489936269846	407
-Hotel Task International Pvt. Ltd.	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.2048324	83.9986713	408
-Lotus handicraft	2	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	I am aware about such schemes but haven’t used any.	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7162829183416	85.3101437234923	409
-Splash nepal adventure	1	Rafting	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7146686256428	85.3109832980832	410
-Tourism	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	28.20794	83.95855	411
-Green Mansions Jungle Resort	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.5845046127971	84.4711607974195	412
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7156778	85.3113177	413
-HOTEL	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7177391	85.3101198	414
-Hotel Tulsi Pokhara	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	28.2097	83.95798	415
-Hotel Crown Plaza	2	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7130878	85.3281444	416
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Yes, I have used one or more government schemes.	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.68413	85.31941	417
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6742617216237	85.3691647550934	418
-Restutant	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71665	85.3099	422
-Hotel Luna Kathmandu	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7167297	85.3120921	423
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71702	85.33378	424
-Om Shanti Spa	2	Other	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71578	85.30944	425
-Om Shanti Spa	2	Other	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71578	85.30945	426
-Cuisine Court	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.719115	85.332184	427
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7174198	85.3260471	428
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7175	85.32594	429
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.713195	85.3122775	430
-Nepal Ascent Treks	1	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7119692416278	85.3110869262584	431
-Royal handicraft	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7155286407712	85.3113662974226	432
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7054130197592	85.3489936269846	433
-Harry guest house and restaurant	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	28.21224	83.9626	434
-Pilgrims Guest House P.Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.717619	85.3115799	435
-Hotel Crown Plaza	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7130878	85.3281444	436
-Kailash cafe & bar	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7160368463001	85.3104862262585	437
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71575	85.30998	438
-Demeter Handicrafts	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7207596166803	85.3607724987554	439
-Agaman hotel	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7349334767156	85.3143232244077	440
-chitwan forest resort	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.58148	84.49332	441
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7180005590084	85.3097967996561	442
-Hotel Tharu Garden	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.5753519138286	84.5016726992705	443
-Lotus handicraft	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7162829183416	85.3101437234923	444
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.69443	85.24896	445
-Green Boutique Hotel	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7210567730833	85.3653754560733	446
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7176441116934	85.3093493859829	447
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.710411302506	85.3129580931116	448
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6882985387026	85.3324406541961	449
-Ashirwad export	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71892	85.3122	450
-Rainbow Adventure Nepal	2	Rafting	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7115056	85.3089164	451
-Hotel	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71217	85.30787	452
-Namaste Spa Pvt.Ltd	2	Other	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7151	85.312	453
-Natural nepal export	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71736	85.31034	454
-R.R.Jewellery	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7137093	85.3123409	455
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71409	85.31012	456
-HOTEL	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7177391	85.3101198	457
-Mount everest souvenir house	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7135681946502	85.3125867485289	458
-Krishna handicraft	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.716084576286	85.3099118032157	459
-Eco craft collection	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7169496294368	85.310175951392	460
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2198688	83.9580593	461
-Nepal Highland Treks P Ltd	2	Trekking	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7166059299288	85.3117833730153	462
-Green Mansions Jungle Resort	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.5845046127971	84.4711607974195	463
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2077552	83.9684899	464
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.68413	85.31941	465
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7165403	85.3129886	466
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71423	85.31159	467
-Garden of Hope Treks & Expeditions	2	Trekking	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71459	85.31326	468
-Hotel Down Town Pvt. Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71587	85.30982	469
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71321	85.31137	470
-Orbit Nepal Adventure	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71305	85.31126	471
-Sun N Fun Holidays	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7043	85.33088	472
-Spa kinjjala pvt ltd.	2	Other	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.67812	85.30827	473
-Yakety Yak Hostel	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7133876	85.31238	474
-Tiger Mountain	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.21064	84.04247	475
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.19899	83.97616	476
-Hotel Tulsi Pokhara	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2097	83.95798	477
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2148186	83.9618638	478
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.22345	83.9888	479
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	26.98806	85.89996	480
-Tourism	1	Hotel	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	28.20794	83.95855	481
-Suburb cafe	2	Hotel	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.684759	85.312688	482
-Downtown Restaurant	1	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.68076	85.31722	483
-Hotel Task International Pvt. Ltd.	1	Hotel	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	28.2048324	83.9986713	484
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.71442	85.31192	485
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.71223	85.31062	486
-Stunning Adventure	2	Trekking	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.6891069867822	85.2478348127655	487
-Mithila women handicraft	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.7130115973909	85.3125155738383	488
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.7147492	85.3102089	489
-Splash nepal adventure	1	Rafting	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.7146686256428	85.3109832980832	490
-hostel nextdoor	3	Hotel	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.684944	85.315922	491
-B s handicrafts	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.71316	85.31265	492
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.7153038584918	85.3103238891712	493
-Kathmandu Spa	1	Other	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.7161657	85.3108951	494
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	28.2072939	83.9578631	495
-Tour and trekking and Expedition	2	Trekking	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.7153213473598	85.3117415550944	496
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.7152382	85.3115879	497
-Mandala Handicrafts	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.71297	85.31228	498
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.7650888094923	85.363349712796	499
-The  cashmere store	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	28.2044184	83.9644088	500
-Hotel Business	2	Hotel	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.6632585317559	85.4449016109137	501
-Hiking nepal pvt ltd	1	Trekking	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.71689	85.30937	502
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.71061	85.31213	503
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.7141228	85.3116181	504
-DBRAND SOLUTION PVT LTD	2	Other	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.6924011815381	85.3301440109144	505
-Kathmandu cityhill Apartmnet	2	Hotel	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.7209932	85.3118557	506
-Hemp heafquarter	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.71587	85.30991	507
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6742617216237	85.3691647550934	508
-Hemp heafquarter	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71587	85.30991	509
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.710411302506	85.3129580931116	510
-Restutant	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71665	85.3099	511
-Ashirwad export	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71892	85.3122	512
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71702	85.33378	513
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7175	85.32594	514
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71321	85.31137	515
-Demeter Handicrafts	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7207596166803	85.3607724987554	516
-HOTEL	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7177391	85.3101198	517
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7156778	85.3113177	518
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7392974199588	85.3239723928859	519
-Pilgrims Guest House P.Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.717619	85.3115799	520
-Harry guest house and restaurant	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	28.21224	83.9626	521
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7650888094923	85.363349712796	522
-Nepal Ascent Treks	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7119692416278	85.3110869262584	523
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7176441116934	85.3093493859829	524
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6882985387026	85.3324406541961	525
-Royal handicraft	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7155286407712	85.3113662974226	526
-Agaman hotel	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7349334767156	85.3143232244077	527
-Hotel Business	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6632585317559	85.4449016109137	528
-Natural nepal export	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71736	85.31034	529
-B s handicrafts	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71316	85.31265	530
-Namaste Spa Pvt.Ltd	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7151	85.312	531
-Hotel	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71217	85.30787	532
-chitwan forest resort	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.58148	84.49332	533
-Hotel Tharu Garden	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.5753519138286	84.5016726992705	534
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.69443	85.24896	535
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71409	85.31012	536
-Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71331	85.3114	819
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71442	85.31192	537
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7165403	85.3129886	538
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7180005590084	85.3097967996561	539
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7153038584918	85.3103238891712	1
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7054130197592	85.3489936269846	2
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2072939	83.9578631	3
+Naya Nepal collection and export pvt.ltd	1	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.713195	85.3122775	4
+Nepal Ascent Treks	1	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7119692416278	85.3110869262584	5
+Royal handicraft	1	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7155286407712	85.3113662974226	6
+Eco craft collection	1	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7169496294368	85.310175951392	7
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7141228	85.3116181	8
+Splash nepal adventure	1	Rafting	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7146686256428	85.3109832980832	9
+Tourism	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.20794	83.95855	10
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7650888094923	85.363349712796	11
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2198688	83.9580593	12
+Mount everest souvenir house	2	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7135681946502	85.3125867485289	13
+Pilgrims Guest House P.Ltd	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.717619	85.3115799	14
+The  cashmere store	1	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2044184	83.9644088	15
+Green Mansions Jungle Resort	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.5845046127971	84.4711607974195	16
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7156778	85.3113177	17
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7152382	85.3115879	18
+HOTEL	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7177391	85.3101198	19
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	26.98806	85.89996	20
+HOTEL HIMALAYA PVT. LTD	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.68413	85.31941	21
+Stunning Adventure	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6891069867822	85.2478348127655	22
+Downtown Restaurant	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.68076	85.31722	23
+Apex himalaya trek and expedition	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7104423	85.3109739	24
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.22345	83.9888	25
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7176441116934	85.3093493859829	26
+Pashmina Queen and Craft	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71538	85.3104	112
+Tour and trekking and Expedition	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7153213473598	85.3117415550944	27
+Hotel Business	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6632585317559	85.4449016109137	28
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7147492	85.3102089	29
+Agaman hotel	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7349334767156	85.3143232244077	30
+DBRAND SOLUTION PVT LTD	2	Other	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6924011815381	85.3301440109144	31
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7180005590084	85.3097967996561	32
+Hotel Tharu Garden	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.5753519138286	84.5016726992705	33
+Lotus handicraft	2	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7162829183416	85.3101437234923	34
+Carrot holidays pvt ltd	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6882985387026	85.3324406541961	35
+Golden Cloud Adventure P. Ltd.	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.710411302506	85.3129580931116	36
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7392974199588	85.3239723928859	37
+Ashirwad export	2	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71892	85.3122	38
+Mithila women handicraft	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7130115973909	85.3125155738383	39
+Krishna handicraft	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.716084576286	85.3099118032157	40
+Kathmandu cityhill Apartmnet	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7209932	85.3118557	41
+Nepal Highland Treks P Ltd	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7166059299288	85.3117833730153	42
+Demeter Handicrafts	2	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7207596166803	85.3607724987554	43
+Green Boutique Hotel	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7210567730833	85.3653754560733	44
+Kailash cafe & bar	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7160368463001	85.3104862262585	45
+Hotel Crown Plaza	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7130878	85.3281444	46
+Hotel Task International Pvt. Ltd.	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2048324	83.9986713	47
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7165403	85.3129886	48
+Hiking nepal pvt ltd	1	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71689	85.30937	49
+Restutant	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71665	85.3099	50
+Hemp heafquarter	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71587	85.30991	51
+Hemp House Nepal Pvt.Ltd	1	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71575	85.30998	52
+Garden of Hope Treks & Expeditions	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71459	85.31326	53
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71423	85.31159	54
+R.R.Jewellery	2	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7137093	85.3123409	55
+Natural nepal export	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71736	85.31034	56
+Namaste Spa Pvt.Ltd	2	Other	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7151	85.312	57
+Hotel	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71217	85.30787	58
+Rainbow Adventure Nepal	2	Rafting	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7115056	85.3089164	59
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71061	85.31213	60
+Earth angle trading pvt ltd	2	Shop/Merchandise	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71409	85.31012	61
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71223	85.31062	62
+Handicrafts (felt,woolen. Curio	2	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71442	85.31192	63
+Mandala Handicrafts	2	Handicraft	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71297	85.31228	64
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.69443	85.24896	65
+Orbit Nepal Adventure	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71305	85.31126	66
+hostel nextdoor	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.684944	85.315922	67
+Suburb cafe	2	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.684759	85.312688	68
+chitwan forest resort	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.58148	84.49332	69
+Kathmandu Spa	2	Other	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7161657	85.3108951	70
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.6742617216237	85.3691647550934	71
+Subhakamana Travels and Tours	1	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.19899	83.97616	72
+Asian adventure treks and expedition	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71321	85.31137	73
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71702	85.33378	74
+Hotel Tulsi Pokhara	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.2097	83.95798	75
+Hotel Luna Kathmandu	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7167297	85.3120921	76
+Tiger Mountain	1	Hotel	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	28.21064	84.04247	77
+Om Shanti Spa	2	Other	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71578	85.30944	78
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7174198	85.3260471	79
+Om Shanti Spa	2	Other	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.71578	85.30945	80
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7175	85.32594	81
+Cuisine Court	2	Restaurant and Bar	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.719115	85.332184	82
+Spa kinjjala pvt ltd.	2	Other	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.67812	85.30827	83
+Sun N Fun Holidays	2	Travel and Tour Operator	i_econ_stop_business	2	77	84	Temporarily shutdown during the pandemic	हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो	27.7043	85.33088	84
+Himalaya Traders & Export	2	Other	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.7148479186674	85.3113777116411	85
+LEGENDS KHUKURI GALLERY PVT LTD	1	Other	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.7142268	85.3113891	86
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.69035	85.23849	87
+Peak trekking equipment collection	2	Trekking	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.7140738	85.3098685	88
+Nepal Mountain Gear	2	Mountaineering	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.7149361495911	85.3104505819971	89
+Thamel Seasons Hotel Pvt.ltd	2	Hotel	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.7179141297178	85.3101209550944	90
+The freedom cafe restaurant & bar	2	Restaurant and Bar	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	28.2209793	83.9559105	91
+Trekking shop	2	Trekking	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71574	85.30944	92
+Tharu Home Resort	2	Hotel	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	28.46335	81.25026	93
+Flight gyani Pvt ltd	2	Travel and Tour Operator	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.7110507076044	85.3150705587519	94
+Pashmina	1	Shop/Merchandise	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71274	85.31124	95
+New light handicraft	2	Handicraft	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71361	85.31132	96
+Nepal Handicraft portal	1	Travel and Tour Operator	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.7115975664926	85.3089139946971	97
+Aster Hotel Nepal Pvt. Ltd.	2	Hotel	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71331	85.3114	98
+Terres du Nepal Trekking	1	Trekking	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71805	85.31192	99
+Pashmina Queen and Craft	2	Shop/Merchandise	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71538	85.3104	100
+Himalayan Doorway	2	Travel and Tour Operator	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	28.706472	80.577207	101
+Himalayan idol travel and tours	1	Travel and Tour Operator	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71301	85.31211	102
+Dibya Hospitality Pvt.Ltd	1	Other	i_econ_stop_business	3	17	19	Permanently shutdown during the pandemic	हो, स्थायी रूपमा रोकियो	27.71292	85.35984	103
+Hotel Lakeside Pvt. Ltd	1	Hotel	i_econ_stop_business	1	6	6	Never shutdown	होइन, अपरेशनहरू सँधै चलिरहेका थिए	28.2077552	83.9684899	104
+B s handicrafts	1	Shop/Merchandise	i_econ_stop_business	1	6	6	Never shutdown	होइन, अपरेशनहरू सँधै चलिरहेका थिए	27.71316	85.31265	105
+Harry guest house and restaurant	1	Hotel	i_econ_stop_business	1	6	6	Never shutdown	होइन, अपरेशनहरू सँधै चलिरहेका थिए	28.21224	83.9626	106
+Yakety Yak Hostel	1	Hotel	i_econ_stop_business	1	6	6	Never shutdown	होइन, अपरेशनहरू सँधै चलिरहेका थिए	27.7133876	85.31238	107
+Hotel Down Town Pvt. Ltd	2	Hotel	i_econ_stop_business	1	6	6	Never shutdown	होइन, अपरेशनहरू सँधै चलिरहेका थिए	27.71587	85.30982	108
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	i_econ_stop_business	1	6	6	Never shutdown	होइन, अपरेशनहरू सँधै चलिरहेका थिए	28.2148186	83.9618638	109
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.6742617216237	85.3691647550934	110
+The  cashmere store	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.2044184	83.9644088	111
+Terres du Nepal Trekking	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71805	85.31192	113
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7174198	85.3260471	114
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7175	85.32594	115
+Sun N Fun Holidays	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7043	85.33088	116
+Carrot holidays pvt ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.6882985387026	85.3324406541961	117
+Hotel Tulsi Pokhara	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.2097	83.95798	118
+Himalayan Doorway	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.706472	80.577207	119
+Peak trekking equipment collection	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7140738	85.3098685	120
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7176441116934	85.3093493859829	121
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7152382	85.3115879	122
+Flight gyani Pvt ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7110507076044	85.3150705587519	123
+Lotus handicraft	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7162829183416	85.3101437234923	124
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	28.2198688	83.9580593	125
+Golden Cloud Adventure P. Ltd.	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.710411302506	85.3129580931116	126
+Splash nepal adventure	1	Rafting	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7146686256428	85.3109832980832	127
+Eco craft collection	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7169496294368	85.310175951392	128
+Royal handicraft	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7155286407712	85.3113662974226	129
+Himalayan idol travel and tours	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71301	85.31211	130
+Mount everest souvenir house	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7135681946502	85.3125867485289	131
+Apex himalaya trek and expedition	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7104423	85.3109739	132
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7392974199588	85.3239723928859	133
+Green Boutique Hotel	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7210567730833	85.3653754560733	134
+Demeter Handicrafts	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7207596166803	85.3607724987554	135
+Hotel Luna Kathmandu	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7167297	85.3120921	136
+Nepal Highland Treks P Ltd	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7166059299288	85.3117833730153	137
+Natural nepal export	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71736	85.31034	138
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7180005590084	85.3097967996561	139
+New light handicraft	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71361	85.31132	140
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.69035	85.23849	141
+Hotel Business	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.6632585317559	85.4449016109137	142
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71423	85.31159	143
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.2077552	83.9684899	814
+Hiking nepal pvt ltd	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71689	85.30937	144
+Earth angle trading pvt ltd	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71409	85.31012	145
+Pashmina	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.71274	85.31124	146
+Thamel Seasons Hotel Pvt.ltd	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7179141297178	85.3101209550944	147
+Tour and trekking and Expedition	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7153213473598	85.3117415550944	148
+chitwan forest resort	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.58148	84.49332	149
+Agaman hotel	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	5	38	41	Workforce size became zero	कार्यबल आकार शून्य भयो 	27.7349334767156	85.3143232244077	150
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7650888094923	85.363349712796	151
+Ashirwad export	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71892	85.3122	152
+LEGENDS KHUKURI GALLERY PVT LTD	1	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7142268	85.3113891	153
+Handicrafts (felt,woolen. Curio	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71442	85.31192	154
+Hemp House Nepal Pvt.Ltd	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71575	85.30998	155
+Mandala Handicrafts	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71297	85.31228	156
+Dibya Hospitality Pvt.Ltd	1	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71292	85.35984	157
+Naya Nepal collection and export pvt.ltd	1	Handicraft	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.713195	85.3122775	158
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	28.2072939	83.9578631	159
+Mithila women handicraft	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7130115973909	85.3125155738383	160
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.69443	85.24896	161
+Orbit Nepal Adventure	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71305	85.31126	162
+hostel nextdoor	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.684944	85.315922	163
+Hotel Crown Plaza	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7130878	85.3281444	164
+Hotel Tharu Garden	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.5753519138286	84.5016726992705	165
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7156778	85.3113177	166
+HOTEL	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7177391	85.3101198	167
+Hotel	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71217	85.30787	168
+Himalaya Traders & Export	2	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7148479186674	85.3113777116411	169
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71702	85.33378	170
+Om Shanti Spa	2	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71578	85.30944	171
+Om Shanti Spa	2	Other	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71578	85.30945	172
+Cuisine Court	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.719115	85.332184	173
+Nepal Mountain Gear	2	Mountaineering	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7149361495911	85.3104505819971	235
+Asian adventure treks and expedition	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71321	85.31137	174
+Kathmandu cityhill Apartmnet	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7209932	85.3118557	175
+Aster Hotel Nepal Pvt. Ltd.	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.71331	85.3114	176
+Subhakamana Travels and Tours	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	28.19899	83.97616	177
+Stunning Adventure	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.6891069867822	85.2478348127655	178
+Rainbow Adventure Nepal	2	Rafting	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7115056	85.3089164	179
+Nepal Mountain Gear	2	Mountaineering	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.7149361495911	85.3104505819971	180
+HOTEL HIMALAYA PVT. LTD	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	4	28	31	Workforce size became 25% of 2019	कार्यबल आकार २०१९ को २५% भयो 	27.68413	85.31941	181
+Hotel Down Town Pvt. Ltd	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.71587	85.30982	182
+Green Mansions Jungle Resort	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.5845046127971	84.4711607974195	183
+Garden of Hope Treks & Expeditions	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.71459	85.31326	184
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7147492	85.3102089	185
+Nepal Handicraft portal	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7115975664926	85.3089139946971	186
+Pilgrims Guest House P.Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.717619	85.3115799	187
+R.R.Jewellery	2	Handicraft	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7137093	85.3123409	188
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	28.22345	83.9888	189
+Yakety Yak Hostel	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7133876	85.31238	190
+Nepal Ascent Treks	1	Trekking	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7119692416278	85.3110869262584	191
+Hotel Lakeside Pvt. Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	28.2077552	83.9684899	192
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	28.2148186	83.9618638	193
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.7141228	85.3116181	194
+Spa kinjjala pvt ltd.	2	Other	i_wrkfrc_size_chng_2020_v_2019	3	13	14	Workforce size became 50% of 2019	कार्यबल आकार २०१९ को ५०% भयो 	27.67812	85.30827	195
+Krishna handicraft	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.716084576286	85.3099118032157	196
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.7153038584918	85.3103238891712	197
+Kathmandu Spa	2	Other	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.7161657	85.3108951	198
+Suburb cafe	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.684759	85.312688	199
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71223	85.31062	200
+Tharu Home Resort	2	Hotel	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	28.46335	81.25026	201
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	26.98806	85.89996	202
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71061	85.31213	203
+Restutant	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71665	85.3099	204
+Downtown Restaurant	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.68076	85.31722	205
+Hemp heafquarter	2	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	2	10	11	Workforce size became 75% of 2019	कार्यबल आकार २०१९ को ७५% भयो 	27.71587	85.30991	206
+B s handicrafts	1	Shop/Merchandise	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.71316	85.31265	207
+Namaste Spa Pvt.Ltd	2	Other	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7151	85.312	208
+DBRAND SOLUTION PVT LTD	2	Other	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.6924011815381	85.3301440109144	209
+Kailash cafe & bar	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7160368463001	85.3104862262585	210
+Tiger Mountain	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.21064	84.04247	211
+Hotel Task International Pvt. Ltd.	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.2048324	83.9986713	212
+Harry guest house and restaurant	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.21224	83.9626	213
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7054130197592	85.3489936269846	214
+Tourism	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	28.20794	83.95855	215
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	i_wrkfrc_size_chng_2020_v_2019	1	9	10	Workforce size remained the same	कार्यबल आकार उही रह्यो 	27.7165403	85.3129886	216
+Trekking shop	2	Trekking	i_wrkfrc_size_chng_2020_v_2019	6	2	2	Workforce size increased compared to 2019	कार्यबल आकार २०१९ को तुलनामा बढ्यो	27.71574	85.30944	217
+The freedom cafe restaurant & bar	2	Restaurant and Bar	i_wrkfrc_size_chng_2020_v_2019	6	2	2	Workforce size increased compared to 2019	कार्यबल आकार २०१९ को तुलनामा बढ्यो	28.2209793	83.9559105	218
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7165403	85.3129886	219
+Apex himalaya trek and expedition	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7104423	85.3109739	220
+Himalayan idol travel and tours	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71301	85.31211	221
+Dibya Hospitality Pvt.Ltd	1	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71292	85.35984	222
+Nepal Ascent Treks	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7119692416278	85.3110869262584	223
+Royal handicraft	1	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7155286407712	85.3113662974226	224
+Eco craft collection	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7169496294368	85.310175951392	225
+LEGENDS KHUKURI GALLERY PVT LTD	1	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7142268	85.3113891	226
+Tourism	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.20794	83.95855	227
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2198688	83.9580593	228
+Harry guest house and restaurant	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.21224	83.9626	229
+Nepal Handicraft portal	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7115975664926	85.3089139946971	230
+The  cashmere store	1	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2044184	83.9644088	231
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7156778	85.3113177	232
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7152382	85.3115879	233
+HOTEL	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7177391	85.3101198	234
+Stunning Adventure	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6891069867822	85.2478348127655	236
+Himalayan Doorway	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.706472	80.577207	237
+Mount everest souvenir house	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7135681946502	85.3125867485289	238
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7392974199588	85.3239723928859	239
+Sun N Fun Holidays	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7043	85.33088	240
+Green Boutique Hotel	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7210567730833	85.3653754560733	241
+Tour and trekking and Expedition	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7153213473598	85.3117415550944	242
+The freedom cafe restaurant & bar	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2209793	83.9559105	243
+Hotel Business	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6632585317559	85.4449016109137	244
+Thamel Seasons Hotel Pvt.ltd	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7179141297178	85.3101209550944	245
+Agaman hotel	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7349334767156	85.3143232244077	246
+DBRAND SOLUTION PVT LTD	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6924011815381	85.3301440109144	247
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7180005590084	85.3097967996561	248
+Hotel Tharu Garden	2	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.5753519138286	84.5016726992705	249
+Lotus handicraft	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7162829183416	85.3101437234923	250
+Carrot holidays pvt ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6882985387026	85.3324406541961	251
+Peak trekking equipment collection	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7140738	85.3098685	252
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7176441116934	85.3093493859829	253
+Flight gyani Pvt ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7110507076044	85.3150705587519	254
+Golden Cloud Adventure P. Ltd.	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.710411302506	85.3129580931116	255
+Ashirwad export	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71892	85.3122	256
+Nepal Highland Treks P Ltd	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7166059299288	85.3117833730153	257
+Demeter Handicrafts	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7207596166803	85.3607724987554	258
+Hotel Tulsi Pokhara	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	28.2097	83.95798	259
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.6742617216237	85.3691647550934	260
+Asian adventure treks and expedition	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71321	85.31137	261
+Hotel Luna Kathmandu	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7167297	85.3120921	262
+Hemp House Nepal Pvt.Ltd	1	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71575	85.30998	263
+Garden of Hope Treks & Expeditions	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71459	85.31326	264
+Hiking nepal pvt ltd	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71689	85.30937	265
+Subhakamana Travels and Tours	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.19899	83.97616	297
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71423	85.31159	266
+B s handicrafts	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71316	85.31265	267
+Namaste Spa Pvt.Ltd	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7151	85.312	268
+Hotel	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71217	85.30787	269
+New light handicraft	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71361	85.31132	270
+Pashmina	1	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71274	85.31124	271
+Earth angle trading pvt ltd	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71409	85.31012	272
+Handicrafts (felt,woolen. Curio	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71442	85.31192	273
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.69035	85.23849	274
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.69443	85.24896	275
+Orbit Nepal Adventure	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71305	85.31126	276
+chitwan forest resort	1	Hotel	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.58148	84.49332	277
+Restutant	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71665	85.3099	278
+R.R.Jewellery	2	Handicraft	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7137093	85.3123409	279
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71702	85.33378	280
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7174198	85.3260471	281
+Terres du Nepal Trekking	1	Trekking	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71805	85.31192	282
+Pashmina Queen and Craft	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71538	85.3104	283
+Om Shanti Spa	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71578	85.30945	284
+Om Shanti Spa	2	Other	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.71578	85.30944	285
+Cuisine Court	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.719115	85.332184	286
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	5	63	69	Revenue stopped completely	राजस्व पूर्ण रूपमा रोकियो	27.7175	85.32594	287
+Hotel Task International Pvt. Ltd.	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.2048324	83.9986713	288
+Tharu Home Resort	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.46335	81.25026	289
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71061	85.31213	290
+Hotel Crown Plaza	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7130878	85.3281444	291
+Himalaya Traders & Export	2	Other	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7148479186674	85.3113777116411	292
+Tiger Mountain	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.21064	84.04247	293
+Rainbow Adventure Nepal	2	Rafting	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7115056	85.3089164	294
+Mithila women handicraft	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7130115973909	85.3125155738383	295
+Kathmandu cityhill Apartmnet	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7209932	85.3118557	296
+Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.5845046127971	84.4711607974195	815
+HOTEL HIMALAYA PVT. LTD	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.68413	85.31941	298
+Kailash cafe & bar	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7160368463001	85.3104862262585	299
+Aster Hotel Nepal Pvt. Ltd.	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71331	85.3114	300
+Yakety Yak Hostel	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7133876	85.31238	301
+Green Mansions Jungle Resort	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.5845046127971	84.4711607974195	302
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.2072939	83.9578631	303
+Naya Nepal collection and export pvt.ltd	1	Handicraft	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.713195	85.3122775	304
+Spa kinjjala pvt ltd.	2	Other	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.67812	85.30827	305
+Hotel Down Town Pvt. Ltd	2	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71587	85.30982	306
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7054130197592	85.3489936269846	307
+Hotel Lakeside Pvt. Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	28.2077552	83.9684899	308
+Splash nepal adventure	1	Rafting	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7146686256428	85.3109832980832	309
+Hemp heafquarter	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.71587	85.30991	310
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	4	22	24	Revenue became 25% of 2019	राजस्व २०१९ को २५% भयो 	27.7650888094923	85.363349712796	311
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	26.98806	85.89996	312
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	28.22345	83.9888	313
+Suburb cafe	2	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.684759	85.312688	314
+hostel nextdoor	2	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.684944	85.315922	315
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	28.2148186	83.9618638	316
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.7153038584918	85.3103238891712	317
+Downtown Restaurant	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.68076	85.31722	318
+Pilgrims Guest House P.Ltd	1	Hotel	i_fin_revenue_chng_2020_v_2019	3	7	8	Revenue became 50% of 2019	राजस्व २०१९ को ५०% भयो 	27.717619	85.3115799	319
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.71223	85.31062	320
+Mandala Handicrafts	2	Handicraft	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.71297	85.31228	321
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.7141228	85.3116181	322
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.7147492	85.3102089	323
+Kathmandu Spa	2	Other	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.7161657	85.3108951	324
+Krishna handicraft	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.716084576286	85.3099118032157	325
+Trekking shop	2	Trekking	i_fin_revenue_chng_2020_v_2019	2	6	7	Revenue became 75% of 2019	राजस्व २०१९ को ७५% भयो 	27.71574	85.30944	326
+Natural nepal export	2	Shop/Merchandise	i_fin_revenue_chng_2020_v_2019	1	1	1	Revenue remained the same	राजस्व उही रह्यो	27.71736	85.31034	327
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7153038584918	85.3103238891712	328
+Cuisine Court	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.719115	85.332184	329
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7175	85.32594	330
+Spa kinjjala pvt ltd.	2	Other	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.67812	85.30827	331
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.22345	83.9888	332
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	26.98806	85.89996	333
+The  cashmere store	1	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.2044184	83.9644088	334
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.2198688	83.9580593	335
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7650888094923	85.363349712796	336
+Eco craft collection	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7169496294368	85.310175951392	337
+Royal handicraft	1	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7155286407712	85.3113662974226	338
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	28.2072939	83.9578631	339
+Apex himalaya trek and expedition	2	Trekking	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7104423	85.3109739	340
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7392974199588	85.3239723928859	341
+Kailash cafe & bar	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7160368463001	85.3104862262585	342
+Green Boutique Hotel	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7210567730833	85.3653754560733	343
+Demeter Handicrafts	2	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7207596166803	85.3607724987554	344
+Nepal Highland Treks P Ltd	2	Trekking	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7166059299288	85.3117833730153	345
+Krishna handicraft	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.716084576286	85.3099118032157	346
+Mithila women handicraft	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7130115973909	85.3125155738383	347
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7176441116934	85.3093493859829	348
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.6882985387026	85.3324406541961	349
+DBRAND SOLUTION PVT LTD	2	Other	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.6924011815381	85.3301440109144	350
+Agaman hotel	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7349334767156	85.3143232244077	351
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7147492	85.3102089	352
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7174198	85.3260471	353
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7165403	85.3129886	354
+Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7130878	85.3281444	821
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.6742617216237	85.3691647550934	355
+Orbit Nepal Adventure	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71305	85.31126	356
+Natural nepal export	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71736	85.31034	357
+Yakety Yak Hostel	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7133876	85.31238	358
+Namaste Spa Pvt.Ltd	2	Other	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7151	85.312	359
+Hotel	1	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71217	85.30787	360
+R.R.Jewellery	2	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7137093	85.3123409	361
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71423	85.31159	362
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71061	85.31213	363
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71409	85.31012	364
+Hiking nepal pvt ltd	1	Trekking	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71689	85.30937	365
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71442	85.31192	366
+B s handicrafts	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71316	85.31265	367
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.69443	85.24896	368
+Garden of Hope Treks & Expeditions	2	Trekking	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71459	85.31326	369
+Hotel Down Town Pvt. Ltd	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71587	85.30982	370
+hostel nextdoor	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.684944	85.315922	371
+Restutant	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71665	85.3099	372
+Kathmandu Spa	2	Other	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.7161657	85.3108951	373
+Hemp heafquarter	2	Shop/Merchandise	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71587	85.30991	374
+Suburb cafe	2	Hotel	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.684759	85.312688	375
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_do_u_know_of_gov_schemes	1	54	49	Not aware of any government schemes	म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।	27.71575	85.30998	376
+Kathmandu cityhill Apartmnet	2	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7209932	85.3118557	377
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71223	85.31062	378
+Splash nepal adventure	1	Rafting	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7146686256428	85.3109832980832	417
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7180005590084	85.3097967996561	379
+Lotus handicraft	2	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7162829183416	85.3101437234923	380
+Mandala Handicrafts	2	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71297	85.31228	381
+chitwan forest resort	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.58148	84.49332	382
+Rainbow Adventure Nepal	2	Rafting	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7115056	85.3089164	383
+Ashirwad export	2	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71892	85.3122	384
+Hotel Tharu Garden	2	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.5753519138286	84.5016726992705	385
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.710411302506	85.3129580931116	386
+Mount everest souvenir house	2	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7135681946502	85.3125867485289	387
+Hotel Business	2	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.6632585317559	85.4449016109137	388
+Tour and trekking and Expedition	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7153213473598	85.3117415550944	389
+Downtown Restaurant	2	Restaurant and Bar	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.68076	85.31722	390
+Hotel Luna Kathmandu	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7167297	85.3120921	391
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.713195	85.3122775	392
+Tiger Mountain	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.21064	84.04247	393
+Hotel Task International Pvt. Ltd.	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.2048324	83.9986713	394
+Stunning Adventure	2	Trekking	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.6891069867822	85.2478348127655	395
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.19899	83.97616	396
+Kathmandu cityhill Apartmnet	2	Hotel	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.7209932	85.3118557	418
+Nepal Ascent Treks	1	Trekking	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7119692416278	85.3110869262584	397
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7152382	85.3115879	398
+Sun N Fun Holidays	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7043	85.33088	399
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.2077552	83.9684899	400
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71321	85.31137	401
+Pilgrims Guest House P.Ltd	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.717619	85.3115799	402
+Harry guest house and restaurant	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.21224	83.9626	403
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7054130197592	85.3489936269846	404
+Om Shanti Spa	2	Other	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71578	85.30945	405
+Om Shanti Spa	2	Other	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71578	85.30944	406
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.71702	85.33378	407
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	27.7141228	85.3116181	408
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_do_u_know_of_gov_schemes	2	37	33	Aware about government schemes but haven’t used any	 मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।	28.2148186	83.9618638	409
+HOTEL	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7177391	85.3101198	410
+Hotel Tulsi Pokhara	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	28.2097	83.95798	411
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.68413	85.31941	412
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7156778	85.3113177	413
+Green Mansions Jungle Resort	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.5845046127971	84.4711607974195	414
+Hotel Crown Plaza	2	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	27.7130878	85.3281444	415
+Tourism	1	Hotel	o_do_u_know_of_gov_schemes	3	9	8	Have used one or more government schemes	मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।	28.20794	83.95855	416
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7054130197592	85.3489936269846	816
+Hemp heafquarter	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.71587	85.30991	419
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.7141228	85.3116181	420
+DBRAND SOLUTION PVT LTD	2	Other	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.6924011815381	85.3301440109144	421
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.71061	85.31213	422
+Hiking nepal pvt ltd	1	Trekking	o_econ_impact_revenue_chng_21_v_19	6	7	6	Revenue is expected to be higher than 2019	राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ	27.71689	85.30937	423
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.7152382	85.3115879	424
+The  cashmere store	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	28.2044184	83.9644088	425
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.7650888094923	85.363349712796	426
+Hotel Business	2	Hotel	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.6632585317559	85.4449016109137	427
+Mandala Handicrafts	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	5	6	5	Revenue is expected to be similar to 2019’s revenue	राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ	27.71297	85.31228	428
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.7153038584918	85.3103238891712	429
+Kathmandu Spa	2	Other	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.7161657	85.3108951	430
+B s handicrafts	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.71316	85.31265	431
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	28.2072939	83.9578631	432
+hostel nextdoor	2	Hotel	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.684944	85.315922	433
+Tour and trekking and Expedition	2	Trekking	o_econ_impact_revenue_chng_21_v_19	4	7	6	Revenue is expected to be 75% of 2019	राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ	27.7153213473598	85.3117415550944	434
+Downtown Restaurant	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.68076	85.31722	435
+Hotel Task International Pvt. Ltd.	1	Hotel	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	28.2048324	83.9986713	436
+Mithila women handicraft	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.7130115973909	85.3125155738383	437
+Stunning Adventure	2	Trekking	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.6891069867822	85.2478348127655	438
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.71223	85.31062	439
+Splash nepal adventure	1	Rafting	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.7146686256428	85.3109832980832	440
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.71442	85.31192	441
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.7147492	85.3102089	442
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7650888094923	85.363349712796	817
+Tourism	1	Hotel	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	28.20794	83.95855	443
+Suburb cafe	2	Hotel	o_econ_impact_revenue_chng_21_v_19	3	11	10	Revenue is expected to be 50% of 2019	राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ	27.684759	85.312688	444
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2077552	83.9684899	445
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.22345	83.9888	446
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.68413	85.31941	447
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	26.98806	85.89996	448
+Krishna handicraft	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.716084576286	85.3099118032157	449
+Green Mansions Jungle Resort	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.5845046127971	84.4711607974195	450
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2198688	83.9580593	451
+Nepal Highland Treks P Ltd	2	Trekking	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7166059299288	85.3117833730153	452
+Eco craft collection	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7169496294368	85.310175951392	453
+Hotel Tulsi Pokhara	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2097	83.95798	454
+Mount everest souvenir house	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7135681946502	85.3125867485289	455
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.2148186	83.9618638	456
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7165403	85.3129886	457
+Tiger Mountain	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.21064	84.04247	458
+Spa kinjjala pvt ltd.	2	Other	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.67812	85.30827	459
+Sun N Fun Holidays	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7043	85.33088	460
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71321	85.31137	461
+Orbit Nepal Adventure	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71305	85.31126	462
+Yakety Yak Hostel	1	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.7133876	85.31238	463
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	28.19899	83.97616	464
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71423	85.31159	465
+Garden of Hope Treks & Expeditions	2	Trekking	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71459	85.31326	466
+Hotel Down Town Pvt. Ltd	2	Hotel	o_econ_impact_revenue_chng_21_v_19	2	26	23	Revenue is expected to be 25% of 2019	राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ	27.71587	85.30982	467
+Rainbow Adventure Nepal	2	Rafting	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7115056	85.3089164	468
+Tourism	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.20794	83.95855	818
+Green Boutique Hotel	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7210567730833	85.3653754560733	469
+Demeter Handicrafts	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7207596166803	85.3607724987554	470
+Natural nepal export	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71736	85.31034	471
+Namaste Spa Pvt.Ltd	2	Other	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7151	85.312	472
+Hotel	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71217	85.30787	473
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7176441116934	85.3093493859829	474
+Ashirwad export	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71892	85.3122	475
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.710411302506	85.3129580931116	476
+Hotel Crown Plaza	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7130878	85.3281444	477
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6882985387026	85.3324406541961	478
+Lotus handicraft	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7162829183416	85.3101437234923	479
+Hotel Tharu Garden	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.5753519138286	84.5016726992705	480
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7180005590084	85.3097967996561	481
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71409	85.31012	482
+Agaman hotel	2	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7349334767156	85.3143232244077	483
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.69443	85.24896	484
+chitwan forest resort	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.58148	84.49332	485
+Kailash cafe & bar	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7160368463001	85.3104862262585	486
+R.R.Jewellery	2	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7137093	85.3123409	487
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7392974199588	85.3239723928859	488
+Apex himalaya trek and expedition	2	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7104423	85.3109739	489
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7175	85.32594	490
+HOTEL	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7177391	85.3101198	491
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7174198	85.3260471	492
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7156778	85.3113177	493
+Cuisine Court	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.719115	85.332184	494
+Om Shanti Spa	2	Other	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71578	85.30945	495
+Om Shanti Spa	2	Other	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71578	85.30944	496
+Pilgrims Guest House P.Ltd	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.717619	85.3115799	497
+Harry guest house and restaurant	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	28.21224	83.9626	498
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71702	85.33378	499
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7054130197592	85.3489936269846	500
+Hotel Luna Kathmandu	1	Hotel	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7167297	85.3120921	501
+Restutant	2	Restaurant and Bar	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71665	85.3099	502
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71575	85.30998	503
+Royal handicraft	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7155286407712	85.3113662974226	504
+Nepal Ascent Treks	1	Trekking	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7119692416278	85.3110869262584	505
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.713195	85.3122775	506
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_econ_impact_revenue_chng_21_v_19	1	44	40	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6742617216237	85.3691647550934	507
+Kathmandu cityhill Apartmnet	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	6	2	2	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	27.7209932	85.3118557	508
+DBRAND SOLUTION PVT LTD	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	6	2	2	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	27.6924011815381	85.3301440109144	509
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.71061	85.31213	510
+Apex himalaya trek and expedition	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.7104423	85.3109739	511
+Tourism	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	28.20794	83.95855	512
+Mandala Handicrafts	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.71297	85.31228	513
+Tiger Mountain	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	28.21064	84.04247	514
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.7152382	85.3115879	515
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.7054130197592	85.3489936269846	516
+The  cashmere store	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	28.2044184	83.9644088	517
+Kathmandu Spa	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7161657	85.3108951	518
+Kailash cafe & bar	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7160368463001	85.3104862262585	519
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7153038584918	85.3103238891712	520
+Downtown Restaurant	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.68076	85.31722	521
+Tour and trekking and Expedition	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7153213473598	85.3117415550944	522
+Green Mansions Jungle Resort	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.5845046127971	84.4711607974195	523
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2077552	83.9684899	524
+Hotel Tulsi Pokhara	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2097	83.95798	525
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	26.98806	85.89996	526
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7141228	85.3116181	527
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.68413	85.31941	528
+Hotel Luna Kathmandu	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7167297	85.3120921	529
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2072939	83.9578631	530
+Garden of Hope Treks & Expeditions	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.71459	85.31326	531
+Hotel Down Town Pvt. Ltd	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.71587	85.30982	532
+Yakety Yak Hostel	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7133876	85.31238	533
+Suburb cafe	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.684759	85.312688	534
+hostel nextdoor	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.684944	85.315922	535
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7147492	85.3102089	536
+Hotel Task International Pvt. Ltd.	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2048324	83.9986713	537
+Splash nepal adventure	1	Rafting	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7146686256428	85.3109832980832	538
+Hotel Crown Plaza	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7130878	85.3281444	539
 Green Boutique Hotel	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7210567730833	85.3653754560733	540
-Hotel Crown Plaza	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7130878	85.3281444	541
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71423	85.31159	542
-Mount everest souvenir house	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7135681946502	85.3125867485289	543
-Stunning Adventure	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.6891069867822	85.2478348127655	544
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.2198688	83.9580593	545
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.713195	85.3122775	546
-Splash nepal adventure	1	Rafting	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7146686256428	85.3109832980832	547
-Orbit Nepal Adventure	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71305	85.31126	548
-Nepal Highland Treks P Ltd	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7166059299288	85.3117833730153	549
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.2148186	83.9618638	550
-R.R.Jewellery	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7137093	85.3123409	551
-Hiking nepal pvt ltd	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71689	85.30937	552
-Lotus handicraft	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7162829183416	85.3101437234923	553
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71575	85.30998	554
-Rainbow Adventure Nepal	2	Rafting	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7115056	85.3089164	555
-Om Shanti Spa	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71578	85.30944	556
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.22345	83.9888	557
-Cuisine Court	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.719115	85.332184	558
-Eco craft collection	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7169496294368	85.310175951392	559
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71223	85.31062	560
-Sun N Fun Holidays	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7043	85.33088	561
-Spa kinjjala pvt ltd.	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.67812	85.30827	562
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.19899	83.97616	563
-Mithila women handicraft	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7130115973909	85.3125155738383	564
-Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7133876	85.31238	820
-Krishna handicraft	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.716084576286	85.3099118032157	565
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7174198	85.3260471	566
-Om Shanti Spa	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71578	85.30945	567
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7147492	85.3102089	568
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2072939	83.9578631	569
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.68413	85.31941	570
-Yakety Yak Hostel	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7133876	85.31238	571
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	26.98806	85.89996	572
-Hotel Down Town Pvt. Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.71587	85.30982	573
-Suburb cafe	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.684759	85.312688	574
-hostel nextdoor	3	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.684944	85.315922	575
-Green Mansions Jungle Resort	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.5845046127971	84.4711607974195	576
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2077552	83.9684899	577
-Hotel Luna Kathmandu	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7167297	85.3120921	578
-Garden of Hope Treks & Expeditions	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.71459	85.31326	579
-Hotel Task International Pvt. Ltd.	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2048324	83.9986713	580
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	27.7141228	85.3116181	581
-Hotel Tulsi Pokhara	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	3	17	15	Workforce size will be 50% of 2019	कार्यबल आकार २०१९ को ५०% हुनेछ 	28.2097	83.95798	582
-Kathmandu Spa	1	Other	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7161657	85.3108951	583
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7153038584918	85.3103238891712	584
-Kailash cafe & bar	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7160368463001	85.3104862262585	585
-Downtown Restaurant	1	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.68076	85.31722	586
-Tour and trekking and Expedition	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	4	6	5	Workforce size will be 75% of 2019	कार्यबल आकार २०१९ को ७५% हुनेछ 	27.7153213473598	85.3117415550944	587
-Mandala Handicrafts	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.71297	85.31228	588
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.71061	85.31213	589
-Tourism	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	28.20794	83.95855	590
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.7152382	85.3115879	591
-Apex himalaya trek and expedition	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.7104423	85.3109739	592
-The  cashmere store	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	28.2044184	83.9644088	593
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	27.7054130197592	85.3489936269846	594
-Tiger Mountain	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	5	9	8	Workforce size will be similar to that of 2019	कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ 	28.21064	84.04247	595
-DBRAND SOLUTION PVT LTD	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	6	2	2	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	27.6924011815381	85.3301440109144	596
-Kathmandu cityhill Apartmnet	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	6	2	2	Workforce size will be greater than that of 2019	कार्यबल आकार २०१९ को भन्दा बढी हुनेछ 	27.7209932	85.3118557	597
+Stunning Adventure	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.6891069867822	85.2478348127655	541
+Nepal Highland Treks P Ltd	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7166059299288	85.3117833730153	542
+Krishna handicraft	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.716084576286	85.3099118032157	543
+Mithila women handicraft	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7130115973909	85.3125155738383	544
+Lotus handicraft	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7162829183416	85.3101437234923	545
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7180005590084	85.3097967996561	546
+Eco craft collection	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7169496294368	85.310175951392	547
+Mount everest souvenir house	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7135681946502	85.3125867485289	548
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.713195	85.3122775	549
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.2198688	83.9580593	550
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7165403	85.3129886	551
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.22345	83.9888	552
+Cuisine Court	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.719115	85.332184	553
+Orbit Nepal Adventure	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71305	85.31126	554
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71442	85.31192	555
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71223	85.31062	556
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7141228	85.3116181	819
+Rainbow Adventure Nepal	2	Rafting	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7115056	85.3089164	557
+R.R.Jewellery	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7137093	85.3123409	558
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.2148186	83.9618638	559
+Hiking nepal pvt ltd	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71689	85.30937	560
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71575	85.30998	561
+Om Shanti Spa	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71578	85.30944	562
+Om Shanti Spa	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71578	85.30945	563
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.71423	85.31159	564
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7174198	85.3260471	565
+Sun N Fun Holidays	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.7043	85.33088	566
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	28.19899	83.97616	567
+Spa kinjjala pvt ltd.	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	2	34	31	Workforce size will be 25% of 2019	कार्यबल आकार २०१९ को २५% हुनेछ	27.67812	85.30827	568
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6882985387026	85.3324406541961	569
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71409	85.31012	570
+Ashirwad export	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71892	85.3122	571
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.710411302506	85.3129580931116	572
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7176441116934	85.3093493859829	573
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7650888094923	85.363349712796	574
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7156778	85.3113177	575
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.69443	85.24896	576
+Agaman hotel	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7349334767156	85.3143232244077	577
+HOTEL	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7177391	85.3101198	578
+Hotel Business	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6632585317559	85.4449016109137	579
+chitwan forest resort	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.58148	84.49332	580
+Hotel Tharu Garden	2	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.5753519138286	84.5016726992705	581
+Namaste Spa Pvt.Ltd	2	Other	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7151	85.312	582
+Hotel	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71217	85.30787	583
+Demeter Handicrafts	2	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7207596166803	85.3607724987554	584
+B s handicrafts	1	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71316	85.31265	585
+Natural nepal export	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71736	85.31034	586
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7392974199588	85.3239723928859	587
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71321	85.31137	588
+Pilgrims Guest House P.Ltd	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.717619	85.3115799	589
+Harry guest house and restaurant	1	Hotel	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	28.21224	83.9626	590
+Hemp heafquarter	2	Shop/Merchandise	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71587	85.30991	591
+Restutant	2	Restaurant and Bar	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71665	85.3099	592
+Nepal Ascent Treks	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7119692416278	85.3110869262584	593
+Royal handicraft	1	Handicraft	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7155286407712	85.3113662974226	594
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.71702	85.33378	595
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.7175	85.32594	596
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_econ_impact_wrkfrc_chng_21_v_19	1	32	29	None (or negligible)	कुनै पनि होइन (वा नगण्य)	27.6742617216237	85.3691647550934	597
 Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7153038584918	85.3103238891712	598
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	26.98806	85.89996	599
-chitwan forest resort	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.58148	84.49332	600
-Suburb cafe	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.684759	85.312688	601
-hostel nextdoor	3	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.684944	85.315922	602
-Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71305	85.31126	603
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.69443	85.24896	604
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.69035	85.23849	605
-Mandala Handicrafts	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71297	85.31228	606
-Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71442	85.31192	607
-Tharu Home Resort	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.46335	81.25026	608
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71061	85.31213	609
-New light handicraft	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71361	85.31132	610
-Hotel	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71217	85.30787	611
-Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71331	85.3114	612
-Namaste Spa Pvt.Ltd	2	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7151	85.312	613
-Natural nepal export	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71736	85.31034	614
-Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7133876	85.31238	615
-R.R.Jewellery	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7137093	85.3123409	616
-Hiking nepal pvt ltd	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71689	85.30937	617
-Hotel Down Town Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71587	85.30982	618
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71575	85.30998	619
-Kathmandu Spa	1	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7161657	85.3108951	620
-Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7167297	85.3120921	621
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71702	85.33378	622
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71578	85.30944	623
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71578	85.30945	624
-Pashmina Queen and Craft	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71538	85.3104	625
-Terres du Nepal Trekking	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71805	85.31192	626
-Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.719115	85.332184	627
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7175	85.32594	628
-Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71321	85.31137	629
-Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7043	85.33088	630
-Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.19899	83.97616	631
-Tiger Mountain	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.21064	84.04247	632
-B s handicrafts	1	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71316	85.31265	735
-Hotel Tulsi Pokhara	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2097	83.95798	633
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2148186	83.9618638	634
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.22345	83.9888	635
-Himalayan Doorway	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.706472	80.577207	636
-Nepal Mountain Gear	2	Mountaineering	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7149361495911	85.3104505819971	637
-HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.68413	85.31941	638
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7165403	85.3129886	639
-HOTEL	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7177391	85.3101198	640
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2077552	83.9684899	641
-Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.5845046127971	84.4711607974195	642
-Nepal Handicraft portal	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7115975664926	85.3089139946971	643
-Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.717619	85.3115799	644
-Harry guest house and restaurant	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.21224	83.9626	645
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2198688	83.9580593	646
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7054130197592	85.3489936269846	647
-Tourism	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.20794	83.95855	648
-LEGENDS KHUKURI GALLERY PVT LTD	1	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7142268	85.3113891	649
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7141228	85.3116181	650
-Royal handicraft	1	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7155286407712	85.3113662974226	651
-Natural nepal export	2	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71736	85.31034	736
-Nepal Ascent Treks	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7119692416278	85.3110869262584	652
-Naya Nepal collection and export pvt.ltd	1	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.713195	85.3122775	653
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2072939	83.9578631	654
-Downtown Restaurant	1	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.68076	85.31722	655
-Mount everest souvenir house	1	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7135681946502	85.3125867485289	656
-Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7130878	85.3281444	657
-Kailash cafe & bar	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7160368463001	85.3104862262585	658
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7209932	85.3118557	659
-Krishna handicraft	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.716084576286	85.3099118032157	660
-Mithila women handicraft	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7130115973909	85.3125155738383	661
-Ashirwad export	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71892	85.3122	662
-Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.710411302506	85.3129580931116	663
-Flight gyani Pvt ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7110507076044	85.3150705587519	664
-Trekking shop	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71574	85.30944	665
-Lotus handicraft	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7162829183416	85.3101437234923	666
-Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.5753519138286	84.5016726992705	667
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7180005590084	85.3097967996561	668
-Agaman hotel	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7349334767156	85.3143232244077	669
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7147492	85.3102089	670
-Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7133876	85.31238	737
-The freedom cafe restaurant & bar	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2209793	83.9559105	671
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7153038584918	85.3103238891712	672
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	26.98806	85.89996	673
-chitwan forest resort	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.58148	84.49332	674
-hostel nextdoor	3	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.684944	85.315922	675
-Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71305	85.31126	676
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.69035	85.23849	677
-Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71442	85.31192	678
-Tharu Home Resort	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.46335	81.25026	679
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71061	85.31213	680
-Rainbow Adventure Nepal	2	Rafting	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7115056	85.3089164	681
-Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71331	85.3114	682
-Namaste Spa Pvt.Ltd	2	Other	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7151	85.312	683
-Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7133876	85.31238	684
-Hotel Down Town Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71587	85.30982	685
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71575	85.30998	686
-Hemp heafquarter	2	Shop/Merchandise	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71587	85.30991	687
-Restutant	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71665	85.3099	688
-Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7167297	85.3120921	689
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71702	85.33378	690
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71578	85.30944	691
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71578	85.30945	692
-Pashmina Queen and Craft	2	Shop/Merchandise	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71538	85.3104	693
-Terres du Nepal Trekking	1	Trekking	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71805	85.31192	694
-Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.719115	85.332184	695
-Spa kinjjala pvt ltd.	2	Other	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.67812	85.30827	696
-Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.19899	83.97616	697
-Tiger Mountain	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.21064	84.04247	698
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.2148186	83.9618638	699
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.22345	83.9888	700
-Himalayan Doorway	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.706472	80.577207	701
-Stunning Adventure	2	Trekking	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.6891069867822	85.2478348127655	702
-HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.68413	85.31941	703
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7165403	85.3129886	704
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7152382	85.3115879	705
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.2077552	83.9684899	706
-Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.5845046127971	84.4711607974195	707
-The  cashmere store	1	Handicraft	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.2044184	83.9644088	708
-Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.717619	85.3115799	709
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7054130197592	85.3489936269846	710
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7650888094923	85.363349712796	711
-Tourism	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.20794	83.95855	712
-Splash nepal adventure	1	Rafting	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7146686256428	85.3109832980832	713
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7141228	85.3116181	714
-Nepal Ascent Treks	1	Trekking	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7119692416278	85.3110869262584	715
-Apex himalaya trek and expedition	1	Trekking	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7104423	85.3109739	716
-Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7130878	85.3281444	717
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7209932	85.3118557	718
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7176441116934	85.3093493859829	719
-Carrot holidays pvt ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.6882985387026	85.3324406541961	720
-Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.5753519138286	84.5016726992705	721
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7180005590084	85.3097967996561	722
-Thamel Seasons Hotel Pvt.ltd	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained our employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7179141297178	85.3101209550944	723
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7153038584918	85.3103238891712	724
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	26.98806	85.89996	725
-chitwan forest resort	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.58148	84.49332	726
-Suburb cafe	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.684759	85.312688	727
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.69035	85.23849	728
-Mandala Handicrafts	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71297	85.31228	729
-Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71442	85.31192	730
-Earth angle trading pvt ltd	2	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71409	85.31012	731
-Tharu Home Resort	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.46335	81.25026	732
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71061	85.31213	733
-Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71331	85.3114	734
-Pashmina	1	Shop/Merchandise	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71274	85.31124	817
-R.R.Jewellery	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7137093	85.3123409	738
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71423	85.31159	739
-Hotel Down Town Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71587	85.30982	740
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71575	85.30998	741
-Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7167297	85.3120921	742
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71702	85.33378	743
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71578	85.30944	744
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71578	85.30945	745
-Pashmina Queen and Craft	2	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71538	85.3104	746
-Terres du Nepal Trekking	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71805	85.31192	747
-Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.719115	85.332184	748
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7174198	85.3260471	749
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7175	85.32594	750
-Spa kinjjala pvt ltd.	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.67812	85.30827	751
-Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.19899	83.97616	752
-Tiger Mountain	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.21064	84.04247	753
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2148186	83.9618638	754
-Himalayan Doorway	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.706472	80.577207	755
-HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.68413	85.31941	756
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7165403	85.3129886	757
-HOTEL	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7177391	85.3101198	758
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7156778	85.3113177	759
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2077552	83.9684899	760
-Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.5845046127971	84.4711607974195	761
-The  cashmere store	1	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2044184	83.9644088	762
-Nepal Handicraft portal	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7115975664926	85.3089139946971	763
-Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.717619	85.3115799	764
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2198688	83.9580593	765
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7054130197592	85.3489936269846	766
-Tourism	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.20794	83.95855	767
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7141228	85.3116181	768
-Eco craft collection	1	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7169496294368	85.310175951392	769
-Nepal Ascent Treks	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7119692416278	85.3110869262584	770
-Dibya Hospitality Pvt.Ltd	1	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71292	85.35984	771
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2072939	83.9578631	772
-Mount everest souvenir house	1	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7135681946502	85.3125867485289	773
-Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7130878	85.3281444	774
-Demeter Handicrafts	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7207596166803	85.3607724987554	775
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7209932	85.3118557	776
-Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.710411302506	85.3129580931116	777
-Lotus handicraft	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7162829183416	85.3101437234923	778
-Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.5753519138286	84.5016726992705	779
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7180005590084	85.3097967996561	780
-DBRAND SOLUTION PVT LTD	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at our business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.6924011815381	85.3301440109144	781
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7153038584918	85.3103238891712	782
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.69035	85.23849	783
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71061	85.31213	784
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71423	85.31159	785
-Hotel Down Town Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71587	85.30982	786
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71575	85.30998	787
-Kathmandu Spa	1	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7161657	85.3108951	788
-Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7167297	85.3120921	789
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71702	85.33378	790
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71578	85.30944	791
-Om Shanti Spa	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71578	85.30945	792
-Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.719115	85.332184	793
-Spa kinjjala pvt ltd.	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.67812	85.30827	794
-Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.19899	83.97616	795
-Tiger Mountain	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.21064	84.04247	796
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.22345	83.9888	797
-Himalayan Doorway	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.706472	80.577207	798
-HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.68413	85.31941	799
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7165403	85.3129886	800
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.2077552	83.9684899	801
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7054130197592	85.3489936269846	802
-Tourism	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.20794	83.95855	803
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7141228	85.3116181	804
-Downtown Restaurant	1	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.68076	85.31722	805
-Mount everest souvenir house	1	Handicraft	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7135681946502	85.3125867485289	806
-Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7130878	85.3281444	807
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7209932	85.3118557	808
-Himalaya Traders & Export	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7148479186674	85.3113777116411	809
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7180005590084	85.3097967996561	810
-DBRAND SOLUTION PVT LTD	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.6924011815381	85.3301440109144	811
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7153038584918	85.3103238891712	812
-chitwan forest resort	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.58148	84.49332	813
-hostel nextdoor	3	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.684944	85.315922	814
-Lets trip Nepal Adventure Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.69035	85.23849	815
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71223	85.31062	816
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71423	85.31159	821
-Garden of Hope Treks & Expeditions	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71459	85.31326	822
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71575	85.30998	823
-Kathmandu Spa	1	Other	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7161657	85.3108951	824
-Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7167297	85.3120921	825
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71702	85.33378	826
-Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71321	85.31137	827
-Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7043	85.33088	828
-Tiger Mountain	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.21064	84.04247	829
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.22345	83.9888	830
-Himalayan Doorway	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.706472	80.577207	831
-HOTEL	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7177391	85.3101198	832
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.2077552	83.9684899	833
-Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.5845046127971	84.4711607974195	834
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7054130197592	85.3489936269846	835
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7650888094923	85.363349712796	836
-Tourism	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.20794	83.95855	837
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7141228	85.3116181	838
-Himalayan idol travel and tours	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71301	85.31211	839
-Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7130878	85.3281444	840
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7209932	85.3118557	841
-Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.710411302506	85.3129580931116	842
-Peak trekking equipment collection	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7140738	85.3098685	843
-Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.5753519138286	84.5016726992705	844
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7180005590084	85.3097967996561	845
-DBRAND SOLUTION PVT LTD	2	Other	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.6924011815381	85.3301440109144	846
-Hotel Business	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.6632585317559	85.4449016109137	847
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	10	5	5	We didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7392974199588	85.3239723928859	848
-Green Boutique Hotel	2	Hotel	p_hlth_hhs_measures	10	5	5	We didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7210567730833	85.3653754560733	849
-Nepal Highland Treks P Ltd	2	Trekking	p_hlth_hhs_measures	10	5	5	We didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7166059299288	85.3117833730153	850
-Tour and trekking and Expedition	2	Trekking	p_hlth_hhs_measures	10	5	5	We didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7153213473598	85.3117415550944	851
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	p_hlth_hhs_measures	10	5	5	We didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.6742617216237	85.3691647550934	852
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2072939	83.9578631	599
+Nepal Ascent Treks	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7119692416278	85.3110869262584	600
+Royal handicraft	1	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7155286407712	85.3113662974226	601
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7141228	85.3116181	602
+LEGENDS KHUKURI GALLERY PVT LTD	1	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7142268	85.3113891	603
+Tourism	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.20794	83.95855	604
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7054130197592	85.3489936269846	605
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2198688	83.9580593	606
+Harry guest house and restaurant	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.21224	83.9626	607
+Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.717619	85.3115799	608
+Nepal Handicraft portal	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7115975664926	85.3089139946971	609
+Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.5845046127971	84.4711607974195	610
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7180005590084	85.3097967996561	820
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2077552	83.9684899	611
+HOTEL	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7177391	85.3101198	612
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7165403	85.3129886	613
+HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.68413	85.31941	614
+Naya Nepal collection and export pvt.ltd	1	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.713195	85.3122775	615
+Downtown Restaurant	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.68076	85.31722	616
+Himalayan Doorway	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.706472	80.577207	617
+Mount everest souvenir house	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7135681946502	85.3125867485289	618
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	26.98806	85.89996	619
+The freedom cafe restaurant & bar	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2209793	83.9559105	620
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7147492	85.3102089	621
+Agaman hotel	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7349334767156	85.3143232244077	622
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7180005590084	85.3097967996561	623
+Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.5753519138286	84.5016726992705	624
+Lotus handicraft	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7162829183416	85.3101437234923	625
+Trekking shop	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71574	85.30944	626
+Flight gyani Pvt ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7110507076044	85.3150705587519	627
+Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.710411302506	85.3129580931116	628
+Mithila women handicraft	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7130115973909	85.3125155738383	629
+Tharu Home Resort	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.46335	81.25026	692
+Krishna handicraft	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.716084576286	85.3099118032157	630
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7209932	85.3118557	631
+Kailash cafe & bar	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7160368463001	85.3104862262585	632
+Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7130878	85.3281444	633
+Nepal Mountain Gear	2	Mountaineering	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7149361495911	85.3104505819971	634
+Ashirwad export	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71892	85.3122	635
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.22345	83.9888	636
+R.R.Jewellery	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7137093	85.3123409	637
+Natural nepal export	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71736	85.31034	638
+Namaste Spa Pvt.Ltd	2	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7151	85.312	639
+Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71331	85.3114	640
+Hotel	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71217	85.30787	641
+New light handicraft	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71361	85.31132	642
+chitwan forest resort	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.58148	84.49332	643
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71061	85.31213	644
+Tharu Home Resort	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.46335	81.25026	645
+Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71442	85.31192	646
+Mandala Handicrafts	2	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71297	85.31228	647
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.69443	85.24896	648
+Earth angle trading pvt ltd	2	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71409	85.31012	693
+Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71305	85.31126	649
+hostel nextdoor	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.684944	85.315922	650
+Suburb cafe	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.684759	85.312688	651
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2148186	83.9618638	652
+Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7133876	85.31238	653
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.69035	85.23849	654
+Hiking nepal pvt ltd	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71689	85.30937	655
+Terres du Nepal Trekking	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71805	85.31192	656
+Hotel Tulsi Pokhara	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.2097	83.95798	657
+Hotel Down Town Pvt. Ltd	2	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71587	85.30982	658
+Tiger Mountain	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.21064	84.04247	659
+Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	28.19899	83.97616	660
+Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71321	85.31137	661
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7175	85.32594	662
+Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.719115	85.332184	663
+Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7043	85.33088	664
+Pashmina Queen and Craft	2	Shop/Merchandise	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71538	85.3104	665
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71578	85.30944	666
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71575	85.30998	667
+Spa kinjjala pvt ltd.	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.67812	85.30827	811
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71702	85.33378	668
+Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7167297	85.3120921	669
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.71578	85.30945	670
+Kathmandu Spa	2	Other	p_hlth_hhs_measures	1	68	74	Placed sanitizers, thermal screening or disinfection at prominent locations	प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो	27.7161657	85.3108951	671
+Terres du Nepal Trekking	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71805	85.31192	672
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71702	85.33378	673
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71578	85.30944	674
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71578	85.30945	675
+Pashmina Queen and Craft	2	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71538	85.3104	676
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7174198	85.3260471	677
+Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.719115	85.332184	678
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7175	85.32594	679
+Spa kinjjala pvt ltd.	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.67812	85.30827	680
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71575	85.30998	681
+Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.19899	83.97616	682
+Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7167297	85.3120921	683
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71061	85.31213	684
+Hotel Down Town Pvt. Ltd	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71587	85.30982	685
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71423	85.31159	686
+R.R.Jewellery	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7137093	85.3123409	687
+Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7133876	85.31238	688
+Natural nepal export	2	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71736	85.31034	689
+B s handicrafts	1	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71316	85.31265	690
+Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71331	85.3114	691
+Himalayan idol travel and tours	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71301	85.31211	812
+Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71442	85.31192	694
+Mandala Handicrafts	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71297	85.31228	695
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2148186	83.9618638	696
+Tiger Mountain	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.21064	84.04247	697
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2072939	83.9578631	698
+Himalayan Doorway	2	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.706472	80.577207	699
+HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.68413	85.31941	700
+Suburb cafe	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.684759	85.312688	701
+DBRAND SOLUTION PVT LTD	2	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.6924011815381	85.3301440109144	702
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7180005590084	85.3097967996561	703
+Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.5753519138286	84.5016726992705	704
+Lotus handicraft	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7162829183416	85.3101437234923	705
+Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.710411302506	85.3129580931116	706
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7209932	85.3118557	707
+Demeter Handicrafts	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7207596166803	85.3607724987554	708
+Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7130878	85.3281444	709
+Mount everest souvenir house	2	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7135681946502	85.3125867485289	710
+Dibya Hospitality Pvt.Ltd	1	Other	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.71292	85.35984	711
+Nepal Ascent Treks	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7119692416278	85.3110869262584	712
+Eco craft collection	1	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7169496294368	85.310175951392	713
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7141228	85.3116181	714
+Tourism	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.20794	83.95855	715
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7054130197592	85.3489936269846	716
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2198688	83.9580593	717
+Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.717619	85.3115799	718
+HOTEL	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7177391	85.3101198	813
+Nepal Handicraft portal	1	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7115975664926	85.3089139946971	719
+The  cashmere store	1	Handicraft	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2044184	83.9644088	720
+Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.5845046127971	84.4711607974195	721
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	28.2077552	83.9684899	722
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7156778	85.3113177	723
+HOTEL	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7177391	85.3101198	724
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7165403	85.3129886	725
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.69035	85.23849	726
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	26.98806	85.89996	727
+chitwan forest resort	1	Hotel	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.58148	84.49332	728
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	4	53	58	Maintained social distancing at business premises	हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो	27.7153038584918	85.3103238891712	729
+Namaste Spa Pvt.Ltd	2	Other	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7151	85.312	730
+Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.719115	85.332184	731
+Terres du Nepal Trekking	1	Trekking	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71805	85.31192	732
+Pashmina Queen and Craft	2	Shop/Merchandise	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71538	85.3104	733
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71578	85.30945	734
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71702	85.33378	735
+Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7167297	85.3120921	736
+Restutant	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71665	85.3099	737
+Hemp heafquarter	2	Shop/Merchandise	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71587	85.30991	738
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71575	85.30998	739
+Hotel Down Town Pvt. Ltd	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71587	85.30982	740
+Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7133876	85.31238	741
+Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71331	85.3114	742
+Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.19899	83.97616	743
+Rainbow Adventure Nepal	2	Rafting	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7115056	85.3089164	744
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71061	85.31213	745
+Tharu Home Resort	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.46335	81.25026	746
+Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71442	85.31192	747
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.69035	85.23849	748
+Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71305	85.31126	749
+hostel nextdoor	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.684944	85.315922	750
+chitwan forest resort	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.58148	84.49332	751
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	26.98806	85.89996	752
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7153038584918	85.3103238891712	753
+Spa kinjjala pvt ltd.	2	Other	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.67812	85.30827	754
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.71578	85.30944	755
+Tiger Mountain	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.21064	84.04247	756
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7650888094923	85.363349712796	757
+Thamel Seasons Hotel Pvt.ltd	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7179141297178	85.3101209550944	758
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7180005590084	85.3097967996561	759
+Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.5753519138286	84.5016726992705	760
+Carrot holidays pvt ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.6882985387026	85.3324406541961	761
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7141228	85.3116181	783
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7176441116934	85.3093493859829	762
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7209932	85.3118557	763
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.2148186	83.9618638	764
+Apex himalaya trek and expedition	2	Trekking	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7104423	85.3109739	765
+Nepal Ascent Treks	1	Trekking	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7119692416278	85.3110869262584	766
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7141228	85.3116181	767
+Splash nepal adventure	1	Rafting	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7146686256428	85.3109832980832	768
+Tourism	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.20794	83.95855	769
+Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7130878	85.3281444	770
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7054130197592	85.3489936269846	771
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7165403	85.3129886	772
+Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.717619	85.3115799	773
+Himalayan Doorway	2	Travel and Tour Operator	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.706472	80.577207	774
+Stunning Adventure	2	Trekking	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.6891069867822	85.2478348127655	775
+HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.68413	85.31941	776
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.7152382	85.3115879	777
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.2077552	83.9684899	778
+Green Mansions Jungle Resort	1	Hotel	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	27.5845046127971	84.4711607974195	779
+The  cashmere store	1	Handicraft	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.2044184	83.9644088	780
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	2	48	52	Trained employees on Health, hygiene and sanitation	हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो 	28.22345	83.9888	781
+HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.68413	85.31941	782
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7165403	85.3129886	784
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.2077552	83.9684899	785
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7054130197592	85.3489936269846	786
+Tourism	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.20794	83.95855	787
+Himalaya Traders & Export	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7148479186674	85.3113777116411	788
+Downtown Restaurant	2	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.68076	85.31722	789
+Mount everest souvenir house	2	Handicraft	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7135681946502	85.3125867485289	790
+Hotel Crown Plaza	2	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7130878	85.3281444	791
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7209932	85.3118557	792
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7180005590084	85.3097967996561	793
+DBRAND SOLUTION PVT LTD	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.6924011815381	85.3301440109144	794
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.22345	83.9888	795
+Himalayan Doorway	2	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.706472	80.577207	796
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71702	85.33378	797
+Tiger Mountain	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.21064	84.04247	798
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71575	85.30998	799
+Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	28.19899	83.97616	800
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7153038584918	85.3103238891712	801
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.69035	85.23849	802
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71423	85.31159	803
+Hotel Down Town Pvt. Ltd	2	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71587	85.30982	804
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71061	85.31213	805
+Kathmandu Spa	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7161657	85.3108951	806
+Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.7167297	85.3120921	807
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71578	85.30944	808
+Om Shanti Spa	2	Other	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.71578	85.30945	809
+Cuisine Court	2	Restaurant and Bar	p_hlth_hhs_measures	5	28	30	Introduced/Implemented cashless payments	नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो 	27.719115	85.332184	810
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7209932	85.3118557	822
+Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.710411302506	85.3129580931116	823
+Peak trekking equipment collection	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7140738	85.3098685	824
+Hotel Tharu Garden	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.5753519138286	84.5016726992705	825
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.22345	83.9888	826
+DBRAND SOLUTION PVT LTD	2	Other	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.6924011815381	85.3301440109144	827
+Hotel Business	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.6632585317559	85.4449016109137	828
+Himalayan Doorway	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.706472	80.577207	829
+Hotel Luna Kathmandu	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7167297	85.3120921	830
+Tiger Mountain	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	28.21064	84.04247	831
+Aster Hotel Nepal Pvt. Ltd.	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71331	85.3114	832
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7153038584918	85.3103238891712	833
+chitwan forest resort	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.58148	84.49332	834
+hostel nextdoor	2	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.684944	85.315922	835
+Lets trip Nepal Adventure Pvt Ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.69035	85.23849	836
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71223	85.31062	837
+Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7043	85.33088	838
+Rainbow Adventure Nepal	2	Rafting	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7115056	85.3089164	839
+Pashmina	1	Shop/Merchandise	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71274	85.31124	840
+Yakety Yak Hostel	1	Hotel	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7133876	85.31238	841
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71423	85.31159	842
+Garden of Hope Treks & Expeditions	2	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71459	85.31326	843
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71575	85.30998	844
+Kathmandu Spa	2	Other	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.7161657	85.3108951	845
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71702	85.33378	846
+Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_hhs_measures	9	33	36	Other	अन्य	27.71321	85.31137	847
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	p_hlth_hhs_measures	10	5	5	Didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7392974199588	85.3239723928859	848
+Green Boutique Hotel	2	Hotel	p_hlth_hhs_measures	10	5	5	Didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7210567730833	85.3653754560733	849
+Nepal Highland Treks P Ltd	2	Trekking	p_hlth_hhs_measures	10	5	5	Didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7166059299288	85.3117833730153	850
+Tour and trekking and Expedition	2	Trekking	p_hlth_hhs_measures	10	5	5	Didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.7153213473598	85.3117415550944	851
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	p_hlth_hhs_measures	10	5	5	Didn't employ any health and sanitation related measures	हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं	27.6742617216237	85.3691647550934	852
 Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7153038584918	85.3103238891712	853
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	26.98806	85.89996	854
-chitwan forest resort	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.58148	84.49332	855
-Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7119692416278	85.3110869262584	1029
-Suburb cafe	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.684759	85.312688	856
-hostel nextdoor	3	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.684944	85.315922	857
-Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71305	85.31126	858
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.69443	85.24896	859
-Mandala Handicrafts	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71297	85.31228	860
-Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71442	85.31192	861
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71061	85.31213	862
-Rainbow Adventure Nepal	2	Rafting	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7115056	85.3089164	863
-Hotel	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71217	85.30787	864
-Namaste Spa Pvt.Ltd	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7151	85.312	865
-B s handicrafts	1	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71316	85.31265	866
-Natural nepal export	2	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71736	85.31034	867
-Yakety Yak Hostel	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7133876	85.31238	868
-R.R.Jewellery	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7137093	85.3123409	869
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71423	85.31159	870
-Garden of Hope Treks & Expeditions	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71459	85.31326	871
-Hotel Down Town Pvt. Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71587	85.30982	872
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71575	85.30998	873
-Kathmandu Spa	1	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7161657	85.3108951	874
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.2148186	83.9618638	997
-Restutant	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71665	85.3099	875
-Hotel Luna Kathmandu	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7167297	85.3120921	876
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71702	85.33378	877
-Om Shanti Spa	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71578	85.30944	878
-Om Shanti Spa	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71578	85.30945	879
-Cuisine Court	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.719115	85.332184	880
-Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71321	85.31137	881
-Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.67812	85.30827	882
-Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.19899	83.97616	883
-Tiger Mountain	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.21064	84.04247	884
-Hotel Tulsi Pokhara	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2097	83.95798	885
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2148186	83.9618638	886
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.22345	83.9888	887
-Hotel Task International Pvt. Ltd.	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2048324	83.9986713	888
-Stunning Adventure	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.6891069867822	85.2478348127655	889
-HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.68413	85.31941	890
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7165403	85.3129886	891
-HOTEL	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7177391	85.3101198	892
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7156778	85.3113177	893
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.22345	83.9888	998
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2077552	83.9684899	894
-Green Mansions Jungle Resort	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.5845046127971	84.4711607974195	895
-Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.717619	85.3115799	896
-Harry guest house and restaurant	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.21224	83.9626	897
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2198688	83.9580593	898
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7054130197592	85.3489936269846	899
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7650888094923	85.363349712796	900
-Tourism	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.20794	83.95855	901
-Splash nepal adventure	1	Rafting	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7146686256428	85.3109832980832	902
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7141228	85.3116181	903
-Eco craft collection	1	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7169496294368	85.310175951392	904
-Royal handicraft	1	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7155286407712	85.3113662974226	905
-Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7119692416278	85.3110869262584	906
-Naya Nepal collection and export pvt.ltd	1	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.713195	85.3122775	907
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2072939	83.9578631	908
-Downtown Restaurant	1	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.68076	85.31722	909
-Mount everest souvenir house	1	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7135681946502	85.3125867485289	910
-Apex himalaya trek and expedition	1	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7104423	85.3109739	911
-Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7130878	85.3281444	912
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7209932	85.3118557	913
-Krishna handicraft	2	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.716084576286	85.3099118032157	914
-Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.710411302506	85.3129580931116	915
-Carrot holidays pvt ltd	2	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.6882985387026	85.3324406541961	916
-Lotus handicraft	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7162829183416	85.3101437234923	917
-Hotel Tharu Garden	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.5753519138286	84.5016726992705	918
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7180005590084	85.3097967996561	919
-Agaman hotel	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7349334767156	85.3143232244077	920
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7147492	85.3102089	921
-Tour and trekking and Expedition	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7153213473598	85.3117415550944	922
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7153038584918	85.3103238891712	923
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	26.98806	85.89996	924
-chitwan forest resort	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.58148	84.49332	925
-Suburb cafe	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.684759	85.312688	926
-hostel nextdoor	3	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.684944	85.315922	927
-Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71305	85.31126	928
-Mandala Handicrafts	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71297	85.31228	929
-Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71442	85.31192	930
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71223	85.31062	931
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71061	85.31213	932
-Rainbow Adventure Nepal	2	Rafting	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7115056	85.3089164	933
-Hotel	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71217	85.30787	934
-Namaste Spa Pvt.Ltd	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7151	85.312	935
-B s handicrafts	1	Shop/Merchandise	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71316	85.31265	936
-Natural nepal export	2	Shop/Merchandise	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71736	85.31034	937
-Yakety Yak Hostel	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7133876	85.31238	938
-R.R.Jewellery	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7137093	85.3123409	939
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71423	85.31159	940
-Hiking nepal pvt ltd	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71689	85.30937	941
-Hotel Down Town Pvt. Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71587	85.30982	942
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71575	85.30998	943
-Hemp heafquarter	2	Shop/Merchandise	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71587	85.30991	944
-Kathmandu Spa	1	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7161657	85.3108951	945
-Hotel Luna Kathmandu	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7167297	85.3120921	946
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71702	85.33378	947
-Om Shanti Spa	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71578	85.30944	948
-Om Shanti Spa	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71578	85.30945	949
-Cuisine Court	2	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.719115	85.332184	950
-Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71321	85.31137	951
-Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7043	85.33088	952
-HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.68413	85.31941	999
-Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.67812	85.30827	953
-Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.19899	83.97616	954
-Tiger Mountain	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.21064	84.04247	955
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2148186	83.9618638	956
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.22345	83.9888	957
-HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.68413	85.31941	958
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7165403	85.3129886	959
-HOTEL	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7177391	85.3101198	960
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2077552	83.9684899	961
-Green Mansions Jungle Resort	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.5845046127971	84.4711607974195	962
-Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.717619	85.3115799	963
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2198688	83.9580593	964
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7054130197592	85.3489936269846	965
-Tourism	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.20794	83.95855	966
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7141228	85.3116181	967
-Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7119692416278	85.3110869262584	968
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2072939	83.9578631	969
-Downtown Restaurant	1	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.68076	85.31722	970
-Mount everest souvenir house	1	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7135681946502	85.3125867485289	971
-Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7130878	85.3281444	972
-Nepal Highland Treks P Ltd	2	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7166059299288	85.3117833730153	973
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7209932	85.3118557	974
-Ashirwad export	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71892	85.3122	975
-Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.710411302506	85.3129580931116	976
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7176441116934	85.3093493859829	977
-Carrot holidays pvt ltd	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.6882985387026	85.3324406541961	978
-Hotel Tharu Garden	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.5753519138286	84.5016726992705	979
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7180005590084	85.3097967996561	980
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7153038584918	85.3103238891712	981
-chitwan forest resort	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.58148	84.49332	982
-Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71442	85.31192	983
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71061	85.31213	984
-Namaste Spa Pvt.Ltd	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7151	85.312	985
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71423	85.31159	986
-Hiking nepal pvt ltd	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71689	85.30937	987
-Hotel Down Town Pvt. Ltd	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71587	85.30982	988
-Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71575	85.30998	989
-Hotel Luna Kathmandu	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7167297	85.3120921	990
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71702	85.33378	991
-Om Shanti Spa	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71578	85.30944	992
-Om Shanti Spa	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71578	85.30945	993
-Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71321	85.31137	994
-Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.67812	85.30827	995
-Tiger Mountain	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.21064	84.04247	996
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7165403	85.3129886	1000
-HOTEL	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7177391	85.3101198	1001
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.2077552	83.9684899	1002
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.2198688	83.9580593	1003
-Tourism	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.20794	83.95855	1004
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7141228	85.3116181	1005
-Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7119692416278	85.3110869262584	1006
-Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7130878	85.3281444	1007
-Kailash cafe & bar	2	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7160368463001	85.3104862262585	1008
-Green Boutique Hotel	2	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7210567730833	85.3653754560733	1009
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7209932	85.3118557	1010
-Mithila women handicraft	2	Shop/Merchandise	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7130115973909	85.3125155738383	1011
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7180005590084	85.3097967996561	1012
-DBRAND SOLUTION PVT LTD	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.6924011815381	85.3301440109144	1013
-chitwan forest resort	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.58148	84.49332	1014
-hostel nextdoor	3	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.684944	85.315922	1015
-Rainbow Adventure Nepal	2	Rafting	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7115056	85.3089164	1016
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.71702	85.33378	1017
-Cuisine Court	2	Restaurant and Bar	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.719115	85.332184	1018
-Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7043	85.33088	1019
-Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.67812	85.30827	1020
-Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.19899	83.97616	1021
-Tiger Mountain	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.21064	84.04247	1022
-Hotel Task International Pvt. Ltd.	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.2048324	83.9986713	1023
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7165403	85.3129886	1024
-HOTEL	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7177391	85.3101198	1025
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7152382	85.3115879	1026
-Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.2077552	83.9684899	1027
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7054130197592	85.3489936269846	1028
-Apex himalaya trek and expedition	1	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7104423	85.3109739	1030
-Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7130878	85.3281444	1031
-Nepal Highland Treks P Ltd	2	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7166059299288	85.3117833730153	1032
-Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7209932	85.3118557	1033
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7176441116934	85.3093493859829	1034
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7180005590084	85.3097967996561	1035
-Tour and trekking and Expedition	2	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7153213473598	85.3117415550944	1036
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2198688	83.9580593	854
+Royal handicraft	1	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7155286407712	85.3113662974226	855
+Eco craft collection	1	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7169496294368	85.310175951392	856
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7141228	85.3116181	857
+Tourism	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.20794	83.95855	858
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7650888094923	85.363349712796	859
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7054130197592	85.3489936269846	860
+Harry guest house and restaurant	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.21224	83.9626	861
+Naya Nepal collection and export pvt.ltd	1	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.713195	85.3122775	862
+Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.717619	85.3115799	863
+Green Mansions Jungle Resort	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.5845046127971	84.4711607974195	864
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2077552	83.9684899	865
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7156778	85.3113177	866
+HOTEL	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7177391	85.3101198	867
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7165403	85.3129886	868
+Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7119692416278	85.3110869262584	869
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2072939	83.9578631	870
+Stunning Adventure	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.6891069867822	85.2478348127655	871
+Lotus handicraft	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7162829183416	85.3101437234923	872
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	26.98806	85.89996	873
+Tour and trekking and Expedition	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7153213473598	85.3117415550944	874
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7147492	85.3102089	875
+Tiger Mountain	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.21064	84.04247	1426
+Agaman hotel	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7349334767156	85.3143232244077	876
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7180005590084	85.3097967996561	877
+Hotel Tharu Garden	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.5753519138286	84.5016726992705	878
+Carrot holidays pvt ltd	2	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.6882985387026	85.3324406541961	879
+Downtown Restaurant	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.68076	85.31722	880
+Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.710411302506	85.3129580931116	881
+Krishna handicraft	2	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.716084576286	85.3099118032157	882
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7209932	85.3118557	883
+Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7130878	85.3281444	884
+Apex himalaya trek and expedition	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7104423	85.3109739	885
+Mount everest souvenir house	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7135681946502	85.3125867485289	886
+HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.68413	85.31941	887
+Splash nepal adventure	1	Rafting	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7146686256428	85.3109832980832	888
+Hotel Task International Pvt. Ltd.	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2048324	83.9986713	889
+Garden of Hope Treks & Expeditions	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71459	85.31326	890
+R.R.Jewellery	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7137093	85.3123409	891
+Yakety Yak Hostel	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7133876	85.31238	892
+Natural nepal export	2	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71736	85.31034	893
+B s handicrafts	1	Shop/Merchandise	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71316	85.31265	894
+Hiking nepal pvt ltd	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71689	85.30937	999
+Namaste Spa Pvt.Ltd	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7151	85.312	895
+Hotel	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71217	85.30787	896
+Rainbow Adventure Nepal	2	Rafting	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7115056	85.3089164	897
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71061	85.31213	898
+Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71442	85.31192	899
+Mandala Handicrafts	2	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71297	85.31228	900
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.69443	85.24896	901
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.22345	83.9888	902
+hostel nextdoor	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.684944	85.315922	903
+Suburb cafe	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.684759	85.312688	904
+chitwan forest resort	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.58148	84.49332	905
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71423	85.31159	906
+Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71305	85.31126	907
+Hotel Down Town Pvt. Ltd	2	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71587	85.30982	908
+Cuisine Court	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.719115	85.332184	909
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71575	85.30998	910
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2148186	83.9618638	911
+Tiger Mountain	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.21064	84.04247	912
+Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.19899	83.97616	913
+Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.67812	85.30827	1000
+Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.67812	85.30827	914
+Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71321	85.31137	915
+Hotel Tulsi Pokhara	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	28.2097	83.95798	916
+Om Shanti Spa	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71578	85.30945	917
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71702	85.33378	918
+Hotel Luna Kathmandu	1	Hotel	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7167297	85.3120921	919
+Restutant	2	Restaurant and Bar	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71665	85.3099	920
+Om Shanti Spa	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.71578	85.30944	921
+Kathmandu Spa	2	Other	p_hlth_safety_measures	1	64	70	Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.	कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने	27.7161657	85.3108951	922
+HOTEL	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7177391	85.3101198	923
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2198688	83.9580593	924
+Pilgrims Guest House P.Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.717619	85.3115799	925
+Green Mansions Jungle Resort	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.5845046127971	84.4711607974195	926
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2077552	83.9684899	927
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.22345	83.9888	928
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7165403	85.3129886	929
+HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.68413	85.31941	930
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2148186	83.9618638	931
+Tiger Mountain	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.21064	84.04247	932
+Tourism	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.20794	83.95855	933
+Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.19899	83.97616	934
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7054130197592	85.3489936269846	935
+Nepal Highland Treks P Ltd	2	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7166059299288	85.3117833730153	936
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7141228	85.3116181	937
+Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7119692416278	85.3110869262584	938
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	28.2072939	83.9578631	939
+Downtown Restaurant	2	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.68076	85.31722	940
+Mount everest souvenir house	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7135681946502	85.3125867485289	941
+Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7130878	85.3281444	942
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7209932	85.3118557	943
+Ashirwad export	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71892	85.3122	944
+Golden Cloud Adventure P. Ltd.	2	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.710411302506	85.3129580931116	945
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7176441116934	85.3093493859829	946
+Carrot holidays pvt ltd	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.6882985387026	85.3324406541961	947
+Hotel Tharu Garden	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.5753519138286	84.5016726992705	948
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7180005590084	85.3097967996561	949
+Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7043	85.33088	950
+Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.67812	85.30827	951
+Om Shanti Spa	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71578	85.30945	952
+Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71321	85.31137	953
+Namaste Spa Pvt.Ltd	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7151	85.312	954
+Cuisine Court	2	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.719115	85.332184	955
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7153038584918	85.3103238891712	956
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	26.98806	85.89996	957
+chitwan forest resort	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.58148	84.49332	958
+Suburb cafe	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.684759	85.312688	959
+hostel nextdoor	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.684944	85.315922	960
+Mandala Handicrafts	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71297	85.31228	961
+Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71442	85.31192	962
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71223	85.31062	963
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71061	85.31213	964
+Rainbow Adventure Nepal	2	Rafting	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7115056	85.3089164	965
+Hotel	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71217	85.30787	966
+Orbit Nepal Adventure	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71305	85.31126	967
+B s handicrafts	1	Shop/Merchandise	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71316	85.31265	968
+Om Shanti Spa	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71578	85.30944	969
+Natural nepal export	2	Shop/Merchandise	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71736	85.31034	970
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71702	85.33378	971
+Hotel Luna Kathmandu	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7167297	85.3120921	972
+Hemp heafquarter	2	Shop/Merchandise	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71587	85.30991	973
+Rainbow Adventure Nepal	2	Rafting	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7115056	85.3089164	1030
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71575	85.30998	974
+Kathmandu Spa	2	Other	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7161657	85.3108951	975
+Hotel Down Town Pvt. Ltd	2	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71587	85.30982	976
+Hiking nepal pvt ltd	1	Trekking	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71689	85.30937	977
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.71423	85.31159	978
+R.R.Jewellery	2	Handicraft	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7137093	85.3123409	979
+Yakety Yak Hostel	1	Hotel	p_hlth_safety_measures	2	53	58	Encouraging workers to take paid/unpaid leave if they feel sick	कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने 	27.7133876	85.31238	980
+Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7119692416278	85.3110869262584	981
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7165403	85.3129886	982
+HOTEL	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7177391	85.3101198	983
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.2077552	83.9684899	984
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.2198688	83.9580593	985
+Tourism	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.20794	83.95855	986
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7141228	85.3116181	987
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7180005590084	85.3097967996561	988
+Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7130878	85.3281444	989
+Kailash cafe & bar	2	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7160368463001	85.3104862262585	990
+Green Boutique Hotel	2	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7210567730833	85.3653754560733	991
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7209932	85.3118557	992
+Mithila women handicraft	2	Shop/Merchandise	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7130115973909	85.3125155738383	993
+DBRAND SOLUTION PVT LTD	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.6924011815381	85.3301440109144	994
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.2148186	83.9618638	995
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.22345	83.9888	996
+HOTEL HIMALAYA PVT. LTD	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.68413	85.31941	997
+Tiger Mountain	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	28.21064	84.04247	998
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7153038584918	85.3103238891712	1001
+chitwan forest resort	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.58148	84.49332	1002
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71061	85.31213	1003
+Namaste Spa Pvt.Ltd	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7151	85.312	1004
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71423	85.31159	1005
+Handicrafts (felt,woolen. Curio	2	Handicraft	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71442	85.31192	1006
+Hotel Down Town Pvt. Ltd	2	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71587	85.30982	1007
+Hotel Luna Kathmandu	1	Hotel	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.7167297	85.3120921	1008
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71702	85.33378	1009
+Om Shanti Spa	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71578	85.30944	1010
+Om Shanti Spa	2	Other	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71578	85.30945	1011
+Asian adventure treks and expedition	2	Travel and Tour Operator	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71321	85.31137	1012
+Hemp House Nepal Pvt.Ltd	1	Handicraft	p_hlth_safety_measures	4	30	33	Introduced working in shifts and remote working to reduce congestion	भीड कम गर्न सिफ्टमा काम गर्ने 	27.71575	85.30998	1013
+Hotel Crown Plaza	2	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7130878	85.3281444	1014
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7054130197592	85.3489936269846	1015
+Nepal Ascent Treks	1	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7119692416278	85.3110869262584	1016
+Apex himalaya trek and expedition	2	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7104423	85.3109739	1017
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7176441116934	85.3093493859829	1018
+Nepal Highland Treks P Ltd	2	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7166059299288	85.3117833730153	1019
+Kathmandu cityhill Apartmnet	2	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7209932	85.3118557	1020
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7180005590084	85.3097967996561	1021
+Tour and trekking and Expedition	2	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7153213473598	85.3117415550944	1022
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7152382	85.3115879	1023
+Hotel Lakeside Pvt. Ltd	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.2077552	83.9684899	1024
+Subhakamana Travels and Tours	1	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.19899	83.97616	1025
+HOTEL	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7177391	85.3101198	1026
+Cuisine Court	2	Restaurant and Bar	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.719115	85.332184	1027
+chitwan forest resort	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.58148	84.49332	1028
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7165403	85.3129886	1029
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.71702	85.33378	1031
+hostel nextdoor	2	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.684944	85.315922	1032
+Sun N Fun Holidays	2	Travel and Tour Operator	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.7043	85.33088	1033
+Spa kinjjala pvt ltd.	2	Other	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	27.67812	85.30827	1034
+Tiger Mountain	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.21064	84.04247	1035
+Hotel Task International Pvt. Ltd.	1	Hotel	p_hlth_safety_measures	9	21	23	Providing Covid-19 insurance	कोभिड-१९ बीमा प्रदान गर्ने 	28.2048324	83.9986713	1036
 Earth angle trading pvt ltd	2	Shop/Merchandise	p_hlth_safety_measures	10	3	3	Other	अन्य	27.71409	85.31012	1037
 Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	p_hlth_safety_measures	10	3	3	Other	अन्य	27.7174198	85.3260471	1038
 The  cashmere store	1	Handicraft	p_hlth_safety_measures	10	3	3	Other	अन्य	28.2044184	83.9644088	1039
 Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	p_hlth_safety_measures	11	5	5	Haven't implemented any safety measures for workers	हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं	27.7175	85.32594	1040
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	p_hlth_safety_measures	11	5	5	Haven't implemented any safety measures for workers	हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं	27.7392974199588	85.3239723928859	1041
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	p_hlth_safety_measures	11	5	5	Haven't implemented any safety measures for workers	हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं	27.7392974199588	85.3239723928859	1041
 Demeter Handicrafts	2	Handicraft	p_hlth_safety_measures	11	5	5	Haven't implemented any safety measures for workers	हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं	27.7207596166803	85.3607724987554	1042
 Hotel Business	2	Hotel	p_hlth_safety_measures	11	5	5	Haven't implemented any safety measures for workers	हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं	27.6632585317559	85.4449016109137	1043
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	p_hlth_safety_measures	11	5	5	Haven't implemented any safety measures for workers	हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं	27.6742617216237	85.3691647550934	1044
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1045
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	26.98806	85.89996	1046
-Suburb cafe	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.684759	85.312688	1047
-hostel nextdoor	3	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.684944	85.315922	1048
-Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71297	85.31228	1049
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71442	85.31192	1050
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71223	85.31062	1051
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71061	85.31213	1052
-Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7115056	85.3089164	1053
-Hotel	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71217	85.30787	1054
-Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7151	85.312	1055
-B s handicrafts	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71316	85.31265	1056
-Natural nepal export	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71736	85.31034	1057
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71423	85.31159	1058
-Hiking nepal pvt ltd	1	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71689	85.30937	1059
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71575	85.30998	1060
-Kathmandu Spa	1	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1061
-Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1062
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71702	85.33378	1063
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71578	85.30944	1064
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71578	85.30945	1065
-Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.719115	85.332184	1066
-Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.67812	85.30827	1067
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.19899	83.97616	1068
-Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.2097	83.95798	1069
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.22345	83.9888	1070
-Hotel Task International Pvt. Ltd.	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.2048324	83.9986713	1071
-Stunning Adventure	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.6891069867822	85.2478348127655	1072
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.68413	85.31941	1073
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7165403	85.3129886	1074
-HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1075
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7156778	85.3113177	1076
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.2077552	83.9684899	1077
-Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1078
-Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.717619	85.3115799	1079
-Harry guest house and restaurant	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.21224	83.9626	1080
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7650888094923	85.363349712796	1081
-Tourism	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.20794	83.95855	1082
-Splash nepal adventure	1	Rafting	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7146686256428	85.3109832980832	1083
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1084
-Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1085
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.713195	85.3122775	1086
-Downtown Restaurant	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.68076	85.31722	1087
-Mount everest souvenir house	1	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1088
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1089
-Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1090
-Kailash cafe & bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7160368463001	85.3104862262585	1091
-Green Boutique Hotel	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7210567730833	85.3653754560733	1092
-Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1093
-Kathmandu cityhill Apartmnet	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7209932	85.3118557	1094
-Mithila women handicraft	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7130115973909	85.3125155738383	1095
-Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71892	85.3122	1096
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1097
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7176441116934	85.3093493859829	1098
-Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1099
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1100
-Agaman hotel	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7349334767156	85.3143232244077	1101
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7147492	85.3102089	1102
-Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1103
-Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1104
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1105
-hostel nextdoor	3	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.684944	85.315922	1106
-Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71297	85.31228	1107
-Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7115056	85.3089164	1108
-Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7151	85.312	1109
-Hiking nepal pvt ltd	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71689	85.30937	1110
-Hemp heafquarter	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71587	85.30991	1111
-Kathmandu Spa	1	Other	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1112
-Restutant	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71665	85.3099	1113
-Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1114
-Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.719115	85.332184	1115
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7174198	85.3260471	1116
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.19899	83.97616	1117
-Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.2097	83.95798	1118
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.68413	85.31941	1119
-HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1120
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7152382	85.3115879	1121
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.2077552	83.9684899	1122
-Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1123
-Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.717619	85.3115799	1124
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.2198688	83.9580593	1125
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1126
-Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1127
-Mount everest souvenir house	1	Handicraft	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1128
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1129
-Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1130
-Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71892	85.3122	1131
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1132
-Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1133
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1134
-DBRAND SOLUTION PVT LTD	2	Other	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.6924011815381	85.3301440109144	1135
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1136
-hostel nextdoor	3	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.684944	85.315922	1137
-Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71297	85.31228	1138
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71442	85.31192	1139
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71409	85.31012	1140
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71061	85.31213	1141
-Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7115056	85.3089164	1142
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71321	85.31137	1496
-Hotel	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71217	85.30787	1143
-Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7151	85.312	1144
-B s handicrafts	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71316	85.31265	1145
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71423	85.31159	1146
-Hiking nepal pvt ltd	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71689	85.30937	1147
-Garden of Hope Treks & Expeditions	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71459	85.31326	1148
-Hotel Down Town Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71587	85.30982	1149
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71575	85.30998	1150
-Kathmandu Spa	1	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7161657	85.3108951	1151
-Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7167297	85.3120921	1152
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71702	85.33378	1153
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71578	85.30944	1154
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71578	85.30945	1155
-Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.719115	85.332184	1156
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7174198	85.3260471	1157
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71321	85.31137	1158
-Sun N Fun Holidays	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7043	85.33088	1159
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	28.22345	83.9888	1160
-Stunning Adventure	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6891069867822	85.2478348127655	1161
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.68413	85.31941	1162
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7165403	85.3129886	1163
-HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7177391	85.3101198	1164
-Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1165
-Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.717619	85.3115799	1166
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	28.2198688	83.9580593	1167
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7054130197592	85.3489936269846	1168
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7141228	85.3116181	1169
-Royal handicraft	1	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7155286407712	85.3113662974226	1170
-Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1171
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.713195	85.3122775	1172
-Mount everest souvenir house	1	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1173
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1174
-Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1175
-Nepal Highland Treks P Ltd	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7166059299288	85.3117833730153	1176
-Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71892	85.3122	1177
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1178
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7176441116934	85.3093493859829	1179
-Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1180
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1181
-DBRAND SOLUTION PVT LTD	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6924011815381	85.3301440109144	1182
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7147492	85.3102089	1183
-Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1184
-Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1185
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying its taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6742617216237	85.3691647550934	1186
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1187
-Suburb cafe	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.684759	85.312688	1188
-hostel nextdoor	3	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.684944	85.315922	1189
-Orbit Nepal Adventure	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71305	85.31126	1190
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.69443	85.24896	1191
-Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71297	85.31228	1192
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71409	85.31012	1193
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71061	85.31213	1194
-Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7115056	85.3089164	1195
-Hotel	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71217	85.30787	1196
-Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7151	85.312	1197
-Yakety Yak Hostel	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7133876	85.31238	1198
-R.R.Jewellery	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7137093	85.3123409	1199
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71423	85.31159	1200
-Garden of Hope Treks & Expeditions	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71459	85.31326	1201
-Hotel Down Town Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71587	85.30982	1202
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71575	85.30998	1203
-Kathmandu Spa	1	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1204
-Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1205
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71702	85.33378	1206
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71578	85.30944	1207
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71578	85.30945	1208
-Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.719115	85.332184	1209
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7174198	85.3260471	1210
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7175	85.32594	1211
-Sun N Fun Holidays	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7043	85.33088	1212
-Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.67812	85.30827	1213
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.19899	83.97616	1214
-Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2097	83.95798	1215
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2148186	83.9618638	1216
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.22345	83.9888	1217
-Hotel Task International Pvt. Ltd.	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2048324	83.9986713	1218
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.68413	85.31941	1219
-HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1220
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2077552	83.9684899	1221
-Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1222
-The  cashmere store	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2044184	83.9644088	1223
-Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.717619	85.3115799	1224
-Harry guest house and restaurant	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.21224	83.9626	1225
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2198688	83.9580593	1226
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7054130197592	85.3489936269846	1227
-Tourism	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.20794	83.95855	1228
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1229
-Eco craft collection	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7169496294368	85.310175951392	1230
-Royal handicraft	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7155286407712	85.3113662974226	1231
-Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1232
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.713195	85.3122775	1233
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2072939	83.9578631	1234
-Mount everest souvenir house	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1235
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1236
-Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1237
-Green Boutique Hotel	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7210567730833	85.3653754560733	1238
-Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1239
-Nepal Highland Treks P Ltd	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7166059299288	85.3117833730153	1240
-Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71892	85.3122	1241
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1242
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.6882985387026	85.3324406541961	1243
-Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1244
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1245
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7147492	85.3102089	1246
-Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1247
-Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1248
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering its operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.6742617216237	85.3691647550934	1249
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7153038584918	85.3103238891712	1250
-Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71297	85.31228	1251
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71409	85.31012	1252
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71061	85.31213	1253
-Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7115056	85.3089164	1254
-Hotel Down Town Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71587	85.30982	1255
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71575	85.30998	1256
-Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7167297	85.3120921	1257
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7175	85.32594	1258
-Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.67812	85.30827	1259
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.19899	83.97616	1260
-Tiger Mountain	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.21064	84.04247	1261
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.68413	85.31941	1262
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7165403	85.3129886	1263
-HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7177391	85.3101198	1264
-The  cashmere store	1	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.2044184	83.9644088	1265
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.2198688	83.9580593	1266
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7141228	85.3116181	1267
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.713195	85.3122775	1268
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.2072939	83.9578631	1269
-Apex himalaya trek and expedition	1	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7104423	85.3109739	1270
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7392974199588	85.3239723928859	1271
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.710411302506	85.3129580931116	1272
-Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.5753519138286	84.5016726992705	1273
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7180005590084	85.3097967996561	1274
-DBRAND SOLUTION PVT LTD	2	Other	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.6924011815381	85.3301440109144	1275
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.6742617216237	85.3691647550934	1276
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1277
-chitwan forest resort	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.58148	84.49332	1278
-Suburb cafe	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.684759	85.312688	1279
-hostel nextdoor	3	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.684944	85.315922	1280
-Orbit Nepal Adventure	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71305	85.31126	1281
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.69443	85.24896	1282
-Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71297	85.31228	1283
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71442	85.31192	1284
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71409	85.31012	1285
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71061	85.31213	1286
-Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7151	85.312	1287
-B s handicrafts	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71316	85.31265	1288
-Yakety Yak Hostel	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7133876	85.31238	1289
-R.R.Jewellery	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7137093	85.3123409	1290
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71423	85.31159	1291
-Garden of Hope Treks & Expeditions	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71459	85.31326	1292
-Hotel Down Town Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71587	85.30982	1293
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71575	85.30998	1294
-Kathmandu Spa	1	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1295
-Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1296
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71578	85.30944	1297
-Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71578	85.30945	1298
-Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.719115	85.332184	1299
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7175	85.32594	1300
-Sun N Fun Holidays	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7043	85.33088	1301
-Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.67812	85.30827	1302
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.19899	83.97616	1303
-Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2097	83.95798	1304
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2148186	83.9618638	1305
-Stunning Adventure	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.6891069867822	85.2478348127655	1306
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.68413	85.31941	1307
-HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1308
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7156778	85.3113177	1309
-Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1310
-The  cashmere store	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2044184	83.9644088	1311
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2198688	83.9580593	1312
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7054130197592	85.3489936269846	1313
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7650888094923	85.363349712796	1314
-Tourism	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.20794	83.95855	1315
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1316
-Eco craft collection	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7169496294368	85.310175951392	1317
-Royal handicraft	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7155286407712	85.3113662974226	1318
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.713195	85.3122775	1319
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2072939	83.9578631	1320
-Mount everest souvenir house	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1321
-Apex himalaya trek and expedition	1	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7104423	85.3109739	1322
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1323
-Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1324
-Green Boutique Hotel	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7210567730833	85.3653754560733	1325
-Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1326
-Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7167297	85.3120921	1462
-Nepal Highland Treks P Ltd	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7166059299288	85.3117833730153	1327
-Krishna handicraft	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.716084576286	85.3099118032157	1328
-Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71892	85.3122	1329
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1330
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7176441116934	85.3093493859829	1331
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.6882985387026	85.3324406541961	1332
-Lotus handicraft	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7162829183416	85.3101437234923	1333
-Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1334
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1335
-Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1336
-Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for its survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1337
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	p_hlth_safety_measures	11	5	5	Haven't implemented any safety measures for workers	हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं	27.6742617216237	85.3691647550934	1044
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.69443	85.24896	1045
+Kathmandu Spa	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1046
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.22345	83.9888	1047
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2148186	83.9618638	1048
+Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2097	83.95798	1049
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.19899	83.97616	1050
+Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.67812	85.30827	1051
+Sun N Fun Holidays	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7043	85.33088	1052
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7175	85.32594	1053
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7174198	85.3260471	1054
+Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.719115	85.332184	1055
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71578	85.30945	1056
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71578	85.30944	1057
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71702	85.33378	1058
+Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1059
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71575	85.30998	1060
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1061
+Hotel Down Town Pvt. Ltd	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71587	85.30982	1062
+Garden of Hope Treks & Expeditions	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71459	85.31326	1063
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71423	85.31159	1064
+R.R.Jewellery	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7137093	85.3123409	1065
+Yakety Yak Hostel	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7133876	85.31238	1066
+Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7151	85.312	1067
+Hotel	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71217	85.30787	1068
+Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7115056	85.3089164	1069
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71061	85.31213	1070
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71409	85.31012	1071
+Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71297	85.31228	1072
+Orbit Nepal Adventure	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71305	85.31126	1073
+hostel nextdoor	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.684944	85.315922	1074
+Hotel Task International Pvt. Ltd.	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2048324	83.9986713	1075
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.68413	85.31941	1076
+HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1077
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2077552	83.9684899	1078
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.6742617216237	85.3691647550934	1079
+Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1080
+Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1081
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7147492	85.3102089	1082
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1083
+Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1084
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.6882985387026	85.3324406541961	1085
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1086
+Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.71892	85.3122	1087
+Nepal Highland Treks P Ltd	2	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7166059299288	85.3117833730153	1088
+Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1089
+Green Boutique Hotel	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7210567730833	85.3653754560733	1090
+Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1091
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1092
+Mount everest souvenir house	2	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1093
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2072939	83.9578631	1094
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.713195	85.3122775	1095
+Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1096
+Royal handicraft	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7155286407712	85.3113662974226	1097
+Eco craft collection	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7169496294368	85.310175951392	1098
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1099
+Tourism	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.20794	83.95855	1100
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.7054130197592	85.3489936269846	1101
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2198688	83.9580593	1102
+Harry guest house and restaurant	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.21224	83.9626	1103
+Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.717619	85.3115799	1104
+The  cashmere store	1	Handicraft	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	28.2044184	83.9644088	1105
+Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1106
+Suburb cafe	2	Hotel	o_expectd_problms_next_6_mnths	4	70	63	Will have difficulties in covering operating costs	मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ	27.684759	85.312688	1107
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	26.98806	85.89996	1108
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1109
+Stunning Adventure	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.6891069867822	85.2478348127655	1110
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1111
+Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1112
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1113
+Agaman hotel	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7349334767156	85.3143232244077	1114
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7147492	85.3102089	1115
+Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1116
+Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1117
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71223	85.31062	1422
+Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.719115	85.332184	1118
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71578	85.30945	1119
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71578	85.30944	1120
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71702	85.33378	1121
+Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1122
+Kathmandu Spa	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1123
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71575	85.30998	1124
+Hiking nepal pvt ltd	1	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71689	85.30937	1125
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71423	85.31159	1126
+Natural nepal export	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71736	85.31034	1127
+B s handicrafts	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71316	85.31265	1128
+Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7151	85.312	1129
+Hotel	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71217	85.30787	1130
+Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7115056	85.3089164	1131
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71061	85.31213	1132
+Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71223	85.31062	1133
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71442	85.31192	1134
+Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71297	85.31228	1135
+hostel nextdoor	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.684944	85.315922	1136
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7176441116934	85.3093493859829	1137
+Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.71892	85.3122	1138
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.19899	83.97616	1139
+Mithila women handicraft	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7130115973909	85.3125155738383	1140
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.22345	83.9888	1141
+Hotel Task International Pvt. Ltd.	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.2048324	83.9986713	1142
+Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.67812	85.30827	1143
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.68413	85.31941	1144
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7165403	85.3129886	1145
+HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1146
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7156778	85.3113177	1147
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.2077552	83.9684899	1148
+Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1149
+Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.717619	85.3115799	1150
+Harry guest house and restaurant	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.21224	83.9626	1151
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7650888094923	85.363349712796	1152
+Tourism	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.20794	83.95855	1153
+Splash nepal adventure	1	Rafting	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7146686256428	85.3109832980832	1154
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1155
+Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1156
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.713195	85.3122775	1157
+Downtown Restaurant	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.68076	85.31722	1158
+Mount everest souvenir house	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1159
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1160
+Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1161
+Kailash cafe & bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7160368463001	85.3104862262585	1162
+Green Boutique Hotel	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7210567730833	85.3653754560733	1163
+Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1164
+Kathmandu cityhill Apartmnet	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.7209932	85.3118557	1165
+Suburb cafe	2	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	27.684759	85.312688	1166
+Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	1	67	60	Will have difficulties in paying back existing loans	मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ	28.2097	83.95798	1167
+hostel nextdoor	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.684944	85.315922	1168
+Orbit Nepal Adventure	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71305	85.31126	1169
+Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1170
+The  cashmere store	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2044184	83.9644088	1171
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2198688	83.9580593	1172
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7054130197592	85.3489936269846	1173
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7650888094923	85.363349712796	1174
+Tourism	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.20794	83.95855	1175
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1176
+Eco craft collection	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7169496294368	85.310175951392	1177
+Royal handicraft	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7155286407712	85.3113662974226	1178
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.713195	85.3122775	1179
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2072939	83.9578631	1180
+Mount everest souvenir house	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1181
+Apex himalaya trek and expedition	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7104423	85.3109739	1182
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1183
+Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1184
+Green Boutique Hotel	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7210567730833	85.3653754560733	1185
+Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1186
+Nepal Highland Treks P Ltd	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7166059299288	85.3117833730153	1187
+Krishna handicraft	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.716084576286	85.3099118032157	1188
+Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71892	85.3122	1189
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1190
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7176441116934	85.3093493859829	1191
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.6882985387026	85.3324406541961	1192
+Lotus handicraft	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7162829183416	85.3101437234923	1193
+Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1194
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1195
+Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1196
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7156778	85.3113177	1197
+HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1198
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.68413	85.31941	1199
+Garden of Hope Treks & Expeditions	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71459	85.31326	1200
+chitwan forest resort	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.58148	84.49332	1201
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1202
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.69443	85.24896	1203
+Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71297	85.31228	1204
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71442	85.31192	1205
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71409	85.31012	1206
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71061	85.31213	1207
+Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7151	85.312	1208
+B s handicrafts	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71316	85.31265	1209
+Yakety Yak Hostel	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7133876	85.31238	1210
+R.R.Jewellery	2	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7137093	85.3123409	1211
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71423	85.31159	1212
+Hotel Down Town Pvt. Ltd	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71587	85.30982	1213
+Stunning Adventure	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.6891069867822	85.2478348127655	1214
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71575	85.30998	1215
+Kathmandu Spa	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1216
+Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1217
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71578	85.30944	1218
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.71578	85.30945	1219
+Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.719115	85.332184	1220
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7175	85.32594	1221
+Sun N Fun Holidays	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7043	85.33088	1222
+Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.67812	85.30827	1223
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.19899	83.97616	1224
+Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2097	83.95798	1225
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	28.2148186	83.9618638	1226
+Suburb cafe	2	Hotel	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.684759	85.312688	1227
+Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	6	68	61	Will have difficulties in getting enough customers required for survival	मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1228
+Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1229
+Royal handicraft	1	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7155286407712	85.3113662974226	1230
+HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7177391	85.3101198	1231
+Hotel	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71217	85.30787	1232
+Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.717619	85.3115799	1233
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	28.2198688	83.9580593	1234
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7054130197592	85.3489936269846	1235
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7141228	85.3116181	1236
+Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1237
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.68413	85.31941	1238
+Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7115056	85.3089164	1239
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71061	85.31213	1240
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71409	85.31012	1241
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71442	85.31192	1242
+Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71297	85.31228	1243
+hostel nextdoor	2	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.684944	85.315922	1244
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7165403	85.3129886	1245
+Stunning Adventure	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6891069867822	85.2478348127655	1246
+Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7151	85.312	1247
+Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7167297	85.3120921	1248
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71423	85.31159	1249
+Hiking nepal pvt ltd	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71689	85.30937	1250
+Garden of Hope Treks & Expeditions	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71459	85.31326	1251
+Hotel Down Town Pvt. Ltd	2	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71587	85.30982	1252
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71575	85.30998	1253
+Kathmandu Spa	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7161657	85.3108951	1254
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71702	85.33378	1255
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	28.22345	83.9888	1256
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71578	85.30944	1257
+Om Shanti Spa	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71578	85.30945	1258
+Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.719115	85.332184	1259
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7174198	85.3260471	1260
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71321	85.31137	1261
+Sun N Fun Holidays	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7043	85.33088	1262
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1263
+B s handicrafts	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71316	85.31265	1264
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.713195	85.3122775	1265
+DBRAND SOLUTION PVT LTD	2	Other	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6924011815381	85.3301440109144	1266
+Demeter Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7207596166803	85.3607724987554	1267
+Nepal Highland Treks P Ltd	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7166059299288	85.3117833730153	1268
+Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.71892	85.3122	1269
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1270
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7176441116934	85.3093493859829	1271
+Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1272
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1273
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7147492	85.3102089	1274
+Mount everest souvenir house	2	Handicraft	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1275
+Hotel Business	2	Hotel	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6632585317559	85.4449016109137	1276
+Tour and trekking and Expedition	2	Trekking	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7153213473598	85.3117415550944	1277
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.6742617216237	85.3691647550934	1278
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	3	57	51	Will have difficulties in paying taxes	मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1279
+Cuisine Court	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.719115	85.332184	1280
+Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7167297	85.3120921	1281
+Restutant	2	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71665	85.3099	1282
+Kathmandu Spa	2	Other	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7161657	85.3108951	1283
+hostel nextdoor	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.684944	85.315922	1423
+Ashirwad export	2	Handicraft	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71892	85.3122	1284
+Hotel Crown Plaza	2	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7130878	85.3281444	1285
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.2198688	83.9580593	1286
+Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.5753519138286	84.5016726992705	1287
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7180005590084	85.3097967996561	1288
+DBRAND SOLUTION PVT LTD	2	Other	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.6924011815381	85.3301440109144	1289
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7392974199588	85.3239723928859	1290
+Mount everest souvenir house	2	Handicraft	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7135681946502	85.3125867485289	1291
+Nepal Ascent Treks	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7119692416278	85.3110869262584	1292
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7141228	85.3116181	1293
+Pilgrims Guest House P.Ltd	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.717619	85.3115799	1294
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7174198	85.3260471	1295
+Green Mansions Jungle Resort	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.5845046127971	84.4711607974195	1296
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.2077552	83.9684899	1297
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7152382	85.3115879	1298
+HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7177391	85.3101198	1299
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.68413	85.31941	1300
+Hotel Tulsi Pokhara	1	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.2097	83.95798	1301
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	28.19899	83.97616	1302
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.710411302506	85.3129580931116	1303
+Hemp heafquarter	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71587	85.30991	1304
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7153038584918	85.3103238891712	1305
+Namaste Spa Pvt.Ltd	2	Other	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7151	85.312	1306
+hostel nextdoor	2	Hotel	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.684944	85.315922	1307
+Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71297	85.31228	1308
+Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.7115056	85.3089164	1309
+Hiking nepal pvt ltd	1	Trekking	o_expectd_problms_next_6_mnths	2	34	31	Will have difficulties to acquire additional loans or funds	मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ	27.71689	85.30937	1310
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7392974199588	85.3239723928859	1311
+Hotel Luna Kathmandu	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7167297	85.3120921	1312
+DBRAND SOLUTION PVT LTD	2	Other	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.6924011815381	85.3301440109144	1313
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7180005590084	85.3097967996561	1314
+Hotel Tharu Garden	2	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.5753519138286	84.5016726992705	1315
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.710411302506	85.3129580931116	1316
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7153038584918	85.3103238891712	1317
+Mandala Handicrafts	2	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71297	85.31228	1318
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71409	85.31012	1319
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71061	85.31213	1320
+Rainbow Adventure Nepal	2	Rafting	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7115056	85.3089164	1321
+Hotel Down Town Pvt. Ltd	2	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71587	85.30982	1322
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.71575	85.30998	1323
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7175	85.32594	1324
+Apex himalaya trek and expedition	2	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7104423	85.3109739	1325
+Spa kinjjala pvt ltd.	2	Other	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.67812	85.30827	1326
+Suburb cafe	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.684759	85.312688	1424
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.19899	83.97616	1327
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.6742617216237	85.3691647550934	1328
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.68413	85.31941	1329
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7165403	85.3129886	1330
+HOTEL	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7177391	85.3101198	1331
+The  cashmere store	1	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.2044184	83.9644088	1332
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.2198688	83.9580593	1333
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.7141228	85.3116181	1334
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	27.713195	85.3122775	1335
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.2072939	83.9578631	1336
+Tiger Mountain	1	Hotel	o_expectd_problms_next_6_mnths	5	30	27	Will most likely face labor-related issues	मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ	28.21064	84.04247	1337
 Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7153038584918	85.3103238891712	1338
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	26.98806	85.89996	1339
-chitwan forest resort	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.58148	84.49332	1340
-hostel nextdoor	3	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.684944	85.315922	1341
-Orbit Nepal Adventure	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71305	85.31126	1342
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.69443	85.24896	1343
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71442	85.31192	1344
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71409	85.31012	1345
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71061	85.31213	1346
-B s handicrafts	1	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71316	85.31265	1347
-Natural nepal export	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71736	85.31034	1348
-Yakety Yak Hostel	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7133876	85.31238	1349
-R.R.Jewellery	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7137093	85.3123409	1350
-Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71423	85.31159	1351
-Garden of Hope Treks & Expeditions	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71459	85.31326	1352
-Hotel Down Town Pvt. Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71587	85.30982	1353
-Kathmandu Spa	1	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7161657	85.3108951	1354
-Restutant	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71665	85.3099	1355
-Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7167297	85.3120921	1356
-Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71702	85.33378	1357
-Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71578	85.30944	1358
-Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71578	85.30945	1359
-Cuisine Court	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.719115	85.332184	1360
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7174198	85.3260471	1361
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71321	85.31137	1362
-Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.67812	85.30827	1363
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.19899	83.97616	1364
-Tiger Mountain	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.21064	84.04247	1365
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.22345	83.9888	1366
-Stunning Adventure	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6891069867822	85.2478348127655	1367
-Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7165403	85.3129886	1368
-HOTEL	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7177391	85.3101198	1369
-Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7152382	85.3115879	1370
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.2077552	83.9684899	1371
-Green Mansions Jungle Resort	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.5845046127971	84.4711607974195	1372
-The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.2044184	83.9644088	1373
-Pilgrims Guest House P.Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.717619	85.3115799	1374
-Harry guest house and restaurant	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.21224	83.9626	1375
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7054130197592	85.3489936269846	1376
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7650888094923	85.363349712796	1377
-Tourism	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.20794	83.95855	1378
-Splash nepal adventure	1	Rafting	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7146686256428	85.3109832980832	1379
-Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7141228	85.3116181	1380
-Royal handicraft	1	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7155286407712	85.3113662974226	1381
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.713195	85.3122775	1382
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.2072939	83.9578631	1383
-Mount everest souvenir house	1	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7135681946502	85.3125867485289	1384
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7392974199588	85.3239723928859	1385
-Hotel Crown Plaza	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7130878	85.3281444	1386
-Kailash cafe & bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7160368463001	85.3104862262585	1387
-Green Boutique Hotel	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7210567730833	85.3653754560733	1388
-Demeter Handicrafts	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7207596166803	85.3607724987554	1389
-Kathmandu cityhill Apartmnet	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7209932	85.3118557	1390
-Krishna handicraft	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.716084576286	85.3099118032157	1391
-Mithila women handicraft	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7130115973909	85.3125155738383	1392
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.710411302506	85.3129580931116	1393
-Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7176441116934	85.3093493859829	1394
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6882985387026	85.3324406541961	1395
-Lotus handicraft	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7162829183416	85.3101437234923	1396
-Hotel Tharu Garden	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.5753519138286	84.5016726992705	1397
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7180005590084	85.3097967996561	1398
-Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7147492	85.3102089	1399
-Hotel Business	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6632585317559	85.4449016109137	1400
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6742617216237	85.3691647550934	1401
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	26.98806	85.89996	1402
-Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.69443	85.24896	1403
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71442	85.31192	1404
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71061	85.31213	1405
-Rainbow Adventure Nepal	2	Rafting	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7115056	85.3089164	1406
-B s handicrafts	1	Shop/Merchandise	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71316	85.31265	1407
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71575	85.30998	1408
-Hemp heafquarter	2	Shop/Merchandise	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71587	85.30991	1409
-Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7167297	85.3120921	1410
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71321	85.31137	1411
-Sun N Fun Holidays	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7043	85.33088	1412
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.19899	83.97616	1413
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.2148186	83.9618638	1414
-Stunning Adventure	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.6891069867822	85.2478348127655	1415
-HOTEL	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7177391	85.3101198	1416
-Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7156778	85.3113177	1417
-Green Mansions Jungle Resort	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.5845046127971	84.4711607974195	1418
-The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.2044184	83.9644088	1419
-Pilgrims Guest House P.Ltd	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.717619	85.3115799	1420
-Tourism	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.20794	83.95855	1421
-Mount everest souvenir house	1	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7135681946502	85.3125867485289	1422
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7392974199588	85.3239723928859	1423
-Hotel Crown Plaza	2	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7130878	85.3281444	1424
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.710411302506	85.3129580931116	1425
-Hotel Tharu Garden	2	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.5753519138286	84.5016726992705	1426
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7180005590084	85.3097967996561	1427
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	26.98806	85.89996	1428
-Orbit Nepal Adventure	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71305	85.31126	1429
-Handicrafts (felt,woolen. Curio	2	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71442	85.31192	1430
-B s handicrafts	1	Shop/Merchandise	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71316	85.31265	1431
-Yakety Yak Hostel	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7133876	85.31238	1432
-Hiking nepal pvt ltd	1	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71689	85.30937	1433
-Hotel Down Town Pvt. Ltd	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71587	85.30982	1434
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71575	85.30998	1435
-Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7167297	85.3120921	1436
-Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71578	85.30944	1437
-Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71578	85.30945	1438
-Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7174198	85.3260471	1439
-Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71321	85.31137	1440
-Sun N Fun Holidays	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7043	85.33088	1441
-Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.67812	85.30827	1442
-Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7175	85.32594	1495
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.19899	83.97616	1443
-Tiger Mountain	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.21064	84.04247	1444
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.22345	83.9888	1445
-HOTEL	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7177391	85.3101198	1446
-The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.2044184	83.9644088	1447
-3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.2198688	83.9580593	1448
-Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7650888094923	85.363349712796	1449
-Eco craft collection	1	Shop/Merchandise	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7169496294368	85.310175951392	1450
-Royal handicraft	1	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7155286407712	85.3113662974226	1451
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.2072939	83.9578631	1452
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7392974199588	85.3239723928859	1453
-Green Boutique Hotel	2	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7210567730833	85.3653754560733	1454
-Demeter Handicrafts	2	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7207596166803	85.3607724987554	1455
-Golden Cloud Adventure P. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.710411302506	85.3129580931116	1456
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.6882985387026	85.3324406541961	1457
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7180005590084	85.3097967996561	1458
-Hotel Business	2	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.6632585317559	85.4449016109137	1459
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.71061	85.31213	1460
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.71575	85.30998	1461
-Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.67812	85.30827	1463
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	28.22345	83.9888	1464
-HOTEL	1	Hotel	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7177391	85.3101198	1465
-The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	28.2044184	83.9644088	1466
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.713195	85.3122775	1467
-Apex himalaya trek and expedition	1	Trekking	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7104423	85.3109739	1468
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7392974199588	85.3239723928859	1469
-Ashirwad export	2	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.71892	85.3122	1470
-Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7180005590084	85.3097967996561	1471
-DBRAND SOLUTION PVT LTD	2	Other	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.6924011815381	85.3301440109144	1472
-Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7153038584918	85.3103238891712	1473
-Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	26.98806	85.89996	1474
-chitwan forest resort	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.58148	84.49332	1475
-Suburb cafe	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.684759	85.312688	1476
-hostel nextdoor	3	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.684944	85.315922	1477
-Alliance Treks & Expedition Pvt. Ltd.	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71223	85.31062	1478
-Earth angle trading pvt ltd	2	Shop/Merchandise	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71409	85.31012	1479
-ROSHA TRAVELS AND TOURS P. LTD	3	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71061	85.31213	1480
-Rainbow Adventure Nepal	2	Rafting	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7115056	85.3089164	1481
-Hotel	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71217	85.30787	1482
-Namaste Spa Pvt.Ltd	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7151	85.312	1483
-Yakety Yak Hostel	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7133876	85.31238	1484
-R.R.Jewellery	2	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7137093	85.3123409	1485
-Hiking nepal pvt ltd	1	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71689	85.30937	1486
-Garden of Hope Treks & Expeditions	2	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71459	85.31326	1487
-Hotel Down Town Pvt. Ltd	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71587	85.30982	1488
-Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71575	85.30998	1489
-Kathmandu Spa	1	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7161657	85.3108951	1490
-Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7167297	85.3120921	1491
-Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71578	85.30944	1492
-Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71578	85.30945	1493
-Cuisine Court	2	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.719115	85.332184	1494
-Sun N Fun Holidays	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7043	85.33088	1497
-Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.67812	85.30827	1498
-Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.19899	83.97616	1499
-Tiger Mountain	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.21064	84.04247	1500
-Hotel Tulsi Pokhara	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2097	83.95798	1501
-HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2148186	83.9618638	1502
-Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.22345	83.9888	1503
-Hotel Task International Pvt. Ltd.	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2048324	83.9986713	1504
-HOTEL HIMALAYA PVT. LTD	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.68413	85.31941	1505
-HOTEL	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7177391	85.3101198	1506
-Hotel Lakeside Pvt. Ltd	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2077552	83.9684899	1507
-Green Mansions Jungle Resort	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.5845046127971	84.4711607974195	1508
-The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2044184	83.9644088	1509
-Pilgrims Guest House P.Ltd	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.717619	85.3115799	1510
-Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7054130197592	85.3489936269846	1511
-Tourism	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.20794	83.95855	1512
-Royal handicraft	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7155286407712	85.3113662974226	1513
-Nepal Ascent Treks	1	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7119692416278	85.3110869262584	1514
-Naya Nepal collection and export pvt.ltd	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.713195	85.3122775	1515
-Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2072939	83.9578631	1516
-Downtown Restaurant	1	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.68076	85.31722	1517
-Mount everest souvenir house	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7135681946502	85.3125867485289	1518
-Ghumante The Traveller adventure pvt ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7392974199588	85.3239723928859	1519
-Hotel Crown Plaza	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7130878	85.3281444	1520
-Demeter Handicrafts	2	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7207596166803	85.3607724987554	1521
-Nepal Highland Treks P Ltd	2	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7166059299288	85.3117833730153	1522
-Ashirwad export	2	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71892	85.3122	1523
-Carrot holidays pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.6882985387026	85.3324406541961	1524
-Hotel Tharu Garden	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.5753519138286	84.5016726992705	1525
-DBRAND SOLUTION PVT LTD	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.6924011815381	85.3301440109144	1526
-Outlandish Nepal Holidays Ltd.	3	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.6742617216237	85.3691647550934	1527
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.2077552	83.9684899	1339
+The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.2044184	83.9644088	1340
+Pilgrims Guest House P.Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.717619	85.3115799	1341
+Harry guest house and restaurant	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.21224	83.9626	1342
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7054130197592	85.3489936269846	1343
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7650888094923	85.363349712796	1344
+Tourism	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.20794	83.95855	1345
+Splash nepal adventure	1	Rafting	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7146686256428	85.3109832980832	1346
+Little buddha restaurant &lounge bar	1	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7141228	85.3116181	1347
+chitwan forest resort	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.58148	84.49332	1425
+Royal handicraft	1	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7155286407712	85.3113662974226	1348
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.713195	85.3122775	1349
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.2072939	83.9578631	1350
+Mount everest souvenir house	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7135681946502	85.3125867485289	1351
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7392974199588	85.3239723928859	1352
+Hotel Crown Plaza	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7130878	85.3281444	1353
+Kailash cafe & bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7160368463001	85.3104862262585	1354
+Green Boutique Hotel	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7210567730833	85.3653754560733	1355
+Demeter Handicrafts	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7207596166803	85.3607724987554	1356
+Kathmandu cityhill Apartmnet	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7209932	85.3118557	1357
+Krishna handicraft	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.716084576286	85.3099118032157	1358
+Mithila women handicraft	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7130115973909	85.3125155738383	1359
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.710411302506	85.3129580931116	1360
+Attractive Travels and Tours Pvt. Ltd.	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7176441116934	85.3093493859829	1361
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6882985387026	85.3324406541961	1362
+Lotus handicraft	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7162829183416	85.3101437234923	1363
+Hotel Tharu Garden	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.5753519138286	84.5016726992705	1364
+Reggae Bar Restaurant & lounge pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7147492	85.3102089	1365
+Hotel Business	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6632585317559	85.4449016109137	1366
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6742617216237	85.3691647550934	1367
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	26.98806	85.89996	1368
+Green Mansions Jungle Resort	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.5845046127971	84.4711607974195	1369
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7180005590084	85.3097967996561	1370
+Alpine trekking gears pvt.ltd	1	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7152382	85.3115879	1371
+Kathmandu Spa	2	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7161657	85.3108951	1372
+chitwan forest resort	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.58148	84.49332	1373
+HOTEL	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7177391	85.3101198	1374
+hostel nextdoor	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.684944	85.315922	1375
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.69443	85.24896	1376
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71442	85.31192	1377
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71409	85.31012	1378
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71061	85.31213	1379
+B s handicrafts	1	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71316	85.31265	1380
+Natural nepal export	2	Shop/Merchandise	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71736	85.31034	1381
+Yakety Yak Hostel	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7133876	85.31238	1382
+R.R.Jewellery	2	Handicraft	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7137093	85.3123409	1383
+Avia tours and travels PVT LTD	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71423	85.31159	1384
+Garden of Hope Treks & Expeditions	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71459	85.31326	1385
+Hotel Down Town Pvt. Ltd	2	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71587	85.30982	1386
+Orbit Nepal Adventure	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71305	85.31126	1387
+Restutant	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71665	85.3099	1388
+Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.67812	85.30827	1389
+Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7167297	85.3120921	1390
+Nepali Ghar Hotel Pvt Ltd	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7165403	85.3129886	1391
+Stunning Adventure	2	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.6891069867822	85.2478348127655	1392
+Tiger Mountain	1	Hotel	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.21064	84.04247	1393
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.19899	83.97616	1394
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	28.22345	83.9888	1395
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71321	85.31137	1396
+Cuisine Court	2	Restaurant and Bar	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.719115	85.332184	1397
+Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71578	85.30945	1398
+Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71578	85.30944	1399
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.7174198	85.3260471	1400
+Wongchhu Peak Promotion Pvt. Ltd.	1	Trekking	o_rcvry_biggest_diffclties	1	71	64	Winning the confidence of tourists and guests	कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने 	27.71702	85.33378	1401
+Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71578	85.30944	1402
+Hotel Down Town Pvt. Ltd	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71587	85.30982	1403
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71575	85.30998	1404
+Kathmandu Spa	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7161657	85.3108951	1405
+Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7167297	85.3120921	1406
+Cuisine Court	2	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.719115	85.332184	1407
+Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71578	85.30945	1408
+Art Summit Holiday Pvt Ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7175	85.32594	1409
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71321	85.31137	1410
+Sun N Fun Holidays	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7043	85.33088	1411
+Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.67812	85.30827	1412
+Garden of Hope Treks & Expeditions	2	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71459	85.31326	1413
+Rainbow Adventure Nepal	2	Rafting	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7115056	85.3089164	1414
+Hiking nepal pvt ltd	1	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71689	85.30937	1415
+R.R.Jewellery	2	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7137093	85.3123409	1416
+Yakety Yak Hostel	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7133876	85.31238	1417
+Namaste Spa Pvt.Ltd	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7151	85.312	1418
+Hotel	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71217	85.30787	1419
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71061	85.31213	1420
+Earth angle trading pvt ltd	2	Shop/Merchandise	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71409	85.31012	1421
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	26.98806	85.89996	1427
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.19899	83.97616	1428
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.713195	85.3122775	1429
+Hotel Tulsi Pokhara	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2097	83.95798	1430
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2148186	83.9618638	1431
+Outlandish Nepal Holidays Ltd.	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.6742617216237	85.3691647550934	1432
+DBRAND SOLUTION PVT LTD	2	Other	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.6924011815381	85.3301440109144	1433
+Hotel Tharu Garden	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.5753519138286	84.5016726992705	1434
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.6882985387026	85.3324406541961	1435
+Ashirwad export	2	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.71892	85.3122	1436
+Nepal Highland Treks P Ltd	2	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7166059299288	85.3117833730153	1437
+Demeter Handicrafts	2	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7207596166803	85.3607724987554	1438
+Hotel Crown Plaza	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7130878	85.3281444	1439
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7392974199588	85.3239723928859	1440
+Mount everest souvenir house	2	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7135681946502	85.3125867485289	1441
+Downtown Restaurant	2	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.68076	85.31722	1442
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2072939	83.9578631	1443
+Nepal Ascent Treks	1	Trekking	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7119692416278	85.3110869262584	1444
+Royal handicraft	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7155286407712	85.3113662974226	1445
+Tourism	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.20794	83.95855	1446
+Wish List Nepal Tours and Travels	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7054130197592	85.3489936269846	1447
+Pilgrims Guest House P.Ltd	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.717619	85.3115799	1448
+The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2044184	83.9644088	1449
+Green Mansions Jungle Resort	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.5845046127971	84.4711607974195	1450
+Hotel Lakeside Pvt. Ltd	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2077552	83.9684899	1451
+HOTEL	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7177391	85.3101198	1452
+HOTEL HIMALAYA PVT. LTD	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.68413	85.31941	1453
+Hotel Task International Pvt. Ltd.	1	Hotel	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.2048324	83.9986713	1454
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	28.22345	83.9888	1455
+Shisha Lounge & Bar Pvt Ltd	1	Restaurant and Bar	o_rcvry_biggest_diffclties	7	61	55	Shortage of cash flow	नगद प्रवाहको अभाव	27.7153038584918	85.3103238891712	1456
+Hotel Business	2	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.6632585317559	85.4449016109137	1457
+Hiking nepal pvt ltd	1	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71689	85.30937	1458
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7180005590084	85.3097967996561	1459
+Swotah Travel and Adventure Pvt. Ltd.	1	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7174198	85.3260471	1460
+The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.2044184	83.9644088	1461
+HOTEL	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7177391	85.3101198	1462
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.22345	83.9888	1463
+Tiger Mountain	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.21064	84.04247	1464
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.19899	83.97616	1465
+Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.67812	85.30827	1466
+Sun N Fun Holidays	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7043	85.33088	1467
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71321	85.31137	1468
+Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71578	85.30945	1469
+Nepal Pyramids Pvt Ltd	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7650888094923	85.363349712796	1470
+Om Shanti Spa	2	Other	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71578	85.30944	1471
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71575	85.30998	1472
+Hotel Down Town Pvt. Ltd	2	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71587	85.30982	1473
+Yakety Yak Hostel	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7133876	85.31238	1474
+B s handicrafts	1	Shop/Merchandise	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71316	85.31265	1475
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71442	85.31192	1476
+Orbit Nepal Adventure	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.71305	85.31126	1477
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	26.98806	85.89996	1478
+3 Sisters Adventure Trekking P(Ltd)	1	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.2198688	83.9580593	1479
+Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7167297	85.3120921	1480
+Eco craft collection	1	Shop/Merchandise	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7169496294368	85.310175951392	1481
+Mechi resort Pvt Ltd & Maina travels and tours Pvt Ltd	2	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	28.2072939	83.9578631	1482
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7392974199588	85.3239723928859	1483
+Green Boutique Hotel	2	Hotel	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7210567730833	85.3653754560733	1484
+Demeter Handicrafts	2	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7207596166803	85.3607724987554	1485
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.710411302506	85.3129580931116	1486
+Carrot holidays pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.6882985387026	85.3324406541961	1487
+Royal handicraft	1	Handicraft	o_rcvry_biggest_diffclties	3	36	32	Ensuring health and safety measures for employees and guests	पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने 	27.7155286407712	85.3113662974226	1488
+Asian adventure treks and expedition	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71321	85.31137	1489
+Green Mansions Jungle Resort	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.5845046127971	84.4711607974195	1490
+Everest outdoor gears pvt ltd	1	Shop/Merchandise	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7156778	85.3113177	1491
+HOTEL	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7177391	85.3101198	1492
+Stunning Adventure	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.6891069867822	85.2478348127655	1493
+HOTEL BLUE MAGNET & MULTIPURPUSE PVT.LTD.	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.2148186	83.9618638	1494
+Subhakamana Travels and Tours	1	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.19899	83.97616	1495
+Sun N Fun Holidays	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7043	85.33088	1496
+B s handicrafts	1	Shop/Merchandise	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71316	85.31265	1497
+Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7167297	85.3120921	1498
+Hemp heafquarter	2	Shop/Merchandise	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71587	85.30991	1499
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71575	85.30998	1500
+Pilgrims Guest House P.Ltd	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.717619	85.3115799	1501
+Rainbow Adventure Nepal	2	Rafting	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7115056	85.3089164	1502
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71061	85.31213	1503
+Handicrafts (felt,woolen. Curio	2	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.71442	85.31192	1504
+Everest Tour Nepal Treks & Expedition Pvt. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.69443	85.24896	1505
+Hotel Vinayak pvt ltd	2	Restaurant and Bar	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	26.98806	85.89996	1506
+The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.2044184	83.9644088	1507
+Hotel Crown Plaza	2	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7130878	85.3281444	1508
+Tourism	1	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	28.20794	83.95855	1509
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7392974199588	85.3239723928859	1510
+Golden Cloud Adventure P. Ltd.	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.710411302506	85.3129580931116	1511
+Hotel Tharu Garden	2	Hotel	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.5753519138286	84.5016726992705	1512
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7180005590084	85.3097967996561	1513
+Mount everest souvenir house	2	Handicraft	o_rcvry_biggest_diffclties	2	29	26	Understanding and meeting the demands of source markets	स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्)	27.7135681946502	85.3125867485289	1514
+ROSHA TRAVELS AND TOURS P. LTD	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.71061	85.31213	1515
+DBRAND SOLUTION PVT LTD	2	Other	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.6924011815381	85.3301440109144	1516
+Backpacker Treks & Expedition Pvt. Ltd	2	Trekking	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7180005590084	85.3097967996561	1517
+Ashirwad export	2	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.71892	85.3122	1518
+Ghumante The Traveller adventure pvt ltd	2	Travel and Tour Operator	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7392974199588	85.3239723928859	1519
+Apex himalaya trek and expedition	2	Trekking	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7104423	85.3109739	1520
+HOTEL	1	Hotel	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7177391	85.3101198	1521
+Naya Nepal collection and export pvt.ltd	1	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.713195	85.3122775	1522
+The  cashmere store	1	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	28.2044184	83.9644088	1523
+Grill n’ Chill Restro and Bar	2	Restaurant and Bar	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	28.22345	83.9888	1524
+Spa kinjjala pvt ltd.	2	Other	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.67812	85.30827	1525
+Hotel Luna Kathmandu	1	Hotel	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.7167297	85.3120921	1526
+Hemp House Nepal Pvt.Ltd	1	Handicraft	o_rcvry_biggest_diffclties	5	14	13	Shortage of goods, funds and human resources	सामान आपूर्ति, कोष र मानव संसाधन को कमी	27.71575	85.30998	1527
 Green Mansions Jungle Resort	1	Hotel	o_rcvry_biggest_diffclties	9	1	1	Others	अन्य	27.5845046127971	84.4711607974195	1528
 \.
 
