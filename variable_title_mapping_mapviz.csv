@@ -1,12 +1,11 @@
 variable,group,highlights_en,highlights_ne
 i_econ_stop_business,impact,"Around 95% businesses shut down, among them 17% will never open again","लगभग 95% व्यवसायहरू बन्द भए, ती मध्ये 17% फेरि कहिले पनि खुल्दैन"
 i_wrkfrc_size_chng_2020_v_2019,impact,Around 65% of the businesses has layed off more than three quarters of employees,65% व्यवसायहरूले तीन तिहाइ कर्मचारीहरु भन्दा बढी बन्द राखेका छन्
-i_fin_revenue_chng_2020_v_2019,impact,Revenues for most of the businesses is almost zero,धेरै जसो ब्यापारका लागि राजस्व शून्य छ
-p_hlth_hhs_measures,preparedness,Implemented health and sanitation measures,स्वास्थ्य र सरसफाइको कार्यान्वयन उपायहरू
-p_hlth_safety_measures,preparedness,Implemented saftey measures for workers,कामदारहरूको लागि सुरक्षा उपायहरू कार्यान्वयन
-o_expectd_problms_next_6_mnths,need,Most pressing needs that requires asistance as reported by businesses,"
-अधिक प्रेसिंग आवश्यकताहरू जसलाई व्यवसायले रिपोर्ट गरेको रूपमा सहयोग आवश्यक पर्दछ"
-o_do_u_know_of_gov_schemes,need,"Goverment anounced recovery schemes, but remained out of reach","सरकारले रिकभरी योजनाहरू शुरू गर्‍यो, तर पहुँचबाट बाहिरै रह्यो"
+i_fin_revenue_chng_2020_v_2019,impact,Revenue generation has completely stopped for 63% of businesses,धेरै जसो ब्यापारका लागि राजस्व शून्य छ
+p_hlth_hhs_measures,preparedness,More than 95% businesses has implemented some sort of health and sanitation measures,स्वास्थ्य र सरसफाइको कार्यान्वयन उपायहरू
+p_hlth_safety_measures,preparedness,More than 95% businesses has implemented some sort of saftey measures for workers,कामदारहरूको लागि सुरक्षा उपायहरू कार्यान्वयन
+o_expectd_problms_next_6_mnths,need,Around 70% couldn't even cover operating costs in the next six months,अधिक प्रेसिंग आवश्यकताहरू जसलाई व्यवसायले रिपोर्ट गरेको रूपमा सहयोग आवश्यक पर्दछ
+o_do_u_know_of_gov_schemes,need,"Only 8% used government recovery schemes, 54% didn't even heard about them","सरकारले रिकभरी योजनाहरू शुरू गर्‍यो, तर पहुँचबाट बाहिरै रह्यो"
 o_econ_impact_revenue_chng_21_v_19,outlook,Very low expectations on revenue generation,राजस्व उत्पादनमा धेरै कम आशा
 o_econ_impact_wrkfrc_chng_21_v_19,outlook,Most of the jobs will not be reopened any time soon,धेरै जसो कामहरू कुनै पनि समयमा चाँडै फेरि खोल्ने छैन
 o_rcvry_biggest_diffclties,outlook,There will still be major challenges to be solved even after the business resumes,व्यापार पुन: शुरू भए पछाडि समाधान हुन अझै ठूला चुनौतीहरू छन्
