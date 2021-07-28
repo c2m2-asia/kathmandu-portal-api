@@ -1,0 +1,33 @@
+Name,Description,Type
+id,An identifier variable that uniquely identifies each response,Text
+submission_date,Timestamp that determines when the data was received,Timestamp
+business_dist,District of residence of the business,Text
+business_type,Type of business,Categorical
+business_yrs_in_operation,How long business has been in operation for?,Categorical
+preferred_gov_rcvry_policy_establish_covid_info_source,"Flag variable that indicates whether the respondent observed the need of establishment of an authentic source of information for government’s COVID-19 related communications (e.g. health advisories, directives, etc.) for their business",Boolean
+preferred_gov_rcvry_policy_regulate_entry_ports,"Flag variable that indicates whether the respondent observed the need of regulation of port of entries such as borders, airports for their business",Boolean
+preferred_gov_rcvry_policy_establish_trsm_protection_fund,Flag variable that indicates whether the respondent observed the need of establishment of government’s tourism protection fund for their business,Boolean
+preferred_gov_rcvry_policy_establish_job_retention_fund,Flag variable that indicates whether the respondent observed the need of establishment of job retention fund for their business,Boolean
+preferred_rcvry_gov_policy_provision_finance_assistance,"Flag variable that indicates whether the respondent observed the need of provision of financial assistance (e.g. no-collateral loans, subsidized loans, etc.) for their business",Boolean
+preferred_rcvry_gov_policy_categorize_safe_unsafe_business,"Flag variable that indicates whether the respondent observed the need of government provision to categorize safe and unsafe businesses (e.g. red, green, yellow stickers)",Boolean
+preferred_gov_rcvry_policy_skill_enhancement_training,Flag variable that indicates whether the respondent observed the need of skill enhancement training to human resources for their business,Boolean
+preferred_gov_rcvry_policy_training_on_hhs,"Flag variable that indicates whether the respondent observed the need of training or TOT (Training of Trainers) on Health, Hygiene and Sanitation from the government for their business",Boolean
+other_preferred_gov_rcvry_policy,Flag variable that indicates whether the respondent observed the need of any other policy level support from the government for their business,Boolean
+problms_next_6_mnths_pay_existing_loans,Flag variable that indicates whether the respondent observed their business will have difficulties in paying back existing loans within next six months.,Boolean
+problms_next_6_mnths_acquire_add_funds,Flag variable that indicates whether the respondent observed their business will have difficulties to acquire additional loans or funds within next six months.,Boolean
+problms_next_6_mnths_acquire_pay_taxes,Flag variable that indicates whether the respondent observed their business will have difficulties in paying its taxes within next six months.,Boolean
+problms_next_6_mnths_cover_operating_costs,Flag variable that indicates whether the respondent observed their business will have difficulties in covering its operating costs within next six months.,Boolean
+problms_next_6_mnths_labor_related_issues,Flag variable that indicates whether the respondent observed that their business will most likely face labor-related issues within next six months.,Boolean
+problms_next_6_mnths_attract_enough_costumers,Flag variable that indicates whether the respondent observed that their business will have difficulties in getting enough customers required for its survival within next six months.,Boolean
+no_problms_next_6_mnths,Flag variable that indicates whether the respondent observed that their business will not have any of the above difficulties within next six months.,Boolean
+preferred_loan_pybck_incntv,Which of the following loan payback-related assistance will be most helpful to you?,Categorical
+preferred_fund_aprvl_incntv,Which of the following funds-related assistance will be most helpful to you?,Categorical
+preferred_fin_asstnc_source,What is your preferred source (first choice) of financial assistance that is most appropriate for your business?,Categorical
+preferred_tax_asstnc,Which of the following tax-related assistance will be most helpful to you? (Choose your first priority),Categorical
+preferred_cost_asstnc,Which of the following operating costs-related assistance will be most helpful to you? (Choose one),Categorical
+preferred_labor_asstnc,Which of the following labor-related assistance will be most helpful to you? (Choose one),Categorical
+preferred_outreach_asstnc,Which of the following business outreach-related assistance will be most helpful to you?,Categorical
+do_u_know_of_gov_schemes,The government has announced different schemes for the revival of the tourism businesses. Have you used any of such schemes?,Categorical
+gov_schemes_difficult_to_understand,Flag variable that indicates whether the respondent observed that government announced schemes are difficult to understand .,Boolean
+gov_schemes_hard_to_use,Flag variable that indicates whether the respondent observed that government announced schemes are not easy to use .,Boolean
+gov_schemes_not_sufficient,Flag variable that indicates whether the respondent observed that government announced schemes are not sufficient .,Boolean

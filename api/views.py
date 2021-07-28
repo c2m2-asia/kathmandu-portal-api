@@ -358,8 +358,10 @@ class DownloadBulkData(viewsets.ViewSet):
         # list for zipped files
         filenames = []
         for type_res in types:
-            path = root_path + '/../data/' + type_res + '_downloads_data.csv'
-            filenames.append(path)
+            path1 = root_path + '/../data/' + type_res + '_downloads_data.csv'
+            path2 = root_path + '/../data/' + type_res + '_data_dictionary.csv'
+            filenames.append(path1)
+            filenames.append(path2)
 
         zip_dir = type_query.replace(',','_')
         zip_filename = "%s.zip" % zip_dir

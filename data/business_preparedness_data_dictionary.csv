@@ -1,0 +1,45 @@
+Name,Description,Type
+id,An identifier variable that uniquely identifies each response,Text
+submission_date,Timestamp that determines when the data was received,Timestamp
+business_dist,District of residence of the business,Text
+business_type,Type of business,Categorical
+business_yrs_in_operation,How long business has been in operation for?,Categorical
+hhs_measures_placed_sanitizers,"Flag variable that indicates whether the respondent ""placed sanitizers at prominent locations"" as a part of health and sanitation measures during the pandemic.",Boolean
+hhs_measures_trained_employes_on_hhs,"Flag variable that indicates whether the respondent ""trained their employees on HHS (Health, hygiene and sanitation)"" as a part of health and sanitation measures during the pandemic.",Boolean
+hhs_measures_placed_thermal_screening,"Flag variable that indicates whether the respondent ""placed thermal screening and disinfection"" as a part of health and sanitation measures during the pandemic.",Boolean
+hhs_measures_maintained_social_distancing,"Flag variable that indicates whether the respondent ""maintained social distancing at their business premises"" as a part of health and sanitation measures during the pandemic.",Boolean
+hhs_measures_implemented_cashless_payment,"Flag variable that indicates whether the respondent ""Introduced/Implemented cashless payments"" as a part of health and sanitation measures during the pandemic",Boolean
+hhs_measures_discontinued_buffed_services,"Flag variable that indicates whether the respondent ""discontinued buffet services (applicable for hotels and restaurants only)"" as a part of health and sanitation measures during the pandemic.",Boolean
+hhs_measures_added_covid_friendly_marketing,"Flag variable that indicates whether the respondent ""added COVID-19 friendly marketing messages"" as a part of health and sanitation measures during the pandemic.",Boolean
+hhs_measures_outsourced_services,"Flag variable that indicates whether the respondent ""Outsourced certain services like order management, delivery, etc."" as a part of health and sanitation measures during the pandemic.",Boolean
+other_hhs_measures,"Flag variable that indicates whether the respondent ""employ any other actions"" as a part of health and sanitation measures during the pandemic.",Boolean
+no_hhs_measures,"Flag variable that indicates if the respondent ""didn't employ any health and sanitation related measures"" during the pandemic",Boolean
+wrkrs_hlth_informed_covid_saftey_measures,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""Informing them on COVID-19 transmission and prevention measures"" during the pandemic.",Boolean
+wrkrs_hlth_encouraged_home_stay_if_sick,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""Encouraging them to stay home when they feel sick"" during the pandemic.",Boolean
+wrkrs_hlth_maintained_social_distancing,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""maintaining social distancing between them"" during the pandemic.",Boolean
+wrkrs_hlth_implemented_working_shifts,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""working in shifts to reduce congestion"" during the pandemic.",Boolean
+wrkrs_hlth_implemented_remote_working,"Flag variable that indicates whether the respondent provided safety measures for workers by ""teleworking (remote working, work from home, etc.)"" during the pandemic.",Boolean
+wrkrs_hlth_performed_temperature_checks,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""performing temperature checks"" during the pandemic.",Boolean
+wrkrs_hlth_provided_ppe,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""providing personal protection equipment like masks"" during the pandemic.",Boolean
+wrkrs_hlth_provided_paid_sick_leave,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""providing/extending paid sick leave"" during the pandemic.",Boolean
+wrkrs_hlth_provided_covid_insurance,"Flag variable that indicates whether the respondent implemented safety measures for workers by ""Providing COVID-19 insurance"" during the pandemic.",Boolean
+other_wrkrs_hlth_measures,Flag variable that indicates whether the respondent implemented any other safety measures for workers during the pandemic.,Boolean
+no_wrkrs_hlth_measures,Flag variable that indicates if the respondent didn't implement any safety measures for workers during the pandemic.,Boolean
+internl_recvry_strategy_reduce_prdocution,Flag variable that indicates whether the respondent reduced production of goods or services compared to 2019 as a strategic action due to COVID-19 pandemic.,Boolean
+internl_recvry_strategy_increase_production,Flag variable that indicates whether the respondent increase production due to increased demand compared to Dec 2020 as a strategic action due to COVID-19 pandemic.,Boolean
+internl_recvry_strategy_diversify_offerings,"Flag variable that indicates whether the respondent diversified service offerings as a response to new demands (producing masks, sanitizer, etc.).",Boolean
+internl_recvry_strategy_start_different_business,Flag variable that indicates whether the respondent has started(or planning to start) a different business as a strategic action due to COVID-19 pandemic.,Boolean
+internl_recvry_strategy_diversify_sales_channels,"Flag variable that indicates whether the respondent has diversified(or planning to diversify) its sales channels – online marketing, sales, delivery, etc. as a strategic action due to COVID-19 pandemic.",Boolean
+internl_recvry_strategy_retrain_workers,Flag variable that indicates whether the respondent have implemented re-training of their workers as a strategic action due to COVID-19 pandemic,Boolean
+other_internl_recvry_strategy,Flag variable that indicates whether the respondent have implemented any other strategic action as a response to COVID-19 pandemic.,Boolean
+no_internl_recvry_strategy,Flag variable that indicates if the respondent haven't taken any strategic action due to COVID-19 pandemic.,Boolean
+externl_recvry_strategy_negotiate_bank_paymnts,Flag variable that indicates whether the respondent is negotiating (or planning to negotiate) payment terms with banks and suppliers as a response to impacts brought by COVID-19 pandemic.,Boolean
+externl_recvry_strategy_lobby_support_trade_unions,Flag variable that indicates whether the respondent is providing (or planning to provide) lobbying support to trade unions and associations as a response to impacts brought by COVID-19 pandemic.,Boolean
+externl_recvry_strategy_negotiate_with_wrkrs_union,Flag variable that indicates whether the respondent is negotiating (or planning to negotiate) with workers’ unions as a response to impacts brought by COVID-19 pandemic.,Boolean
+externl_recvry_strategy_negotiate_with_property_owner,"Flag variable that indicates whether the respondent is negotiating (or planning to negotiate) with property owners, house owners, renters, landowners, etc. as a response to impacts brought by COVID-19 pandemic.",Boolean
+externl_recvry_strategy_partner_with_other_business,Flag variable that indicates whether the respondent is partnering (or planning to partner) with other businesses as a response to impacts brought by COVID-19 pandemic.,Boolean
+externl_recvry_strategy_increase_shareholders,Flag variable that indicates whether the respondent is Increasing (or planning to Increase) the number of shareholders as a response to impacts brought by COVID-19 pandemic.,Boolean
+externl_recvry_strategy_share_assets_other_business,Flag variable that indicates whether the respondent is sharing (or planning to share) property and assets with other businesses as a response to impacts brought by COVID-19 pandemic.,Boolean
+other_externl_recvry_strategy,Flag variable that indicates whether the respondent is undertaking any other actions as a response to impacts brought by COVID-19 pandemic.,Boolean
+no_externl_recvry_strategy,Flag variable that indicates whether the respondent is not undertaking (or planning to undertake) any actions as a response to impacts brought by COVID-19 pandemic.,Boolean
+has_dedictd_covid_desk,Does your business have a dedicated COVID-19 desk or personnel?,Boolean

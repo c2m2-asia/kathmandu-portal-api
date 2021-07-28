@@ -1,0 +1,55 @@
+Name,Description,Type
+id,An identifier variable that uniquely identifies each response,Text
+submission_date,Date when the respondent submitted the survey,Timestamp
+gender_individual,Gender of respondent,Categorical
+age_individual,Age of respondent,Categorical
+education_level_individual,Education level of respondent,Categorical
+years_of_experience_individual,Years of experience of respondent,Categorical
+permanent_district_individual,Permanent district of residence of the respondent.,Text
+temporary_district_individual,Temporary district of residence of the respondent.,Text
+occpatn_shopkeeper_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""shopkeeper"" before COVID-19 in the tourism sector.",Boolean
+occpatn_tour_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""tour guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_trekking_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""trekking guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_rafting_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""rafting guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_mountain_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""mountain guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_driver_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""driver"" before COVID-19 in the tourism sector.",Boolean
+occpatn_travel_agent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""travel agent"" before COVID-19 in the tourism sector.",Boolean
+occpatn_flight_attendent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""flight attendant"" before COVID-19 in the tourism sector.",Boolean
+occpatn_pilot_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""pilot"" before COVID-19 in the tourism sector.",Boolean
+occpatn_cook_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""chef/cook"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_manager_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel manager"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_staff_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel staff"" before COVID-19 in the tourism sector.",Boolean
+occpatn_waiter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""waiter"" before COVID-19 in the tourism sector.",Boolean
+occpatn_bartender_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""bartender"" before COVID-19 in the tourism sector.",Boolean
+occpatn_porter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""porter"" before COVID-19 in the tourism sector.",Boolean
+other_occpatn_pre_covid,Flag variable that indicates whether the respondent had any other main occupation before COVID-19 in the tourism sector.,Boolean
+had_frml_employment_contract_pre_covid,Did you have a formal employment contract with your employer while working in the tourism sector before COVID-19?,Boolean
+had_pan_pre_covid,Did you have a PAN(Personal Account Number) number before COVID-19?,Boolean
+wrk_type_seasonal_pre_covid,"Flag variable that indicates whether the respondent employment type was ""seasonal work"".",Boolean
+wrk_type_daily_wages_pre_covid,"Flag variable that indicates whether the respondent employment type was ""daily wages"".",Boolean
+wrk_type_monthly_salary_pre_covid,"Flag variable that indicates whether the respondent employment type was ""monthly salary"".",Boolean
+other_wrk_type_pre_covid,Flag variable that indicates whether the respondent employment was any other type.,Boolean
+sesonal_work_period,"On average, how many months (in a year) did you used to work in the tourism sector?",Categorical
+trsm_major_work_district,Text variable that contains name of districts where respondent does major tourism work.,Text
+estimated_fml_income_chng_21_v_19,What is the estimated income of your family in 2021 compared to 2019?,Categorical
+how_long_covid_effect_livelihood,How much longer will COVID-19 affect your livelihood? Provide your best estimate.,Categorical
+how_long_employment_return_normal,How long will it take for your employment to return to normal after the tourism sector is up and running again? Provide your best estimate.,Categorical
+major_trsm_challenge_winning_tourist_confidence,"Flag variable that indicates whether respondent thinks ""Winning tourists' confidence"" can be one of the major challenges for the revival of tourism sector they are working in.",Boolean
+major_trsm_challenge_ensuring_hhs_compliance,"Flag variable that indicates whether respondent thinks ""Ensuring HHS Compliance"" can be one of the major challenges for the revival of tourism sector they are working in.",Boolean
+major_trsm_challenge_overcoming_financial_challenge,"Flag variable that indicates whether respondent thinks ""Overcoming financial challenges"" can be one of the major challenges for the revival of tourism sector they are working in.",Boolean
+major_trsm_challenge_decreased_tourist_numbers,"Flag variable that indicates whether respondent thinks ""Decreased number of tourists"" can be one of the major challenges for the revival of tourism sector they are working in.",Boolean
+major_trsm_challenge_understanding_market_demands,"Flag variable that indicates whether respondent thinks ""Understanding the demands and needs of the source market correctly"" can be one of the major challenges for the revival of tourism sector they are working in.",Boolean
+other_major_trsm_challenge,"Flag variable that indicates whether respondent thinks of ""any other factors"" that can be one of the major challenges for the revival of tourism sector.",Boolean
+no_any_major_trsm_challenge,"Flag variable that indicates whether respondent thinks ""there are no any challenges in the tourism sector that they are involved in"" .",Boolean
+most_significant_trsm_recovery_challenge,We also asked respondents to rank order their choices for the above multi-select question. This column captures what each respondent chose as their first option.,Categorical
+can_not_pay_rent_partially_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""Won't be able to pay house / room rent (partially) "" if the current situation continues for the next 6 months.",Boolean
+can_not_pay_rent_fully_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""Won't be able to pay house / room rent (full)"" if the current situation continues for the next 6 months.",Boolean
+can_not_afford_health_expenses_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""Won't be able to meet necessary health care expenses"" if the current situation continues for the next 6 months.",Boolean
+can_not_afford_education_expenses_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""Won't be able to afford necessary educational services"" if the current situation continues for the next 6 months.",Boolean
+can_not_afford_food_expenses_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""Won't be able to meet fooding expenses"" if the current situation continues for the next 6 months.",Boolean
+can_not_acquire_loans_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""Won't be able to acquire additional loans and borrowings "" if the current situation continues for the next 6 months.",Boolean
+can_not_pay_existing_loans_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""Won't be able to pay off existing loans"" if the current situation continues for the next 6 months.",Boolean
+will_suffer_other_problems_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""will suffer any other problems"" if the current situation continues for the next 6 months.",Boolean
+will_not_suffer_any_problem_if_same_situation_nxt_6_mnths,"Flag variable that indicates whether respondent ""won't have to suffer from COVID-19 in any way"" if the current situation continues for the next 6 months.",Boolean
+most_significant_problem_if_same_situation_nxt_6_months,We also asked respondents to rank order their choices for the above multi-select question. This column captures what each respondent chose as their first option.,Categorical
+has_assets_for_addtnl_loan,Do you have the necessary collateral/securities to secure additional loans?,Boolean

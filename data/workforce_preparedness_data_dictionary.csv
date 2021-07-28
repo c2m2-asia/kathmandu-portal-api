@@ -1,0 +1,84 @@
+Name,Description,Type
+id,An identifier variable that uniquely identifies each response,Text
+submission_date,Date when the respondent submitted the survey,Timestamp
+gender_individual,Gender of respondent,Categorical
+age_individual,Age of respondent,Categorical
+education_level_individual,Education level of respondent,Categorical
+years_of_experience_individual,Years of experience of respondent,Categorical
+permanent_district_individual,Permanent district of residence of the respondent.,Text
+temporary_district_individual,Temporary district of residence of the respondent.,Text
+occpatn_shopkeeper_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""shopkeeper"" before COVID-19 in the tourism sector.",Boolean
+occpatn_tour_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""tour guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_trekking_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""trekking guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_rafting_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""rafting guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_mountain_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""mountain guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_driver_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""driver"" before COVID-19 in the tourism sector.",Boolean
+occpatn_travel_agent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""travel agent"" before COVID-19 in the tourism sector.",Boolean
+occpatn_flight_attendent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""flight attendant"" before COVID-19 in the tourism sector.",Boolean
+occpatn_pilot_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""pilot"" before COVID-19 in the tourism sector.",Boolean
+occpatn_cook_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""chef/cook"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_manager_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel manager"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_staff_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel staff"" before COVID-19 in the tourism sector.",Boolean
+occpatn_waiter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""waiter"" before COVID-19 in the tourism sector.",Boolean
+occpatn_bartender_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""bartender"" before COVID-19 in the tourism sector.",Boolean
+occpatn_porter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""porter"" before COVID-19 in the tourism sector.",Boolean
+other_occpatn_pre_covid,Flag variable that indicates whether the respondent had any other main occupation before COVID-19 in the tourism sector.,Boolean
+had_frml_employment_contract_pre_covid,Did you have a formal employment contract with your employer while working in the tourism sector before COVID-19?,Boolean
+had_pan_pre_covid,Did you have a PAN(Personal Account Number) number before COVID-19?,Boolean
+wrk_type_seasonal_pre_covid,"Flag variable that indicates whether the respondent employment type was ""seasonal work"".",Boolean
+wrk_type_daily_wages_pre_covid,"Flag variable that indicates whether the respondent employment type was ""daily wages"".",Boolean
+wrk_type_monthly_salary_pre_covid,"Flag variable that indicates whether the respondent employment type was ""monthly salary"".",Boolean
+other_wrk_type_pre_covid,Flag variable that indicates whether the respondent employment was any other type.,Boolean
+sesonal_work_period,"On average, how many months (in a year) did you used to work in the tourism sector?",Categorical
+trsm_major_work_district,Text variable that contains name of districts where respondent does major tourism work.,Text
+have_alternative_income_source,Do you or your family have an alternative source of income other than tourism?,Boolean
+alternate_income_source_agriculture_animal_husbandry,"Flag variable that indicates whether respondent has ""agriculture and animal husbandry"" as alternative source of income.",Boolean
+alternate_income_source_daily_wages,"Flag variable that indicates whether respondent has ""daily wages"" as alternative source of income.",Boolean
+alternate_income_source_business_occupation,"Flag variable that indicates whether respondent has ""business / occupation"" as alternative source of income.",Boolean
+alternate_income_source_job_estate,"Flag variable that indicates whether respondent has ""job / estate"" as alternative source of income.",Boolean
+alternate_income_source_professional_work,"Flag variable that indicates whether respondent has ""professional work (journalist, lawyer, consultant, contractor, priest, etc.)"" as alternative source of income.",Boolean
+other_alternate_income_source,"Flag variable that indicates whether respondent has ""any other"" alternative source of income.",Boolean
+self_savings_chng_today_v_19,"Compared to the end of 2019, how much savings do you have now?",Categorical
+had_land_assets_pre_covid,"Flag variable that indicates whether respondent had ""Land assets"" before COVID-19.",Boolean
+had_television_pre_covid,"Flag variable that indicates whether respondent had ""Television"" before COVID-19.",Boolean
+had_cable_tv_pre_covid,"Flag variable that indicates whether respondent had ""Cable TV connection"" before COVID-19.",Boolean
+had_computer_pre_covid,"Flag variable that indicates whether respondent had ""Computer / laptop"" before COVID-19.",Boolean
+had_internet_pre_covid,"Flag variable that indicates whether respondent had ""Internet"" before COVID-19.",Boolean
+had_telephone_pre_covid,"Flag variable that indicates whether respondent had ""Telephone"" before COVID-19.",Boolean
+had_mobile_phone_pre_covid,"Flag variable that indicates whether respondent had ""Mobile phone"" before COVID-19.",Boolean
+had_referigerator_pre_covid,"Flag variable that indicates whether respondent had ""Refrigerator"" before COVID-19.",Boolean
+had_motorcycle_pre_covid,"Flag variable that indicates whether respondent had ""Motorcycle"" before COVID-19.",Boolean
+had_personal_use_four_wheeler_pre_covid,"Flag variable that indicates whether respondent had ""Four wheeler for self/family use"" before COVID-19.",Boolean
+had_professional_use_four_wheeler_pre_covid,"Flag variable that indicates whether respondent had ""Four wheeler for commercial use"" before COVID-19.",Boolean
+did_not_have_mentioned_assets_pre_covid,"Flag variable that indicates whether respondent had ""none of the above mentioned"" asests before COVID-19.",Boolean
+has_land_assets_post_covid,"Flag variable that indicates whether respondent has ""Land assets"" after COVID-19.",Boolean
+has_television_post_covid,"Flag variable that indicates whether respondent has ""Television"" after COVID-19.",Boolean
+has_cable_tv_post_covid,"Flag variable that indicates whether respondent has ""Cable TV connection"" after COVID-19.",Boolean
+has_computer_post_covid,"Flag variable that indicates whether respondent has ""Computer / laptop"" after COVID-19.",Boolean
+has_internet_post_covid,"Flag variable that indicates whether respondent has ""Internet"" after COVID-19.",Boolean
+has_telephone_post_covid,"Flag variable that indicates whether respondent has ""Telephone"" after COVID-19.",Boolean
+has_mobile_phone_post_covid,"Flag variable that indicates whether respondent has ""Mobile phone"" after COVID-19.",Boolean
+has_referigerator_post_covid,"Flag variable that indicates whether respondent has ""Refrigerator"" after COVID-19.",Boolean
+has_motorcycle_post_covid,"Flag variable that indicates whether respondent has ""Motorcycle"" after COVID-19.",Boolean
+has_personal_use_four_wheeler_post_covid,"Flag variable that indicates whether respondent has ""Four wheeler for self/family use"" after COVID-19.",Boolean
+has_professional_use_four_wheeler_post_covid,"Flag variable that indicates whether respondent has ""Four wheeler for commercial use"" after COVID-19.",Boolean
+do_not_have_mentioned_assets_post_covid,"Flag variable that indicates whether respondent has ""none of the above mentioned"" assets after COVID-19.",Boolean
+has_outstanding_debt,Do you have an outstanding debt?,Boolean
+num_depndnt_fml_membrs_pre_covid,"How many family members, including yourself, depended on your income before COVID-19?",Categorical
+num_depndnt_fml_membrs_post_covid,"How many family members, including yourself, depend on your income after COVID-19?",Categorical
+num_depndnt_fml_membrs_needs_post_covid,How many of your family members’ basic needs can be met by your current income?,Categorical
+is_vaccinated_against_covid,Have you been vaccinated against COVID-19?,Boolean
+has_received_covid_hhs_training,Have you received any health and safety training related to COVID-19?,Boolean
+received_hhs_training_from_goverment,"Flag variable that indicates whether respondent received health and safety training from ""Government"".",Boolean
+received_hhs_training_from_ngo,"Flag variable that indicates whether respondent received health and safety training from ""NGO"".",Boolean
+received_hhs_training_from_employer,"Flag variable that indicates whether respondent received health and safety training from ""Employer"".",Boolean
+received_hhs_training_from_hotel_worker_association,"Flag variable that indicates whether respondent received health and safety training from ""Hotel / workers associations"".",Boolean
+received_hhs_training_from_other_source,"Flag variable that indicates whether respondent received health and safety training from ""any other sources"".",Boolean
+major_covid_info_source_is_family_friends,"Flag variable that indicates whether respondent uses ""Family and friends"" to get information about COVID-19.",Boolean
+major_covid_info_source_is_social_media,"Family and friends Flag variable that indicates whether respondent uses ""Social media"" to get information about COVID-19.",Boolean
+major_covid_info_source_is_radio,"Flag variable that indicates whether respondent uses ""Radio"" to get information about COVID-19.",Boolean
+major_covid_info_source_is_television,"Flag variable that indicates whether respondent uses ""Television"" to get information about COVID-19.",Boolean
+major_covid_info_source_is_newspapers,"Flag variable that indicates whether respondent uses ""Newspapers"" to get information about COVID-19.",Boolean
+major_covid_info_source_is_nearby_health_service,"Flag variable that indicates whether respondent uses ""Nearby health service provider"" to get information about COVID-19.",Boolean
+uses_other_major_covid_info_source,"Flag variable that indicates whether respondent uses ""any other sources"" to get information about COVID-19.",Boolean
+learned_new_skills_during_pandemic,Did you learn any new skills when the your tourism-related job/profession was halted due to COVID-19?,Boolean

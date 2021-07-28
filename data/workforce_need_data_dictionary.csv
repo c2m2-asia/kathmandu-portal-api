@@ -1,0 +1,47 @@
+Name,Description,Type
+id,An identifier variable that uniquely identifies each response,Text
+submission_date,Date when the respondent submitted the survey,Timestamp
+gender_individual,Gender of respondent,Categorical
+age_individual,Age of respondent,Categorical
+education_level_individual,Education level of respondent,Categorical
+years_of_experience_individual,Years of experience of respondent,Categorical
+permanent_district_individual,Permanent district of residence of the respondent.,Text
+temporary_district_individual,Temporary district of residence of the respondent.,Text
+occpatn_shopkeeper_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""shopkeeper"" before COVID-19 in the tourism sector.",Boolean
+occpatn_tour_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""tour guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_trekking_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""trekking guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_rafting_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""rafting guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_mountain_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""mountain guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_driver_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""driver"" before COVID-19 in the tourism sector.",Boolean
+occpatn_travel_agent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""travel agent"" before COVID-19 in the tourism sector.",Boolean
+occpatn_flight_attendent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""flight attendant"" before COVID-19 in the tourism sector.",Boolean
+occpatn_pilot_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""pilot"" before COVID-19 in the tourism sector.",Boolean
+occpatn_cook_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""chef/cook"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_manager_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel manager"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_staff_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel staff"" before COVID-19 in the tourism sector.",Boolean
+occpatn_waiter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""waiter"" before COVID-19 in the tourism sector.",Boolean
+occpatn_bartender_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""bartender"" before COVID-19 in the tourism sector.",Boolean
+occpatn_porter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""porter"" before COVID-19 in the tourism sector.",Boolean
+other_occpatn_pre_covid,Flag variable that indicates whether the respondent had any other main occupation before COVID-19 in the tourism sector.,Boolean
+had_frml_employment_contract_pre_covid,Did you have a formal employment contract with your employer while working in the tourism sector before COVID-19?,Boolean
+had_pan_pre_covid,Did you have a PAN(Personal Account Number) number before COVID-19?,Boolean
+wrk_type_seasonal_pre_covid,"Flag variable that indicates whether the respondent employment type was ""seasonal work"".",Boolean
+wrk_type_daily_wages_pre_covid,"Flag variable that indicates whether the respondent employment type was ""daily wages"".",Boolean
+wrk_type_monthly_salary_pre_covid,"Flag variable that indicates whether the respondent employment type was ""monthly salary"".",Boolean
+other_wrk_type_pre_covid,Flag variable that indicates whether the respondent employment was any other type.,Boolean
+sesonal_work_period,"On average, how many months (in a year) did you used to work in the tourism sector?",Categorical
+trsm_major_work_district,Text variable that contains name of districts where respondent does major tourism work.,Text
+needs_health_training_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Health training or retraining"" to reduce the effects of COVID-19.",Boolean
+needs_employment_related_training_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Employment-related training or retraining"" to reduce the effects of COVID-19.",Boolean
+needs_skills_learning_opportunity_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Opportunity to learn new skills"" to reduce the effects of COVID-19.",Boolean
+needs_new_employment_opportunity_for_recovery,"Flag variable that indicates whether respondent observed the need of ""New employment opportunities"" to reduce the effects of COVID-19.",Boolean
+needs_subsidized_loans_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Subsidized loans"" to reduce the effects of COVID-19.",Boolean
+needs_interest_rate_discount_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Special discounts on interest rate"" to reduce the effects of COVID-19.",Boolean
+needs_tax_discount_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Tax discount"" to reduce the effects of COVID-19.",Boolean
+needs_emi_periods_extension_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Deferral or extension of EMI periods "" to reduce the effects of COVID-19.",Boolean
+needs_provision_of_social_security_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Provision of social security system"" to reduce the effects of COVID-19.",Boolean
+needs_grant_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Grant"" to reduce the effects of COVID-19.",Boolean
+need_health_counselling_for_recovery,"Flag variable that indicates whether respondent observed the need of ""Health counseling to reduce mental stres"" to reduce the effects of COVID-19.",Boolean
+need_other_incentives_for_recovery,"Flag variable that indicates whether respondent observed the need of ""any other actions"" to reduce the effects of COVID-19.",Boolean
+no_need_of_any_recovery_incentives,Flag variable that indicates whether respondent was not affected by COVID-19 in any way,Boolean
+most_significant_recovery_incentive,We also asked respondents to rank order their choices for the above multi-select question. This column captures what each respondent chose as their first option.,Categorical

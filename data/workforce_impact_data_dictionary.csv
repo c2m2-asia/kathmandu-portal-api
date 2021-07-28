@@ -1,0 +1,122 @@
+Name,Description,Type
+id,An identifier variable that uniquely identifies each response,Text
+submission_date,Date when the respondent submitted the survey,Timestamp
+gender_individual,Gender of respondent,Categorical
+age_individual,Age of respondent,Categorical
+education_level_individual,Education level of respondent,Categorical
+years_of_experience_individual,Years of experience of respondent,Categorical
+permanent_district_individual,Permanent district of residence of the respondent.,Text
+temporary_district_individual,Temporary district of residence of the respondent.,Text
+occpatn_shopkeeper_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""shopkeeper"" before COVID-19 in the tourism sector.",Boolean
+occpatn_tour_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""tour guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_trekking_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""trekking guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_rafting_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""rafting guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_mountain_guide_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""mountain guide"" before COVID-19 in the tourism sector.",Boolean
+occpatn_driver_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""driver"" before COVID-19 in the tourism sector.",Boolean
+occpatn_travel_agent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""travel agent"" before COVID-19 in the tourism sector.",Boolean
+occpatn_flight_attendent_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""flight attendant"" before COVID-19 in the tourism sector.",Boolean
+occpatn_pilot_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""pilot"" before COVID-19 in the tourism sector.",Boolean
+occpatn_cook_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""chef/cook"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_manager_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel manager"" before COVID-19 in the tourism sector.",Boolean
+occpatn_hotel_staff_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""hotel staff"" before COVID-19 in the tourism sector.",Boolean
+occpatn_waiter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""waiter"" before COVID-19 in the tourism sector.",Boolean
+occpatn_bartender_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""bartender"" before COVID-19 in the tourism sector.",Boolean
+occpatn_porter_pre_covid,"Flag variable that indicates whether the main occupation of the respondent was ""porter"" before COVID-19 in the tourism sector.",Boolean
+other_occpatn_pre_covid,Flag variable that indicates whether the respondent had any other main occupation before COVID-19 in the tourism sector.,Boolean
+had_frml_employment_contract_pre_covid,Did you have a formal employment contract with your employer while working in the tourism sector before COVID-19?,Boolean
+had_pan_pre_covid,Did you have a PAN(Personal Account Number) number before COVID-19?,Boolean
+wrk_type_seasonal_pre_covid,"Flag variable that indicates whether the respondent employment type was ""seasonal work"".",Boolean
+wrk_type_daily_wages_pre_covid,"Flag variable that indicates whether the respondent employment type was ""daily wages"".",Boolean
+wrk_type_monthly_salary_pre_covid,"Flag variable that indicates whether the respondent employment type was ""monthly salary"".",Boolean
+other_wrk_type_pre_covid,Flag variable that indicates whether the respondent employment was any other type.,Boolean
+sesonal_work_period,"On average, how many months (in a year) did you used to work in the tourism sector?",Categorical
+trsm_major_work_district,Text variable that contains name of districts where respondent does major tourism work.,Text
+prsnt_job_status,Are you still working in the tourism sector?,Categorical
+had_to_change_job_in_trsm,Did you have to change your profession within the tourism sector?,Boolean
+job_in_trsm_changed_to_shopkeeper,"Flag variable that indicates whether the current main occupation of the respondent is ""shopkeeper"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_tour_guide,"Flag variable that indicates whether the current main occupation of the respondent is ""tour guide"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_trekking_guide,"Flag variable that indicates whether the current main occupation of the respondent is ""trekking guide"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_rafting_guide,"Flag variable that indicates whether the current main occupation of the respondent is ""rafting guide"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_mountain_guide,"Flag variable that indicates whether the current main occupation of the respondent is ""mountain guide"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_driver,"Flag variable that indicates whether the current main occupation of the respondent is ""driver"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_travel_agent,"Flag variable that indicates whether the current main occupation of the respondent is ""travel agent"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_flight_attendent,"Flag variable that indicates whether the current main occupation of the respondent is ""flight attendant"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_pilot,"Flag variable that indicates whether the current main occupation of the respondent is ""pilot"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_cook,"Flag variable that indicates whether the current main occupation of the respondent is ""chef/cook"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_hotel_manager,"Flag variable that indicates whether the current main occupation of the respondent is ""hotel manager"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_hotel_staff,"Flag variable that indicates whether the current main occupation of the respondent is ""hotel staff"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_waiter,"Flag variable that indicates whether the current main occupation of the respondent is ""waiter"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_bartender,"Flag variable that indicates whether the current main occupation of the respondent is ""bartender"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_porter,"Flag variable that indicates whether the current main occupation of the respondent is ""porter"" in the tourism sector.",Boolean
+job_in_trsm_changed_to_other,Flag variable that indicates whether the respondent currently has any other main occupation in the tourism sector.,Boolean
+had_to_change_employer_in_trsm,Did you have to change the employer in the tourism sector?,Boolean
+has_frml_employment_contract_current_trsm_job,Have you signed a written contract for current employment?,Boolean
+have_to_pay_tax_current_trsm_job,Do you have to pay taxes on your income in your current employment?,Boolean
+additional_occpatn_agriculture_animal_husbandry,"Flag variable that indicates whether the respondent is also working on ""agriculture and animal husbandry "" sector.",Boolean
+additional_occpatn_daily_wages,"Flag variable that indicates whether the respondent is also working on ""daily wages"" sector.",Boolean
+additional_occpatn_business_occupation,"Flag variable that indicates whether the respondent is also working on ""Business / Occupation "" sector.",Boolean
+additional_occpatn_job_estate,"Flag variable that indicates whether the respondent is also working on ""Job / estate"" sector.",Boolean
+additional_occpatn_professional_work,"Flag variable that indicates whether the respondent is also working on ""Professional work (journalist, lawyer, consultant, contractor, priest, etc.)"" sector.",Boolean
+additional_occpatn_other,Flag variable that indicates whether the respondent is also working on any other sectors.,Boolean
+also_had_to_change_additional_trsm_job,Did you have to change your tourism-related occupation?,Boolean
+additional_trsm_job_changed_to_shopkeeper,"Flag variable that indicates whether the current main occupation of the respondent is ""shopkeeper"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_tour_guide,"Flag variable that indicates whether the current main occupation of the respondent is ""tour guide"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_trekking_gude,"Flag variable that indicates whether the current main occupation of the respondent is ""trekking guide"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_rafting_guide,"Flag variable that indicates whether the current main occupation of the respondent is ""rafting guide"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_mountain_guide,"Flag variable that indicates whether the current main occupation of the respondent is ""mountain guide"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_driver,"Flag variable that indicates whether the current main occupation of the respondent is ""driver"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_travel_agent,"Flag variable that indicates whether the current main occupation of the respondent is ""travel agent"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_flight_attendant,"Flag variable that indicates whether the current main occupation of the respondent is ""flight attendant"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_pilot,"Flag variable that indicates whether the current main occupation of the respondent is ""pilot"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_cook,"Flag variable that indicates whether the current main occupation of the respondent is ""chef/cook"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_hotel_manager,"Flag variable that indicates whether the current main occupation of the respondent is ""hotel manager"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_hotel_staff,"Flag variable that indicates whether the current main occupation of the respondent is ""hotel staff"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_waiter,"Flag variable that indicates whether the current main occupation of the respondent is ""waiter"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_bartender,"Flag variable that indicates whether the current main occupation of the respondent is ""bartender"" in the tourism sector.",Boolean
+additionald_trsm_job_changed_to_porter,"Flag variable that indicates whether the current main occupation of the respondent is ""porter"" in the tourism sector.",Boolean
+additional_trsm_job_changed_to_other,Flag variable that indicates whether the respondent currently has any other main occupation in the tourism sector.,Boolean
+had_to_change_employer_add_trsm_job,Did you have to change the employer in the tourism sector?,Boolean
+has_frml_employment_contract_current_add_trsm_job,Do you have a formal employment contract in your current job/occupation?,Boolean
+have_to_pay_tax_current_add_trsm_job,Do you have to pay taxes to the state for your current employment in the tourism sector?,Boolean
+left_trsm_havent_got_new_job,"Flag variable that indicates whether respondent ""didn't get a new job"" after leaving tourism sector",Boolean
+left_trsm_working_on_agriculture_animal_husbandry,"Flag variable that indicates whether respondent started working on ""agriculture and animal husbandry"" after leaving tourism sector",Boolean
+left_trsm_working_on_daily_wages,"Flag variable that indicates whether respondent started working on ""daily wages"" after leaving tourism sector.",Boolean
+left_trsm_working_on_busniess_occupation,"Flag variable that indicates whether respondent started working on ""business / occupation"" after leaving tourism sector.",Boolean
+left_trsm_working_on_job_estate,"Flag variable that indicates whether respondent started working on ""Job / estate "" after leaving tourism sector.",Boolean
+left_trsm_working_on_professional_job,"Flag variable that indicates whether respondent started working on ""professional work (journalist, lawyer, consultant, contractor, priest, etc.)"" after leaving tourism sector.",Boolean
+left_trsm_working_on_other_sector,"Flag variable that indicates whether respondent started working on ""any other sector"" after leaving tourism sector.",Boolean
+self_had_to_migrate_to_different_location,"Due to COVID-19, did you have to migrate to a different location?",Categorical
+duration_self_temporary_migration,For how long did you have to migrate to this location?,Categorcal
+self_migrated_to_district,Which district have you migrated to?,Text
+family_had_to_migrate_to_different_location,"Due to COVID-19, did your family have to migrate to a different location?",Categorical
+family_migrated_to_district,"In which district is your family staying now, i.e. where have they migrated to?",Text
+covid_infectn_self,Have you ever been infected by COVID-19?,Boolean
+covid_infectn_self_time,When did you contract COVID-19?,Categorical
+covid_infectn_family,Have any other family members been infected by COVID-19?,Boolean
+lost_job_due_covid,"Flag variable that indicates whether respondent ""lost job"" due to COVID-19 pandemic.",Boolean
+lost_employment_due_covid,"Flag variable that indicates whether respondent ""lost self-employment"" due to COVID-19 pandemic.",Boolean
+took_low_esteem_job_due_covid,"Flag variable that indicates whether respondent ""took up uninterested job (low self-esteem job)"" due to COVID-19 pandemic.",Boolean
+worked_on_reduced_salary_due_covid,"Flag variable that indicates whether respondent "" had to work on reduced salary "" due to COVID-19 pandemic.",Boolean
+worrked_on_rotational_employment_due_covid,"Flag variable that indicates whether respondent ""had to work on rotational employment"" due to COVID-19 pandemic.",Boolean
+could_not_renew_licence_permit_due_covid,"Flag variable that indicates whether respondent ""couldn't renew licenses or permits"" due to COVID-19 pandemic.",Boolean
+suffered_other_impact_due_covid,"Other Flag variable that indicates whether respondent ""suffer any other impact"" due to economic downturn brought by COVID-19 pandemic.",Boolean
+did_not_suffer_impact_due_covid,"Flag variable that indicates if the respondent ""didn't suffer any impact"" due to economic downturn brought by COVID-19 pandemic.",Boolean
+full_salary_last_date,When was the last time you received your full salary (or full income)?,Categorical
+took_loan_financial_instutions_due_covid,"Flag variable that indicates whether respondent ""had to take loan from financial institutions"" due to COVID-19 pandemic.",Boolean
+took_loan_friends_family_due_covid,"Flag variable that indicates whether respondent ""had to take loan from friends and family"" due to COVID-19 pandemic.",Boolean
+stopped_family_education_due_covid,"Flag variable that indicates whether respondent ""stopped education of a family member "" due to COVID-19 pandemic.",Boolean
+stopped_family_health_services_due_covid,"Flag variable that indicates whether respondent ""had to stop health services for family members"" due to COVID-19 pandemic.",Boolean
+sold_personal_assets_due_covid,"Flag variable that indicates whether respondent ""had to sell personal assets"" due to COVID-19 pandemic.",Boolean
+sold_professional_assets_due_covid,"Flag variable that indicates whether respondent ""had to sell professional assets, gears, equipments (camera, etc.)"" due to COVID-19 pandemic.",Boolean
+sold_land_property_due_covid,"Flag variable that indicates whether respondent ""had to sell land or property"" due to COVID-19 pandemic.",Boolean
+suffered_other_econ_impact_due_covid,"Flag variable that indicates whether respondent ""had to suffer any other impact"" due to COVID-19 pandemic.",Boolean
+did_not_suffer_econ_impact_due_covid,"Flag variable that indicates whether respondent ""did not suffer any impact"" due to COVID-19 pandemic.",Boolean
+self_incm_chng_2020_v_2019,How did your total income change in 2020 compared to 2019?,Categorical
+thought_hard_about_covid_effects,Do you have to try hard (force yourself) not to think about the effects of COVID-19 on your livelihood?,Boolean
+felt_alert_frightened_due_covid_effects,"Do you find yourself being unnaturally alert, frightened or terrified thinking about the effects of COVID-19 on your livelihood?",Boolean
+felt_isolated_from_people_environment,"Do you feel isolated from the people, activities and environment around you?",Boolean
+had_bad_dreams_about_covid_effects,Do you have bad dreams (or find yourself worrying unwillingly) about the ill effects of COVID-19?,Boolean
+blamed_self_others_for_hardships_due_covid,"For the hardships caused by COVID-19, do you often find yourself blaming others or yourself?",Boolean
+felt_increased_social_pressure_due_covid,Have you felt that family or social pressure has increased due to COVID-19?,Boolean
+felt_animosity_within_family_due_covid,Has COVID-19 caused animosity or strife among your family members?,Boolean
+took_mental_health_counselling_due_covid,Have you taken any kind of health counseling service for the mental stress brought by COVID-19?,Boolean

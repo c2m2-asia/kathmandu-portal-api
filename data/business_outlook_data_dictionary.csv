@@ -1,0 +1,82 @@
+Name,Description,Type
+id,An identifier variable that uniquely identifies each response,Text
+submission_date,Timestamp that determines when the data was received,Timestamp
+business_dist,District of residence of the business,Text
+business_type,Type of business,Categorical
+business_yrs_in_operation,How long business has been in operation for?,Categorical
+how_lng_covid_dsrupt_last,How much longer do you expect the disruption due to COVID-19 to last?,Categorical
+revenue_gen_21_v_19,"Compared to 2019, how much revenues does your business expect to earn in 2021?",Categorical
+wrkfrc_size_chng_21_v_19,"Compared to 2019, what percentage of workforce will your business employ in 2021?",Categorical
+rcvry_diffclty_winning_tourist_confidence,Flag variable that indicates whether the respondent thinks that winning the confidence of tourists and guests in the context of COVID-19 will be one of their biggest difficulties in 2021.,Boolean
+rcvry_diffclty_understanding_source_markets,Flag variable that indicates whether the respondent thinks that understanding and meeting the demands of source markets (source markets are foreign or domestic places from where the tourists arrive) will be one of their biggest difficulties in 2021.,Boolean
+rcvry_diffclty_ensuring_tourist_health_saftey,Flag variable that indicates whether the respondent thinks that ensuring health and safety measures for the guests and tourists will be one of their biggest difficulties in 2021.,Boolean
+rcvry_diffclty_ensuring_workers_health_saftey,Flag variable that indicates whether the respondent thinks that ensuring health and safety measures for the workforce will be one of their biggest difficulties in 2021.,Boolean
+rcvry_diffclty_goods_shortage,"Flag variable that indicates whether the respondent thinks that shortage of goods, supplies / input materials will be one of their biggest difficulties in 2021.",Boolean
+rcvry_diffclty_human_resource_shortage,Flag variable that indicates whether the respondent thinks that shortage of human resource will be one of their biggest difficulties in 2021.,Boolean
+rcvry_diffclty_cash_flow_shortage,Flag variable that indicates whether the respondent thinks that shortage of cash flow will be one of their biggest difficulties in 2021.,Boolean
+rcvry_diffclty_additional_fund_shortage,Flag variable that indicates whether the respondent thinks that shortage of additional loans or funds will be one of their biggest difficulties in 2021.,Boolean
+other_rcvry_diffclty,Flag variable that indicates whether the respondent thinks any other issues will be one of their biggest difficulties in 2021.,Boolean
+most_significant_rcvry_difficulty,We also asked businesses to rank order their choices for the above multi-select question. This column captures what each respondent chose as their first option.,Categorical
+biggest_support_rcvry,Who do you think will be the biggest support for your business in 2021?,Categorical
+perm_stopped_not_started_new_business,Flag variable that indicates whether the respondent haven't started any other businesses.,Boolean
+perm_stopped_started_new_trsm_business,Flag variable that indicates whether the respondent have started a new business in the tourism sector,Boolean
+perm_stopped_started_new_non_trsm_business,Flag variable that indicates whether the respondent have started a new business in a non-tourism sector.,Boolean
+perm_stopped_will_retrn_to_trsm_business,Do you intend to return to the tourism business in the future?,Boolean
+perm_stopped_started_hotel_accommodation_business,"Flag variable that indicates whether the respondent has started new tourism business in "" Hotel and accommodation"" sub-sector",Boolean
+perm_stopped_started_restaurant_bar_business,"Flag variable that indicates whether the respondent has started new tourism business in "" Restaurant and Bar"" sub-sector",Boolean
+perm_stopped_started_travel_tours_business,"Flag variable that indicates whether the respondent has started new tourism business in ""Travel and Tours"" sub-sector",Boolean
+perm_stopped_started_trekking_mountaineering_business,"Flag variable that indicates whether the respondent has started new tourism business in "" Trekking or Mountaineering"" sub-sector",Boolean
+perm_stopped_started_adventure_sports_business,"Flag variable that indicates whether the respondent has started new tourism business in ""Adventure Sports"" sub-sector",Boolean
+perm_stopped_started_other_trsm_business,Flag variable that indicates whether the respondent has started new tourism business in any other sub-sector,Boolean
+perm_stopped_started_accountancy_finance_business,"Flag variable that indicates whether the respondent has started new business in ""Accountancy, banking, finance"" sector.",Boolean
+perm_stopped_started_consulting_management_business,"Flag variable that indicates whether the respondent has started new business in ""Business, consulting and management"" sector.",Boolean
+perm_stopped_started_charity_voluntary_business,"Flag variable that indicates whether the respondent has started new business in ""Charity and voluntary works"" sector.",Boolean
+perm_stopped_started_art_design_business,"Flag variable that indicates whether the respondent has started new business in ""Creative arts and design""sector.",Boolean
+perm_stopped_started_energy_utillities_business,"Flag variable that indicates whether the respondent has started new business in ""Energy and utilities"" sector.",Boolean
+perm_stopped_started_engineering_manufacturing_business,"Flag variable that indicates whether the respondent has started new business in ""Engineering and manufacturing"" sector.",Boolean
+perm_stopped_started_environment_agriculture_business,"Flag variable that indicates whether the respondent has started new business in ""Environment and agriculture"" sector.",Boolean
+perm_stopped_started_healthcare_business,"Flag variable that indicates whether the respondent has started new business in""Healthcare"" sector.",Boolean
+perm_stopped_started_information_technology_business,"Flag variable that indicates whether the respondent has started new business in ""Information Technology"" sector.",Boolean
+perm_stopped_started_law_business,"Flag variable that indicates whether the respondent has started new business in ""Law "".",Boolean
+perm_stopped_started_marketing_pr_business,"Flag variable that indicates whether the respondent has started new business in ""Marketing, advertising and Public Relations"" sector.",Boolean
+perm_stopped_started_internet_media_business,"Flag variable that indicates whether the respondent has started new business in ""Media and Internet"" sector.",Boolean
+perm_stopped_started_construction_property_business,"Flag variable that indicates whether the respondent has started new business in ""Property and construction"" sector.",Boolean
+perm_stopped_started_public_services_business,"Flag variable that indicates whether the respondent has started new business in ""Public services and administration"" sector.",Boolean
+perm_stopped_started_retail_sales_business,"Flag variable that indicates whether the respondent has started new business in ""retail and sales"" sector.",Boolean
+perm_stopped_started_teaching_business,"Flag variable that indicates whether the respondent has started new business in ""Teaching/Education "" sector.",Boolean
+perm_stopped_started_logistics_transport_business,"Flag variable that indicates whether the respondent has started new business in ""Transport and logistics"" sector.",Boolean
+perm_stopped_started_other_non_tourism_business,Flag variable that indicates whether the respondent has started new business in any other sector.,Boolean
+perm_stopped_started_new_job,Have you started a new job?,Categorical
+perm_stopped_started_shopkeeper_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""shopkeeper""",Boolean
+perm_stopped_started_tour_guide_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""tour guide""",Boolean
+perm_stopped_started_trekking_guide_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""trekking guide""",Boolean
+perm_stopped_started_rafting_guide_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""rafting guide """,Boolean
+perm_stopped_started_mountain_guide_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""mountain guide """,Boolean
+perm_stopped_started_driver_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""driver""",Boolean
+perm_stopped_started_travel_agent_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""travel agent""",Boolean
+perm_stopped_started_flight_attendant_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""flight attendant""",Boolean
+perm_stopped_started_pilot_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""pilot""",Boolean
+perm_stopped_started_chef_cook_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""chef/cook""",Boolean
+perm_stopped_started_hotel_manager_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""hotel manager""",Boolean
+perm_stopped_started_hotel_staff_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""hotel staff""",Boolean
+perm_stopped_started_waiter_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""waiter""",Boolean
+perm_stopped_started_bartender_job,"Flag variable that indicates whether the respondent has started new tourism job as a ""bartender""",Boolean
+perm_stopped_started_other_tourism_job,Flag variable that indicates whether the respondent has started new tourism job in any other position.,Boolean
+perm_stopped_started_accountancy_finance_job,"Flag variable that indicates whether the respondent has started new job in ""Accountancy, banking, finance"" sector.",Boolean
+perm_stopped_started_consulting_management_job,"Flag variable that indicates whether the respondent has started new job in ""Business, consulting and management"" sector.",Boolean
+perm_stopped_started_charity_voluntary_job,"Flag variable that indicates whether the respondent has started new job in ""Charity and voluntary works"" sector.",Boolean
+perm_stopped_started_art_design_job,"Flag variable that indicates whether the respondent has started new job in ""Creative arts and design""sector.",Boolean
+perm_stopped_started_energy_utillities_job,"Flag variable that indicates whether the respondent has started new job in ""Energy and utilities"" sector.",Boolean
+perm_stopped_started_engineering_manufacturing_job,"Flag variable that indicates whether the respondent has started new job in ""Engineering and manufacturing"" sector.",Boolean
+perm_stopped_started_environment_agriculture_job,"Flag variable that indicates whether the respondent has started new job in ""Environment and agriculture"" sector.",Boolean
+perm_stopped_started_healthcare_job,"Flag variable that indicates whether the respondent has started new job in""Healthcare"" sector.",Boolean
+perm_stopped_started_information_technology_job,"Flag variable that indicates whether the respondent has started new job in ""Information Technology"" sector.",Boolean
+perm_stopped_started_law_job,"Flag variable that indicates whether the respondent has started new job in ""Law ""sector.",Boolean
+perm_stopped_started_marketing_pr_job,"Flag variable that indicates whether the respondent has started new job in ""Marketing, advertising and Public Relations"" sector.",Boolean
+perm_stopped_started_internet_media_job,"Flag variable that indicates whether the respondent has started new job in ""Media and Internet"" sector.",Boolean
+perm_stopped_started_construction_property_job,"Flag variable that indicates whether the respondent has started new job in ""Property and construction"" sector.",Boolean
+perm_stopped_started_public_services_job,"Flag variable that indicates whether the respondent has started new job in ""Public services and administration"" sector.",Boolean
+perm_stopped_started_sales_retail_job,"Flag variable that indicates whether the respondent has started new job in ""retail and sales"" sector.",Boolean
+perm_stopped_started_teaching_job,"Flag variable that indicates whether the respondent has started new job in ""Teaching/Education "" sector.",Boolean
+perm_stopped_started_logistics_transport_job,"Flag variable that indicates whether the respondent has started new job in ""Transport and logistics"" sector.",Boolean
+perm_stopped_started_other_non_trsm_job,Flag variable that indicates whether the respondent has started new job in any other sector.,Boolean

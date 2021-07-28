@@ -3,7 +3,7 @@ version: "3"
 services: 
     api:
         container_name: c2m2-ktm-api
-        image: "ghcr.io/samyoga/c2m2-asia/kathmandu-portal-api/dev:v1.25.07.2021"
+        image: "ghcr.io/samyoga/c2m2-asia/kathmandu-portal-api/dev:v1.28.07.2021"
         command: bash -c "dockerize -wait tcp://apidb:5432 -timeout 10s && python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
         env_file: 
             - ./.env
