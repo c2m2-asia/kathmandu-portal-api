@@ -1,11 +1,11 @@
 variable,group,highlights_en,highlights_ne
-i_econ_stop_business,impact,"Around 95% businesses shut down, among them 17% will never open again","लगभग 95% व्यवसायहरू बन्द भए, ती मध्ये 17% फेरि कहिले पनि खुल्दैन"
-i_wrkfrc_size_chng_2020_v_2019,impact,Around 65% of the businesses has layed off more than three quarters of employees,65% व्यवसायहरूले तीन तिहाइ कर्मचारीहरु भन्दा बढी बन्द राखेका छन्
-i_fin_revenue_chng_2020_v_2019,impact,Revenue generation has completely stopped for 63% of businesses,धेरै जसो ब्यापारका लागि राजस्व शून्य छ
-p_hlth_hhs_measures,preparedness,More than 95% businesses has implemented some sort of health and sanitation measures,स्वास्थ्य र सरसफाइको कार्यान्वयन उपायहरू
-p_hlth_safety_measures,preparedness,More than 95% businesses has implemented some sort of saftey measures for workers,कामदारहरूको लागि सुरक्षा उपायहरू कार्यान्वयन
-o_expectd_problms_next_6_mnths,need,Around 70% couldn't even cover operating costs in the next six months,अधिक प्रेसिंग आवश्यकताहरू जसलाई व्यवसायले रिपोर्ट गरेको रूपमा सहयोग आवश्यक पर्दछ
-o_do_u_know_of_gov_schemes,need,"Only 8% used government recovery schemes, 54% didn't even heard about them","सरकारले रिकभरी योजनाहरू शुरू गर्‍यो, तर पहुँचबाट बाहिरै रह्यो"
-o_econ_impact_revenue_chng_21_v_19,outlook,Very low expectations on revenue generation,राजस्व उत्पादनमा धेरै कम आशा
-o_econ_impact_wrkfrc_chng_21_v_19,outlook,Most of the jobs will not be reopened any time soon,धेरै जसो कामहरू कुनै पनि समयमा चाँडै फेरि खोल्ने छैन
-o_rcvry_biggest_diffclties,outlook,There will still be major challenges to be solved even after the business resumes,व्यापार पुन: शुरू भए पछाडि समाधान हुन अझै ठूला चुनौतीहरू छन्
+i_econ_stop_business,impact,17% of tourism businesses has been permanently shut down during the pandemic., १७% पर्यटन व्यवसाय हरू स्थायी रूपमा बन्द भएका छन्।
+i_wrkfrc_size_chng_2020_v_2019,impact,66% of the businesses layed off more than three quarters of employees.,६६% व्यवसायीहरूले तीन चौथाइभन्दा बढी कर्मचारीहरूलाई छुट्टयाए।
+i_fin_revenue_chng_2020_v_2019,impact,63% of businesses had their revenue stopped completely., ६३% व्यापारीहरूको राजस्व पूर्ण रुपमा रोकिएको थियो ।
+p_hlth_hhs_measures,preparedness,More than 95% businesses has implemented some sort of health and sanitation measures.,९५% भन्दा बढी व्यवसायीहरुले कुनै न कुनै प्रकारको स्वास्थ्य तथा सरसफाईका उपायहरु लागू गरेका छन् ।
+p_hlth_safety_measures,preparedness,More than 95% businesses has implemented some sort of safety measures for workers.,९५% भन्दा बढी व्यवसायीहरूले कामदारहरूका लागि कुनै न कुनै प्रकारको सुरक्षा उपायहरू लागू गरेका छन्।
+o_expectd_problms_next_6_mnths,need,70% businesses believe that they will have difficulty in covering the operating costs in the next six months.,७०% व्यवसायीले आगामी छ महिनामा सञ्चालन खर्च व्यहोर्ने काममा कठिनाइ हुने विश्वास गरेका छन् ।
+o_do_u_know_of_gov_schemes,need,54% of businesses were not aware about the  government schemes.,५४% व्यवसायीहरूलाई सरकारी योजनाहरूबारे थाह थिएन।
+o_econ_impact_revenue_chng_21_v_19,outlook,44% of businesses believe that compared to 2019 revenue generation will be negligible as an effect of Covid-19.,४४% व्यवसायीहरूको विचारमा सन् २०१९ को राजस्व उत्पादनको तुलनामा कोभिड-१९ का कारण नगण्य हुनेछ।  
+o_econ_impact_wrkfrc_chng_21_v_19,outlook,34% of businesses anticipate that workforce size will be less than three quarters of the size compared to 2019.,३४% व्यवसायीहरूले सन् २०१९ को तुलनामा कर्मचारीको साइज तीन चौथाई भन्दा कम हुने अनुमान गरेका छन्।
+o_rcvry_biggest_diffclties,outlook,71% of businesses assume that winning the confidence of tourists and guests would be the major challenge even after businesses resume.,७१% व्यवसायीले पुनः व्यवसाय सन्चालन भएपछि पनि पर्यटक र पाहुनाको विश्वास जित्नु नै प्रमुख चुनौती हुने अनुमान गरेका छन् ।

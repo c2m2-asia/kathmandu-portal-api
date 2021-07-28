@@ -267,6 +267,7 @@ def extract_all(dict1):
                     if i[0] != 'ylabel_en'and i[0] != 'ylabel_ne':
                         dict_1[i[0]] = [x for x in i[1].values()][index]
                 sub_list.append(dict_1)
+            print('sub list', sub_list)
             new_dict['dist'] = ques_split(sub_list)
             final_list.append(new_dict)
         return final_list
