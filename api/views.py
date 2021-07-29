@@ -402,11 +402,11 @@ class DownloadIndvChartData(viewsets.ViewSet):
         var_group = request.GET.get('var_group')
         variable = request.GET.get('variable')
 
-        zip_filename = 'export_' + type_query + '_' + variable + '.zip'
-
-        response = HttpResponse(content_type='text/csv')
-        response['Content-Disposition'] = 'attachment; filename=%s' % zip_filename
-        writer = csv.writer(response)
+        csv_filename = 'export_' + type_query + '_' + variable
+        
+        response_csv = HttpResponse()
+        response_csv['Content-Disposition'] = 'attachment; filename=%s.csv' %csv_filename
+        writer = csv.writer(response_csv)
 
         if type_query == 'univariate':
             if survey == 'business':
@@ -484,6 +484,20 @@ class DownloadIndvChartData(viewsets.ViewSet):
                     for obj in workers_univariate_stats:
                         row = writer.writerow([getattr(obj, field) for field in field_names])
 
-        return response
+        # zip_filename = 'export_' + type_query + '_' + variable + '.zip'
+
+        # s = io.BytesIO()
+        # zf = zipfile.ZipFile(s, "w")
+        # zf.writestr(response_csv, s.getvalue())
+        # # fdir, fname = os.path.split(response_csv)
+        # # zip_path = os.path.join(zip_dir, fname)
+
+        # # zf.write(response_csv, zip_path)
+        # zf.close()
+
+        # response_zip = HttpResponse(s.getvalue(), content_type = "application/x-zip-compressed")
+        # response_zip['Content-Disposition'] = 'attachment; filename=%s' % zip_filename
+
+        return response_csv
      
     
