@@ -150,7 +150,7 @@ class BivariateViewSet(viewsets.ViewSet):
 
             bivariate[data['yvariable']].append(d_labels)
             bivariate_filter[data['yvariable']] = filter(None, bivariate[data['yvariable']])
-
+        
         computed_data = extract_all(bivariate_filter)
                
         bivariate_final = merge_dict(label_split(computed_data), title_response)
@@ -239,9 +239,11 @@ def extract_all(dict1):
     
     def extract_total(dict2):
         keys = dict2.keys()
-        for key in keys:
+        for key in keys:  
             df = pd.DataFrame(dict2[key])
-            df = df.astype({'total': 'int32', 'percoftotal':'float32'})
+            print(df['total'])
+            df['total'] = df['total'].astype('int')
+            df['percoftotal'] = df['percoftotal'].astype('float')
             total_df = pd.DataFrame(df.groupby(['ylabel_en', 'ylabel_ne'])[['total', 'percoftotal']].sum()).reset_index()
             total_df['dist'] = total_df['ylabel_en'].apply(func=lambda x: df[df['ylabel_en']==x].to_dict())
             return total_df
@@ -267,20 +269,35 @@ def extract_all(dict1):
                     if i[0] != 'ylabel_en'and i[0] != 'ylabel_ne':
                         dict_1[i[0]] = [x for x in i[1].values()][index]
                 sub_list.append(dict_1)
-            print('sub list', sub_list)
             new_dict['dist'] = ques_split(sub_list)
             final_list.append(new_dict)
         return final_list
         
     final_data = {}
-    for key in dict1.keys():
+    final_list = []
+    for key1 in dict1.keys():
         dict3 = {}
-        dict3[key] = dict1[key]
+        dict3[key1] = dict1[key1]
         final_dict =  extract_total(dict2=dict3)
         new_list = split_dict(final_dict)
         final_list = prepare_dict(new_list)
-        final_data[key] = final_list
+        # sorted_list = sortdict(dictvalue=dict1)
+        # for x in range(1, len(sorted_list)):
+            # print(x)
+            # if x["ylabel_en"] not in sorted_list:
+            #     final_list = prepare_dict(new_list)
+            # final_list.sort(sorted_list.index(x["ylabel_en"]))
+        final_data[key1] = final_list
+
     return final_data
+
+def sortdict(dictvalue):
+    sorted_list = []    
+    for k,v in dictvalue.items():
+        for dictvalue in v:
+            if dictvalue["ylabel_en"] not in sorted_list:
+                sorted_list.append(dictvalue["ylabel_en"])
+    return sorted_list
 
 def make_json(csvFilePath):
 
@@ -390,8 +407,6 @@ class DownloadBulkData(viewsets.ViewSet):
 
         return response
 
-        # return Response({'message': 'Successfully fetched', 'code': 200, 'data': zip_filename })
-
 
 class DownloadIndvChartData(viewsets.ViewSet):
     def list(Self, request):
@@ -483,20 +498,6 @@ class DownloadIndvChartData(viewsets.ViewSet):
 
                     for obj in workers_univariate_stats:
                         row = writer.writerow([getattr(obj, field) for field in field_names])
-
-        # zip_filename = 'export_' + type_query + '_' + variable + '.zip'
-
-        # s = io.BytesIO()
-        # zf = zipfile.ZipFile(s, "w")
-        # zf.writestr(response_csv, s.getvalue())
-        # # fdir, fname = os.path.split(response_csv)
-        # # zip_path = os.path.join(zip_dir, fname)
-
-        # # zf.write(response_csv, zip_path)
-        # zf.close()
-
-        # response_zip = HttpResponse(s.getvalue(), content_type = "application/x-zip-compressed")
-        # response_zip['Content-Disposition'] = 'attachment; filename=%s' % zip_filename
 
         return response_csv
      

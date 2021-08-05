@@ -1,11 +1,11 @@
-variable,group,highlights_en,highlights_ne
-i_econ_stop_business,impact,17% of tourism businesses has been permanently shut down during the pandemic., १७% पर्यटन व्यवसाय हरू स्थायी रूपमा बन्द भएका छन्।
-i_wrkfrc_size_chng_2020_v_2019,impact,66% of the businesses layed off more than three quarters of employees.,६६% व्यवसायीहरूले तीन चौथाइभन्दा बढी कर्मचारीहरूलाई छुट्टयाए।
-i_fin_revenue_chng_2020_v_2019,impact,63% of businesses had their revenue stopped completely., ६३% व्यापारीहरूको राजस्व पूर्ण रुपमा रोकिएको थियो ।
-p_hlth_hhs_measures,preparedness,More than 95% businesses has implemented some sort of health and sanitation measures.,९५% भन्दा बढी व्यवसायीहरुले कुनै न कुनै प्रकारको स्वास्थ्य तथा सरसफाईका उपायहरु लागू गरेका छन् ।
-p_hlth_safety_measures,preparedness,More than 95% businesses has implemented some sort of safety measures for workers.,९५% भन्दा बढी व्यवसायीहरूले कामदारहरूका लागि कुनै न कुनै प्रकारको सुरक्षा उपायहरू लागू गरेका छन्।
-o_expectd_problms_next_6_mnths,need,70% businesses believe that they will have difficulty in covering the operating costs in the next six months.,७०% व्यवसायीले आगामी छ महिनामा सञ्चालन खर्च व्यहोर्ने काममा कठिनाइ हुने विश्वास गरेका छन् ।
-o_do_u_know_of_gov_schemes,need,54% of businesses were not aware about the  government schemes.,५४% व्यवसायीहरूलाई सरकारी योजनाहरूबारे थाह थिएन।
-o_econ_impact_revenue_chng_21_v_19,outlook,44% of businesses believe that compared to 2019 revenue generation will be negligible as an effect of Covid-19.,४४% व्यवसायीहरूको विचारमा सन् २०१९ को राजस्व उत्पादनको तुलनामा कोभिड-१९ का कारण नगण्य हुनेछ।  
-o_econ_impact_wrkfrc_chng_21_v_19,outlook,34% of businesses anticipate that workforce size will be less than three quarters of the size compared to 2019.,३४% व्यवसायीहरूले सन् २०१९ को तुलनामा कर्मचारीको साइज तीन चौथाई भन्दा कम हुने अनुमान गरेका छन्।
-o_rcvry_biggest_diffclties,outlook,71% of businesses assume that winning the confidence of tourists and guests would be the major challenge even after businesses resume.,७१% व्यवसायीले पुनः व्यवसाय सन्चालन भएपछि पनि पर्यटक र पाहुनाको विश्वास जित्नु नै प्रमुख चुनौती हुने अनुमान गरेका छन् ।
+variable,group,highlights
+i_econ_stop_business,impact,Majority of the Businesses are Shut Down
+i_wrkfrc_size_chng_2020_v_2019,impact,Businesses are Forced to Lay off Employees
+i_fin_revenue_chng_2020_v_2019,impact,Revenue has been Hit Hard
+p_hlth_hhs_measures,preparedness,Businesses have Prioritized Health and Sanitation Measures
+p_hlth_safety_measures,preparedness,Employees' Safety: A Major Priority for Businesses
+o_expectd_problms_next_6_mnths,need,Operating Costs are Hard to Cover for Businesses
+o_do_u_know_of_gov_schemes,need,Businsses are Unaware of Government Schemes
+o_econ_impact_revenue_chng_21_v_19,outlook,Revenue Expected to Decrease Significantly for Businesses
+o_econ_impact_wrkfrc_chng_21_v_19,outlook,Bussinesses Fear Losing Workforce
+o_rcvry_biggest_diffclties,outlook,Winning Confidence of Tourists Remains a Major Challenge for Businesses
