@@ -258,7 +258,6 @@ def extract_all(dict1):
         return new_list
 
     def prepare_dict(new_list):
-       
         final_list = []
         for dicts in new_list:
             sub_list = []
@@ -300,7 +299,6 @@ def sortdict(dictvalue):
     return sorted_list
 
 def make_json(csvFilePath):
-
     data = {}
     with open(csvFilePath, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
