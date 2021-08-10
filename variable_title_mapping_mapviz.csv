@@ -1,11 +1,11 @@
-variable,group,highlights_en,highlights_ne
-i_econ_stop_business,impact,Majority of the Businesses are Shut Down,अधिकांश व्यवसायी बन्द 
-i_wrkfrc_size_chng_2020_v_2019,impact,Businesses are Forced to Lay off Employees,व्यापारीहरू कर्मचारीहरूलाई जागिरबाट छुटाउन बाध्य 
-i_fin_revenue_chng_2020_v_2019,impact,Revenue has been Hit Hard,राजस्वमा प्रभाव
-p_hlth_hhs_measures,preparedness,Businesses have Prioritized Health and Sanitation Measures,व्यवसायीहरुले स्वास्थ्य तथा सरसफाई मापदण्डलाई प्राथमिकता
-p_hlth_safety_measures,preparedness,Employees' Safety: A Major Priority for Businesses,कर्मचारीको सुरक्षा : व्यवसायीलाई प्रमुख प्राथमिकता
-o_expectd_problms_next_6_mnths,need,Operating Costs are Hard to Cover for Businesses,सञ्चालन लागत व्यापारको लागि आवरण गर्न गाह्रो 
-o_do_u_know_of_gov_schemes,need,Businesses are Unaware of Government Schemes,सरकारी योजनाहरूबारे व्यापारीहरू अनभिज्ञ
-o_econ_impact_revenue_chng_21_v_19,outlook,Revenue Expected to Decrease Significantly for Businesses,व्यापारको लागि राजस्व उल्लेखनीय ढंगमा घट्ने आशा 
-o_econ_impact_wrkfrc_chng_21_v_19,outlook,Businesses Fear Losing Workforce,व्यापारीहरूलाई कार्यबल गुमाउने डर
-o_rcvry_biggest_diffclties,outlook,Winning Confidence of Tourists Remains a Major Challenge for Businesses,पर्यटकहरूको भरोसा जित्नु व्यापारको लागि एउटा प्रमुख चुनौती रहेको छ।
+variable,group,highlights_en,highlights_ne,asked_total,input_type
+i_econ_stop_business,impact,Majority of the Businesses are Shut Down,अधिकांश व्यवसायी बन्द ,"109 study of 109 businesses based in Kathmandu, Nepal",single-select
+i_wrkfrc_size_chng_2020_v_2019,impact,Businesses are Forced to Lay off Employees,व्यापारीहरू कर्मचारीहरूलाई जागिरबाट छुटाउन बाध्य ,"109 study of 109 businesses based in Kathmandu, Nepal",single-select
+i_fin_revenue_chng_2020_v_2019,impact,Revenue has been Hit Hard,राजस्वमा प्रभाव,"109 study of 109 businesses based in Kathmandu, Nepal",single-select
+p_hlth_hhs_measures,preparedness,Businesses have Prioritized Health and Sanitation Measures,व्यवसायीहरुले स्वास्थ्य तथा सरसफाई मापदण्डलाई प्राथमिकता,"109 study of 109 businesses based in Kathmandu, Nepal",multi-select
+p_hlth_safety_measures,preparedness,Employees' Safety: A Major Priority for Businesses,कर्मचारीको सुरक्षा : व्यवसायीलाई प्रमुख प्राथमिकता,"109 study of 109 businesses based in Kathmandu, Nepal",multi-select
+o_expectd_problms_next_6_mnths,need,Operating Costs are Hard to Cover for Businesses,सञ्चालन लागत व्यापारको लागि आवरण गर्न गाह्रो ,"study of 90 businesses based in Kathmandu, Nepal that aren't closed permanently",multi-select
+o_do_u_know_of_gov_schemes,need,Businesses are Unaware of Government Schemes,सरकारी योजनाहरूबारे व्यापारीहरू अनभिज्ञ,"study of 90 businesses based in Kathmandu, Nepal that aren't closed permanently",single-select
+o_econ_impact_revenue_chng_21_v_19,outlook,Revenue Expected to Decrease Significantly for Businesses,व्यापारको लागि राजस्व उल्लेखनीय ढंगमा घट्ने आशा ,"study of 90 businesses based in Kathmandu, Nepal that aren't closed permanently",single-select
+o_econ_impact_wrkfrc_chng_21_v_19,outlook,Businesses Fear Losing Workforce,व्यापारीहरूलाई कार्यबल गुमाउने डर,"study of 90 businesses based in Kathmandu, Nepal that aren't closed permanently",single-select
+o_rcvry_biggest_diffclties,outlook,Winning Confidence of Tourists Remains a Major Challenge for Businesses,पर्यटकहरूको भरोसा जित्नु व्यापारको लागि एउटा प्रमुख चुनौती रहेको छ।,"study of 90 businesses based in Kathmandu, Nepal that aren't closed permanently",multi-select
