@@ -25,7 +25,7 @@ SECRET_KEY = '(4*64uyrahx3zq-nkt4*1n7ty(x12l@&_6-bw^26g3gc#(r7dd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['178.128.59.143', 'localhost']
+ALLOWED_HOSTS = ['178.128.59.143', 'localhost', 'c2m2kathmandu.klldev.org']
 
 
 # Application definition
