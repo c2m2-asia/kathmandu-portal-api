@@ -287,7 +287,7 @@ def extract_all(dict1):
         
     final_data = {}
     # sorted_list = sortdict(dict1)
-    print(sorted_list)2
+    # print(sorted_list)
     for key in dict1.keys():
         dict3 = {}
         dict3[key] = dict1[key]
