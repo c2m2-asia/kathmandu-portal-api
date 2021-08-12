@@ -149,7 +149,7 @@ class BivariateViewSet(viewsets.ViewSet):
                 d_labels[label] = data[label]
 
             bivariate[data['yvariable']].append(d_labels)
-            bivariate_filter[data['yvariable']] = filter(None, bivariate[data['yvariable']])
+            bivariate_filter[data['yvariable']] = list(filter(None, bivariate[data['yvariable']]))
         
         computed_data = extract_all(bivariate_filter)
                
@@ -286,7 +286,7 @@ def extract_all(dict1):
         return sorted_list
         
     final_data = {}
-    # sorted_list = sortdict(dict1)
+    sorted_list = sortdict(dict1)
     # print(sorted_list)
     for key in dict1.keys():
         dict3 = {}
@@ -295,7 +295,7 @@ def extract_all(dict1):
         new_list = split_dict(final_dict)
         final_list = prepare_dict(new_list)
         
-        # final_list.sort(key=lambda x: sorted_list.index(x["ylabel_en"]))
+        final_list.sort(key=lambda x: sorted_list.index(x["ylabel_en"]))
         final_data[key] = final_list
 
     return final_data
